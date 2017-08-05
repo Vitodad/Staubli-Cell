@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sio>
+  <socketSrv>
+    <String name="name" value="RemoteCTRL" />
+    <String name="desc" value="" />
+    <Uint name="portNumber" value="33445" />
+    <Int name="endOfString" value="13" />
+    <Float name="timeOut" value="0" />
+    <Bool name="nagle" value="true" />
+  </socketSrv>
+</sio>

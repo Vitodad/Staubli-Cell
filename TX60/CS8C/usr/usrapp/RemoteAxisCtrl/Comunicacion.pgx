@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="Comunicacion" access="private" >
+    <Locals>
+      <Local name="i" type="num" xsi:type="array" size="1" />
+      <Local name="aux" type="num" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+  //while salir==false
+  //communication with the PC
+  //Waiting a message from the PC
+  nBytes=sioGet(sSockPC,g_data)
+  if (nBytes>0)
+    //A message was received
+    //Reading Identification message (8 bytes). It'll be used in the answer.
+    for i=0 to 7
+      g_message_send[i]=g_data[i]
+    endFor
+    //Reserved bytes 8, 9, 10, 11
+    //ACTION BYTE 12
+    action=g_data[12]
+    g_message_send[12]=action
+    //Bytes 13, 14 (input reserved). Output -> Status*********************
+    //Byte 15 (output error code)******************************
+    switch (action)
+      case 13
+        //NULL ACTION
+        //do not do anything.
+      break
+      case 16
+        //READ DATA
+        //Update the return data
+        //ID message already done
+        //Reserved 8, 9, 10, 11
+        //ACTION done
+        //Status
+        g_message_send[13]=n_status
+        g_message_send[14]=0
+        //Error code
+        g_message_send[15]=error_code
+        //working mode
+        g_message_send[16]=working_mode
+        //electrovalvule
+        g_message_send[17]=dioGet(Electrovalvule)
+        //digital output
+        g_message_send[18]=dioGet(dBIO_salidas)
+        //DO reserved
+        g_message_send[19]=0
+        //move inc
+        g_message_send[20]=move_inc
+        //speed
+        g_message_send[21]=speed
+        //Actual pos axis
+        pActualPos=here(tGripper,world)
+        jActualPos=herej()
+        call set_sign()
+        if (mode_mov==1 or mode_mov==2)
+          pActualPos=here(tGripper,world)
+          for i=0 to 3
+            g_message_send[22+i]=(bAnd(round(abs(pActualPos.trsf.x)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[26+i]=(bAnd(round(abs(pActualPos.trsf.y)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[30+i]=(bAnd(round(abs(pActualPos.trsf.z)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[34+i]=(bAnd(round(abs(pActualPos.trsf.rx)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[38+i]=(bAnd(round(abs(pActualPos.trsf.ry)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[42+i]=(bAnd(round(abs(pActualPos.trsf.rz)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+          endFor
+
+          //Actual pos joint
+        elseIf (mode_mov==3 or mode_mov==4)
+          jActualPos=herej()
+          for i=0 to 3
+            g_message_send[52+i]=(bAnd(round(abs(jActualPos.j1)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[56+i]=(bAnd(round(abs(jActualPos.j2)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[60+i]=(bAnd(round(abs(jActualPos.j3)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[64+i]=(bAnd(round(abs(jActualPos.j4)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[68+i]=(bAnd(round(abs(jActualPos.j5)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+            g_message_send[72+i]=(bAnd(round(abs(jActualPos.j6)*100),power(2,8*(i+1))-power(2,8*i)))/(power(2,8*i))
+          endFor
+        endIf
+
+        //************************************************************************TEMPORAL FALTA SENTIDO EN JOINT Y WORLD ************************************
+      break
+      case 17
+        //WRITE DATA
+        //check enable/disable robot motion. stop variable, byte 18
+        if (bAnd(g_data[18],1)==1 and bSTOP==true)
+          bSTOP=false
+          putln("Enabled robot movement")
+        elseIf (bAnd(g_data[18],128)==128 and bSTOP==false)
+          bSTOP=true
+          putln("Erased queue. bSTOP was set up by user.")
+        elseIf (bAnd(g_data[18],128)!=128 and bAnd(g_data[18],1)!=1)
+          error_code=1
+          put("Erased queue. Error at bSTOP input ")
+          resetMotion()
+        endIf
+
+        //check flag absolute or relative movement. bit 0 (1) byte 19
+        if (bABSOLUTE==false and bAnd(g_data[19],1)==1)
+          if (bBusy==false)
+            bABSOLUTE=true
+            putln("Configuration, ABSOLUTE SYSTEM established.")
+          else
+            error_code=5
+            put("Impossible to change system reference. Sys is busy...")
+          endIf
+        elseIf (bABSOLUTE==true and bAnd(g_data[19],1)==0)
+          if (bBusy==false)
+            putln("Configuration, RELATIVE SYSTEM established.")
+            bABSOLUTE=false
+          else
+            error_code=5
+            put("Impossible to change system reference. Sys is busy...")
+          endIf
+        elseIf ((bABSOLUTE==true and bAnd(g_data[19],1)==1) or (bABSOLUTE==false and bAnd(g_data[19],1)==0))
+          //do not change anything
+        else
+          //Case not considered
+          putln("Case not defined.")
+          error_code=13
+        endIf
+
+        //check movement config. Bits 2 and 3 ( 4 + 8)
+        working_mode=g_data[19]
+        if (bAnd(g_data[19],12)==0 and mode_mov!=1)
+          //mode 1: axis single
+          putln("Mode axis single")
+          if (mode_mov==3 or mode_mov==4)
+            //change from joint simple/multiple to axis simple
+            pdestino=jointToPoint(tGripper,world,jdestino)
+          endIf
+          mode_mov=1
+        elseIf (bAnd(g_data[19],12)==4 and mode_mov!=2)
+          //mode 2: axis multiple
+          putln("Mode axis multiple")
+          if (mode_mov==3 or mode_mov==4)
+            //change from joint simple/multiple to axis simple
+            pdestino=jointToPoint(tGripper,world,jdestino)
+          endIf
+          mode_mov=2
+        elseIf (bAnd(g_data[19],12)==8 and mode_mov!=3)
+          //mode 3: joint single
+          if (mode_mov==1 or mode_mov==2)
+            //change from joint simple/multiple to axis simple
+            pointToJoint(tGripper,jActualPos,pdestino,jdestino)
+          endIf
+          putln("Mode joint single")
+          mode_mov=3
+        elseIf (bAnd(g_data[19],12)==12 and mode_mov!=4)
+          putln("Mode joint multiple")
+          //mode 4: joint multiple
+          mode_mov=4
+        endIf
+
+        //check flags homing
+        if (bAnd(g_data[19],32)==32)
+          if (bHoming==false and bBLOQ_CTRL==false and bSTOP==false)
+            //go home flag
+            put("Erased queue due to homing instruction.")
+            resetMotion()
+            jdestino=home
+            movej(jdestino,tGripper,mNomSpeed)
+            //movej(home,tGripper,mNomSpeed)
+            bSTOP=true
+            bHoming=true
+            bBusy=true
+            n_status=32
+          else
+            error_code=5
+            putln("Couldn't make homing")
+          endIf
+        else
+          //flag gohome is not up
+        endIf
+
+        //Erase queue instruction
+        if (bAnd(g_data[19],64)==64)
+          //erase queue
+          put("Queue erased due to instruction flag.")
+          resetMotion()
+        endIf
+
+        //Sync or async movement. Can only be changed when robot is not busy.
+        if (bSync==false)
+          if (bAnd(g_data[19],128)==128 and bBusy==false)
+            bSync=true
+          elseIf (bAnd(g_data[19],128)==128)
+            error_code=5
+            putln("Couldn't change movement config")
+          endIf
+        else
+          if (bAnd(g_data[19],128)==0 and bBusy==false)
+            bSync=false
+          elseIf (bAnd(g_data[19],128)==0)
+            error_code=5
+            putln("Couldn't change movement config")
+          endIf
+        endIf
+
+        //inc
+        move_inc=g_data[20]
+        //speed
+        speed=g_data[21]
+        //read movement config. Divide per 100 to recover mm. And add sign.
+        for i=0 to 5
+          if (g_data[46+i]==0)
+            aux=1
+          else
+            aux=-1
+          endIf
+          axis_v[i]=aux*(g_data[22+4*i]+power(2,8)*g_data[22+4*i+1]+power(2,16)*g_data[22+4*i+2]+power(2,24)*g_data[22+4*i+3])/100
+        endFor
+        for i=0 to 5
+          if (g_data[76+i]==0)
+            aux=1
+          else
+            aux=-1
+          endIf
+          joint_v[i]=aux*(g_data[52+4*i]+power(2,8)*g_data[52+4*i+1]+power(2,16)*g_data[52+4*i+2]+power(2,24)*g_data[52+4*i+3])/100
+        endFor
+      break
+
+      case 18
+        //SET OUTPUT
+        if (g_data[15]>128)
+          //set off electrovalvule
+          Electrovalvule[g_data[15]-128-1]=false
+        elseIf (g_data[15]>0)
+          //set on electrovalvule
+          Electrovalvule[g_data[15]-1]=true
+        endIf
+        if (g_data[16]>128)
+          //set off digital output
+          dBIO_salidas[g_data[16]-128-1]=false
+        elseIf (g_data[16]>0)
+          dBIO_salidas[g_data[16]-1]=true
+        endIf
+      break
+
+      case 19
+        //START MOVE
+        //check axis or joint. Check sync or async.
+        //add new move
+        if (bAnd(g_data[19],16)==16 and bNewMove==false and bSTOP==false and bBLOQ_CTRL==false and bHoming==false and mode_mov>=1 and mode_mov<=4)
+          //start flag
+          if (bSync==true and bBusy==false)
+            putln("New move input made")
+            bNewMove=true
+            bBusy=true
+          elseIf (bSync==false)
+            bNewMove=true
+          else
+            error_code=4
+            putln("Couldn't make a new move")
+            //n_status
+          endIf
+        else
+          putln("Impossible to add new move")
+          error_code=3
+        endIf
+      break
+
+      case 66
+        //END CONTROL
+        bBLOQ_CTRL=true
+      break
+
+      default
+      break
+
+    endSwitch
+    g_message_send[15]=error_code
+    sioSet(sSockPC,g_message_send)
+  else
+    //Message reception failure
+    putln("Error, communication")
+    resetMotion()
+    bBLOQ_CTRL=true
+    call stop()
+  endIf
+  //endWhile
+end]]></Code>
+  </Program>
+</Programs>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cell xmlns="http://www.staubli.com/robotics/cell/1">
+  <File path="CS8C\CS8C.controller" />
+  <File path="CAD\TX60.kxml" />
+</Cell>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="set_sign" access="private" >
+    <Code><![CDATA[begin
+  if (pActualPos.trsf.x>=0)
+    g_message_send[46]=0
+  else
+    g_message_send[46]=1
+  endIf
+  if (pActualPos.trsf.y>=0)
+    g_message_send[47]=0
+  else
+    g_message_send[47]=1
+  endIf
+  if (pActualPos.trsf.z>=0)
+    g_message_send[48]=0
+  else
+    g_message_send[48]=1
+  endIf
+  if (pActualPos.trsf.rx>=0)
+    g_message_send[49]=0
+  else
+    g_message_send[49]=1
+  endIf
+  if (pActualPos.trsf.ry>=0)
+    g_message_send[50]=0
+  else
+    g_message_send[50]=1
+  endIf
+  if (pActualPos.trsf.rz>=0)
+    g_message_send[51]=0
+  else
+    g_message_send[51]=1
+  endIf
+
+
+  if (jActualPos.j1>=0)
+    g_message_send[76]=0
+  else
+    g_message_send[76]=1
+  endIf
+  if (jActualPos.j2>=0)
+    g_message_send[77]=0
+  else
+    g_message_send[77]=1
+  endIf
+  if (jActualPos.j3>=0)
+    g_message_send[78]=0
+  else
+    g_message_send[78]=1
+  endIf
+  if (jActualPos.j4>=0)
+    g_message_send[79]=0
+  else
+    g_message_send[79]=1
+  endIf
+  if (jActualPos.j5>=0)
+    g_message_send[80]=0
+  else
+    g_message_send[80]=1
+  endIf
+  if (jActualPos.j6>=0)
+    g_message_send[81]=0
+  else
+    g_message_send[81]=1
+  endIf
+
+
+
+
+
+end]]></Code>
+  </Program>
+</Programs>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="JOGG_PC" access="private" >
+    <Locals>
+      <Local name="l_aux" type="num" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+  if (bBLOQ_CTRL==false and bSTOP==false and bHoming==false and bNewMove)
+    //Absolute or relative movement
+    if (bABSOLUTE)
+      //ABSOLUTE MOVEMENT. ONLY MULTIPLE JOINT AND AXIS
+      if (mode_mov==4)
+        //Joint multiple
+        jdestino.j1=joint_v[0]
+        jdestino.j2=joint_v[1]
+        jdestino.j3=joint_v[2]
+        jdestino.j4=joint_v[3]
+        jdestino.j5=joint_v[4]
+        jdestino.j6=joint_v[5]
+        id=movej(jdestino,tGripper,mSpeed)
+        bNewMove=false
+        n_status=14
+      elseIf (mode_mov==2)
+        //Axis multiple
+        //pdestino.config = config(jdestino)
+        pdestino.trsf.x=axis_v[0]
+        pdestino.trsf.y=axis_v[1]
+        pdestino.trsf.z=axis_v[2]
+        pdestino.trsf.rx=axis_v[3]
+        pdestino.trsf.ry=axis_v[4]
+        pdestino.trsf.rz=axis_v[5]
+        movej(pdestino,tGripper,mSpeed)
+        //movel(pdestino,tGripper,mSpeed)
+        bNewMove=false
+        n_status=12
+      else
+        //Can not make a single axis/joint movement with ABSOLUTE reference configuration
+        putln("Error type movement sel.")
+        bBusy=false
+        n_status=33
+      endIf
+    else
+      //RELATIVE MOVEMENT
+      if (mode_mov==1 or mode_mov==2)
+        //axis single/multiple
+        if (mode_mov==1)
+          l_aux=move_inc
+        else
+          l_aux=1
+        endIf
+        if (bSync==true)
+          pActualPos=here(tGripper,world)
+        else
+          pActualPos=pdestino
+        endIf
+        pdestino.trsf.x=pActualPos.trsf.x+l_aux*axis_v[0]
+        pdestino.trsf.y=pActualPos.trsf.y+l_aux*axis_v[1]
+        pdestino.trsf.z=pActualPos.trsf.z+l_aux*axis_v[2]
+        pdestino.trsf.rx=pActualPos.trsf.rx+l_aux*axis_v[3]
+        pdestino.trsf.ry=pActualPos.trsf.ry+l_aux*axis_v[4]
+        pdestino.trsf.rz=pActualPos.trsf.rz+l_aux*axis_v[5]
+        //id=movel(pdestino,tGripper,mSpeed)
+        id=movej(pdestino,tGripper,mSpeed)
+        bNewMove=false
+        put("Moving from:  ")
+        put(pActualPos.trsf.x)
+        put(" to: ")
+        put(pdestino.trsf.x)
+        putln("OK, movej called. ID: ")
+        //putln("OK, movel called. ID: ")
+        put(id)
+        n_status=12
+      elseIf (mode_mov==3 or mode_mov==4)
+        //multiple/single joint
+        if (mode_mov==3)
+          l_aux=move_inc
+        else
+          l_aux=1
+        endIf
+        jActualPos=herej()
+        jdestino.j1=jdestino.j1+l_aux*joint_v[0]
+        jdestino.j2=jdestino.j2+l_aux*joint_v[1]
+        jdestino.j3=jdestino.j3+l_aux*joint_v[2]
+        jdestino.j4=jdestino.j4+l_aux*joint_v[3]
+        jdestino.j5=jdestino.j5+l_aux*joint_v[4]
+        jdestino.j6=jdestino.j6+l_aux*joint_v[5]
+        id=movej(jdestino,tGripper,mSpeed)
+        putln("OK, movej called. ID: ")
+        //putln("OK, movel called. ID: ")
+        put(id)
+        bNewMove=false
+        n_status=14
+      else
+        //Wrong mode_mov
+        putln("Wrong mode movement")
+        bBusy=false
+        n_status=111
+      endIf
+    endIf
+  elseIf (bHoming)
+    jActualPos=herej()
+    if (isEmpty()==true and abs(home-jActualPos)<jError)
+      bSTOP=false
+      bHoming=false
+      bBusy=false
+      putln("Homing ended...")
+      n_status=0
+    endIf
+  elseIf (bNewMove)
+    bBusy=false
+    putln("Tried new move but was impossible...")
+    error_code=5
+  elseIf (bBusy==true and bSync==true and bBLOQ_CTRL==false and bSTOP==false and bHoming==false)
+    if (n_status==12 and isEmpty()==true and distance(pdestino.trsf,pActualPos.trsf)<1)
+      bBusy=false
+      putln("Movement ended (12)...")
+      n_status=0
+    elseIf (n_status==14 and isEmpty()==true and abs(jdestino-jActualPos)<jError)
+      bBusy=false
+      putln("Movement ended (14)...")
+      n_status=0
+    endIf
+  elseIf (bBLOQ_CTRL==false and bSTOP==false and bBusy==false)
+    //Complete this part of the code..................................................
+    pActualPos=here(tGripper,world)
+    jActualPos=herej()
+    id_actual=roundDown(getMoveId())
+    if (isEmpty()==true and isSettled()==true and id_actual>=id)
+      if ((mode_mov<=2 and distance(pdestino.trsf,pActualPos.trsf)<1) or (mode_mov>2 and abs(jdestino-jActualPos)<jError))
+        n_status=0
+        put("Valor de id actual:  ")
+        put(id_actual)
+        putln("..>=.. ")
+        put("Valor de getMoveId al cancelar: ")
+        put(id)
+      endIf
+    endIf
+  elseIf (bSTOP==true or bBLOQ_CTRL==true)
+    resetMotion()
+  else
+    put("Undefined error")
+    error_code=13
+  endIf
+end]]></Code>
+  </Program>
+</Programs>

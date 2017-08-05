@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="CS8C">
+    <Application>Disk://RemoteAxisCtrl/RemoteAxisCtrl.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="TX60" IsExpanded="true" />
+      <Node Path="TX60\CS8C" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="TX60" IsExpanded="true" />
+      <Node Path="TX60\CS8C" IsExpanded="true" />
+      <Node Path="TX60\CS8C\RemoteAxisCtrl\JOGG_PC" IsExpanded="true" />
+      <Node Path="TX60\CS8C\RemoteAxisCtrl\start" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView" />
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="CS8C" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="true" />
+  </Option>
+</CellUserOptions>

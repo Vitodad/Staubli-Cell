@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Data/2">
+  <Datas>
+    <Data name="bABSOLUTE" access="private" xsi:type="array" type="bool" size="1">
+      <Value key="0" value="true" />
+    </Data>
+    <Data name="bBLOQ_CTRL" access="private" xsi:type="array" type="bool" size="1">
+    </Data>
+    <Data name="bBusy" access="private" xsi:type="array" type="bool" size="1">
+    </Data>
+    <Data name="bError" access="private" xsi:type="array" type="bool" size="1">
+    </Data>
+    <Data name="bHoming" access="private" xsi:type="array" type="bool" size="1">
+      <Value key="0" value="true" />
+    </Data>
+    <Data name="bNewMove" access="private" xsi:type="array" type="bool" size="1">
+    </Data>
+    <Data name="bSTOP" access="private" xsi:type="array" type="bool" size="1">
+      <Value key="0" value="true" />
+    </Data>
+    <Data name="bSync" access="private" xsi:type="array" type="bool" size="1">
+      <Value key="0" value="true" />
+    </Data>
+    <Data name="Electrovalvule" access="private" xsi:type="array" type="dio" size="2">
+      <Value key="0" link="valve1" />
+      <Value key="1" link="valve2" />
+    </Data>
+    <Data name="dBIO_salidas" access="private" xsi:type="array" type="dio" size="4">
+      <Value key="0" link="BasicIO-1\%Q0" />
+      <Value key="1" link="BasicIO-1\%Q1" />
+      <Value key="2" link="BasicIO-1\%Q2" />
+      <Value key="3" link="BasicIO-1\%Q3" />
+    </Data>
+    <Data name="home" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="60" j3="60" j5="60" />
+    </Data>
+    <Data name="jActualPos" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="60" j3="60" j5="60" />
+    </Data>
+    <Data name="jError" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j1="0.1" j2="0.1" j3="0.1" j4="0.1" j5="0.1" j6="0.1" />
+    </Data>
+    <Data name="jdestino" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="60" j3="60" j5="60" />
+    </Data>
+    <Data name="origen" access="private" xsi:type="array" type="jointRx" size="1">
+    </Data>
+    <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1">
+      <Value key="0" blend="off" />
+    </Data>
+    <Data name="mSpeed" access="private" xsi:type="array" type="mdesc" size="1">
+      <Value key="0" vel="10" blend="off" />
+    </Data>
+    <Data name="action" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="axis_v" access="private" xsi:type="array" type="num" size="6">
+      <Value key="5" value="1" />
+    </Data>
+    <Data name="d_min" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="0.5" />
+    </Data>
+    <Data name="error_code" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="g_data" access="private" xsi:type="array" type="num" size="82">
+      <Value key="0" value="156" />
+      <Value key="1" value="124" />
+      <Value key="2" value="66" />
+      <Value key="3" value="89" />
+      <Value key="4" value="39" />
+      <Value key="5" value="121" />
+      <Value key="6" value="244" />
+      <Value key="7" value="77" />
+      <Value key="12" value="66" />
+      <Value key="18" value="128" />
+      <Value key="20" value="20" />
+      <Value key="21" value="10" />
+      <Value key="42" value="100" />
+    </Data>
+    <Data name="g_message_send" access="private" xsi:type="array" type="num" size="82">
+      <Value key="0" value="156" />
+      <Value key="1" value="124" />
+      <Value key="2" value="66" />
+      <Value key="3" value="89" />
+      <Value key="4" value="39" />
+      <Value key="5" value="121" />
+      <Value key="6" value="244" />
+      <Value key="7" value="77" />
+      <Value key="12" value="66" />
+      <Value key="16" value="32" />
+      <Value key="20" value="20" />
+      <Value key="21" value="10" />
+      <Value key="22" value="250" />
+      <Value key="23" value="202" />
+      <Value key="26" value="208" />
+      <Value key="27" value="7" />
+      <Value key="30" value="64" />
+      <Value key="31" value="31" />
+      <Value key="34" value="80" />
+      <Value key="35" value="70" />
+      <Value key="42" value="80" />
+      <Value key="43" value="70" />
+      <Value key="48" value="1" />
+      <Value key="49" value="1" />
+      <Value key="51" value="1" />
+    </Data>
+    <Data name="id" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="-1" />
+    </Data>
+    <Data name="id_actual" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="-2" />
+    </Data>
+    <Data name="joint_v" access="private" xsi:type="array" type="num" size="6">
+    </Data>
+    <Data name="mode_mov" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="move_inc" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="1" />
+    </Data>
+    <Data name="nBytes" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="n_status" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="1" />
+    </Data>
+    <Data name="speed" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="10" />
+    </Data>
+    <Data name="working_mode" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="pActualPos" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="519.615242" y="20" z="-80" rx="-180" rz="-180" shoulder="lefty" elbow="epositive" wrist="wpositive" fatherId="world[0]" />
+    </Data>
+    <Data name="pPunto" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" fatherId="world[0]" />
+    </Data>
+    <Data name="pdestino" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="539.615242" y="40" z="-60" rx="-160" ry="20" rz="-160" shoulder="lefty" elbow="epositive" wrist="wpositive" fatherId="world[0]" />
+    </Data>
+    <Data name="sSockPC" access="private" xsi:type="array" type="sio" size="1">
+      <Value key="0" link="Socket\RemoteCTRL" />
+    </Data>
+    <Data name="tGripper" access="private" xsi:type="array" type="tool" size="1">
+      <Value key="0" fatherId="flange[0]" ioLink="valve1" />
+    </Data>
+  </Datas>
+</Database>

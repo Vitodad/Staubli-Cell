@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="init" access="private" >
+    <Locals>
+      <Local name="i" type="num" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+  cls()
+  bBLOQ_CTRL=false
+  bSTOP=true
+  //absolute == false, means relative movement configuration.
+  bABSOLUTE=true
+  bSync=true
+  bBusy=false
+  bNewMove=false
+  bHoming=true
+  nBytes=0
+  id=-1
+  id_actual=-2
+  move_inc=1
+  error_code=0
+  mode_mov=0
+  n_status=1
+  speed=10
+  mSpeed.vel=speed
+  action=0
+  d_min=0.5
+  //taskCreate "comun", 80, Comunicacion()
+  i=movej(origen,flange,mNomSpeed)
+  putln("Movimiento a origen 0 ")
+  put(i)
+  waitEndMove()
+  i=movej(home,flange,mNomSpeed)
+  putln("Movimiento a home ")
+  put(i)
+  waitEndMove()
+  bHoming=false
+  jActualPos=herej()
+  pActualPos=here(tGripper,world)
+  jdestino=herej()
+  pdestino=here(tGripper,world)
+  jError={0.1,0.1,0.1,0.1,0.1,0.1}
+  //taskCreate "movimiento", 100, JOGG_PC()
+  for i=0 to 81
+    g_data[i]=0
+    g_message_send[i]=0
+  endFor
+  for i=0 to 5
+    axis_v[i]=0
+    joint_v[i]=0
+  endFor
+end]]></Code>
+  </Program>
+</Programs>

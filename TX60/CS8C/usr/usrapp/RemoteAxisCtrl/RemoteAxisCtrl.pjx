@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3" >
+  <Parameters version="s7.3.1" stackSize="5000" millimeterUnit="true" />
+  <Programs>
+    <Program file="Comunicacion.pgx" />
+    <Program file="JOGG_PC.pgx" />
+    <Program file="init.pgx" />
+    <Program file="set_sign.pgx" />
+    <Program file="start.pgx" />
+    <Program file="stop.pgx" />
+  </Programs>
+  <Database>
+    <Data file="RemoteAxisCtrl.dtx" />
+  </Database>
+  <Libraries>
+  </Libraries>
+  <Types>
+  </Types>
+</Project>

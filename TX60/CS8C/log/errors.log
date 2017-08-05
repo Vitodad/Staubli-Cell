@@ -1,0 +1,3389 @@
+﻿[01/11/17 11:26:10]: -----------------------------------------------
+[01/11/17 11:26:10]: Logger started
+[01/11/17 11:26:15]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/11/17 11:26:15]: Cycle time set to 0.004s
+[01/11/17 11:26:15]: Simulation cycle time set to 0.1s
+[01/11/17 11:26:15]: Controller IP address could not be updated
+[01/11/17 11:26:15]: STARC : No STARC board detected on PCI.
+[01/11/17 11:26:15]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/11/17 11:26:15]: Power hour count = 0:00:00
+[01/11/17 11:26:15]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/11/17 11:26:15]: COM-PC: server created on all interfaces [5653]
+[01/11/17 11:26:15]: System: s7.3.1 Mar 12 2012
+[01/11/17 11:26:15]: Configuration Version: c1.009 
+[01/11/17 11:26:15]: Option testMode: enabled 
+[01/11/17 11:26:15]: Option VAL 3: enabled 
+[01/11/17 11:26:15]: Option uniVAL: enabled 
+[01/11/17 11:26:15]: Machine Number: ? 
+[01/11/17 11:26:15]: Arm: tx60-S1-R3 floor
+[01/11/17 11:26:15]: Arm serial number: ? 
+[01/11/17 11:26:15]: Robot name:  
+[01/11/17 11:26:15]: EP: s7.3.1 Mar  6 2012
+[01/11/17 11:26:15]: SCA: s7.3.1 Mar  6 2012
+[01/11/17 11:26:15]: PLC: s7.3.1 Mar  6 2012
+[01/11/17 11:26:15]: New profile : default
+[01/11/17 11:26:15]: End of controller initialization
+[01/11/17 11:26:15]: System event INTERFACE-Stopped  (Calibration)
+[01/11/17 11:26:15]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[01/11/17 11:26:15]: COM-PC: create session 127.0.0.1 on port 2856 id=#42260088
+[01/11/17 11:26:16]: End of arm power shutdown phase.
+[01/11/17 11:26:16]: Internal error MCP-NoAnswer: char 1
+[01/11/17 11:26:20]: Saving controller context...
+[01/11/17 11:26:20]: Controller temperature: 28°C
+[01/11/17 11:26:20]: CPU temperature: 28°C
+[01/11/17 11:26:22]: MCP communication disconnected
+[01/11/17 11:26:56]: -----------------------------------------------
+[01/11/17 11:26:56]: Logger started
+[01/11/17 11:27:00]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/11/17 11:27:00]: Cycle time set to 0.004s
+[01/11/17 11:27:00]: Simulation cycle time set to 0.1s
+[01/11/17 11:27:00]: Controller IP address could not be updated
+[01/11/17 11:27:00]: STARC : No STARC board detected on PCI.
+[01/11/17 11:27:00]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/11/17 11:27:00]: Power hour count = 0:00:00
+[01/11/17 11:27:00]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/11/17 11:27:00]: COM-PC: server created on all interfaces [5653]
+[01/11/17 11:27:00]: System: s7.3.1 Mar 12 2012
+[01/11/17 11:27:00]: Configuration Version: c1.009 
+[01/11/17 11:27:00]: Option testMode: enabled 
+[01/11/17 11:27:00]: Option VAL 3: enabled 
+[01/11/17 11:27:00]: Option uniVAL: enabled 
+[01/11/17 11:27:00]: Machine Number: ? 
+[01/11/17 11:27:00]: Arm: tx60-S1-R3 floor
+[01/11/17 11:27:00]: Arm serial number: ? 
+[01/11/17 11:27:00]: Robot name:  
+[01/11/17 11:27:00]: EP: s7.3.1 Mar  6 2012
+[01/11/17 11:27:00]: SCA: s7.3.1 Mar  6 2012
+[01/11/17 11:27:00]: PLC: s7.3.1 Mar  6 2012
+[01/11/17 11:27:00]: New profile : default
+[01/11/17 11:27:00]: End of controller initialization
+[01/11/17 11:27:00]: System event INTERFACE-Stopped  (Calibration)
+[01/11/17 11:27:00]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[01/11/17 11:27:00]: COM-PC: create session 127.0.0.1 on port 2879 id=#41830744
+[01/11/17 11:27:01]: End of arm power shutdown phase.
+[01/11/17 11:27:02]: Internal error MCP-NoAnswer: char 1
+[01/11/17 11:27:08]: MCP communication disconnected
+[01/11/17 11:27:10]: Mcp = TSimulated
+[01/11/17 11:27:10]: Mcp communication established
+[01/11/17 11:27:10]: Working mode:manual.
+[01/11/17 11:27:17]: COM-PC: destroy session 127.0.0.1 on port 2879 id=#41830744
+[01/11/17 11:47:46]: MCP communication disconnected
+[01/11/17 12:08:27]: -----------------------------------------------
+[01/11/17 12:08:27]: Logger started
+[01/11/17 12:08:31]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/11/17 12:08:31]: Cycle time set to 0.004s
+[01/11/17 12:08:31]: Simulation cycle time set to 0.1s
+[01/11/17 12:08:31]: Controller IP address could not be updated
+[01/11/17 12:08:31]: STARC : No STARC board detected on PCI.
+[01/11/17 12:08:31]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/11/17 12:08:31]: Power hour count = 0:00:00
+[01/11/17 12:08:31]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/11/17 12:08:31]: COM-PC: server created on all interfaces [5653]
+[01/11/17 12:08:31]: System: s7.3.1 Mar 12 2012
+[01/11/17 12:08:31]: Configuration Version: c1.009 
+[01/11/17 12:08:31]: Option testMode: enabled 
+[01/11/17 12:08:31]: Option VAL 3: enabled 
+[01/11/17 12:08:31]: Option uniVAL: enabled 
+[01/11/17 12:08:31]: Machine Number: ? 
+[01/11/17 12:08:31]: Arm: tx60-S1-R3 floor
+[01/11/17 12:08:31]: Arm serial number: ? 
+[01/11/17 12:08:31]: Robot name:  
+[01/11/17 12:08:31]: EP: s7.3.1 Mar  6 2012
+[01/11/17 12:08:31]: SCA: s7.3.1 Mar  6 2012
+[01/11/17 12:08:31]: PLC: s7.3.1 Mar  6 2012
+[01/11/17 12:08:31]: New profile : default
+[01/11/17 12:08:31]: End of controller initialization
+[01/11/17 12:08:31]: System event INTERFACE-Stopped  (Main menu)
+[01/11/17 12:08:31]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/11/17 12:08:32]: End of arm power shutdown phase.
+[01/11/17 12:08:32]: COM-PC: create session 127.0.0.1 on port 2112 id=#41904256
+[01/11/17 12:08:32]: Internal error MCP-NoAnswer: char 1
+[01/11/17 12:08:38]: MCP communication disconnected
+[01/11/17 12:08:40]: Mcp = TSimulated
+[01/11/17 12:08:40]: Mcp communication established
+[01/11/17 12:08:41]: Working mode:manual.
+[01/11/17 12:08:45]: COM-PC: destroy session 127.0.0.1 on port 2112 id=#41904256
+[01/11/17 12:09:51]: Working mode:remote.
+[01/11/17 12:09:52]: Working mode:automatic.
+[01/11/17 12:09:55]: Saving controller context...
+[01/11/17 12:09:55]: Controller temperature: 28°C
+[01/11/17 12:09:55]: CPU temperature: 28°C
+[01/11/17 12:11:37]: Saving controller context...
+[01/11/17 12:12:42]: COM-PC: create session 127.0.0.1 on port 2186 id=#41902072
+[01/11/17 12:12:48]: Deadman validated
+[01/11/17 12:12:48]: Settling arm power...
+[01/11/17 12:12:48]: Arm power settled.
+[01/11/17 12:12:51]: RemoteAxisCtrl application started
+[01/11/17 12:13:03]: Deadman enabled.
+[01/11/17 12:22:01]: RemoteAxisCtrl application stopped
+[01/11/17 12:29:06]: COM-PC: destroy session 127.0.0.1 on port 2186 id=#41902072
+[01/11/17 17:28:26]: -----------------------------------------------
+[01/11/17 17:28:26]: Logger started
+[01/11/17 17:28:30]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/11/17 17:28:30]: Cycle time set to 0.004s
+[01/11/17 17:28:30]: Simulation cycle time set to 0.1s
+[01/11/17 17:28:30]: Controller IP address could not be updated
+[01/11/17 17:28:30]: STARC : No STARC board detected on PCI.
+[01/11/17 17:28:30]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/11/17 17:28:30]: Power hour count = 0:00:00
+[01/11/17 17:28:30]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/11/17 17:28:30]: COM-PC: server created on all interfaces [5653]
+[01/11/17 17:28:30]: System: s7.3.1 Mar 12 2012
+[01/11/17 17:28:30]: Configuration Version: c1.009 
+[01/11/17 17:28:30]: Option testMode: enabled 
+[01/11/17 17:28:30]: Option VAL 3: enabled 
+[01/11/17 17:28:30]: Option uniVAL: enabled 
+[01/11/17 17:28:30]: Machine Number: ? 
+[01/11/17 17:28:30]: Arm: tx60-S1-R3 floor
+[01/11/17 17:28:30]: Arm serial number: ? 
+[01/11/17 17:28:30]: Robot name:  
+[01/11/17 17:28:30]: EP: s7.3.1 Mar  6 2012
+[01/11/17 17:28:30]: SCA: s7.3.1 Mar  6 2012
+[01/11/17 17:28:30]: PLC: s7.3.1 Mar  6 2012
+[01/11/17 17:28:30]: New profile : default
+[01/11/17 17:28:30]: End of controller initialization
+[01/11/17 17:28:30]: System event INTERFACE-Stopped  (Main menu)
+[01/11/17 17:28:30]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/11/17 17:28:31]: COM-PC: create session 127.0.0.1 on port 5111 id=#42803232
+[01/11/17 17:28:31]: End of arm power shutdown phase.
+[01/11/17 17:28:32]: Internal error MCP-NoAnswer: char 1
+[01/11/17 17:28:38]: MCP communication disconnected
+[01/11/17 17:28:40]: Mcp = TSimulated
+[01/11/17 17:28:40]: Mcp communication established
+[01/11/17 17:28:40]: Working mode:automatic.
+[01/11/17 17:28:44]: COM-PC: destroy session 127.0.0.1 on port 5111 id=#42803232
+[01/11/17 17:28:56]: Deadman validated
+[01/11/17 17:28:57]: Settling arm power...
+[01/11/17 17:28:57]: Arm power settled.
+[01/11/17 17:29:10]: RemoteAxisCtrl application started
+[01/11/17 17:29:11]: Deadman enabled.
+[01/11/17 17:29:18]: COM-PC: create session 127.0.0.1 on port 5139 id=#42804480
+[01/11/17 17:30:52]: RemoteAxisCtrl application stopped
+[01/11/17 17:31:42]: Arm power shutdown...
+[01/11/17 17:31:43]: End of arm power shutdown phase.
+[01/11/17 17:31:44]: MCP communication disconnected
+[01/18/17 13:20:42]: -----------------------------------------------
+[01/18/17 13:20:42]: Logger started
+[01/18/17 13:20:46]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/18/17 13:20:46]: Cycle time set to 0.004s
+[01/18/17 13:20:46]: Simulation cycle time set to 0.1s
+[01/18/17 13:20:46]: Controller IP address could not be updated
+[01/18/17 13:20:46]: STARC : No STARC board detected on PCI.
+[01/18/17 13:20:46]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/18/17 13:20:46]: Power hour count = 0:00:00
+[01/18/17 13:20:46]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/18/17 13:20:46]: COM-PC: server created on all interfaces [5653]
+[01/18/17 13:20:46]: System: s7.3.1 Mar 12 2012
+[01/18/17 13:20:46]: Configuration Version: c1.009 
+[01/18/17 13:20:46]: Option testMode: enabled 
+[01/18/17 13:20:46]: Option VAL 3: enabled 
+[01/18/17 13:20:46]: Option uniVAL: enabled 
+[01/18/17 13:20:46]: Machine Number: ? 
+[01/18/17 13:20:46]: Arm: tx60-S1-R3 floor
+[01/18/17 13:20:46]: Arm serial number: ? 
+[01/18/17 13:20:46]: Robot name:  
+[01/18/17 13:20:46]: EP: s7.3.1 Mar  6 2012
+[01/18/17 13:20:46]: SCA: s7.3.1 Mar  6 2012
+[01/18/17 13:20:46]: PLC: s7.3.1 Mar  6 2012
+[01/18/17 13:20:46]: New profile : default
+[01/18/17 13:20:46]: End of controller initialization
+[01/18/17 13:20:46]: System event INTERFACE-Stopped  (Main menu)
+[01/18/17 13:20:46]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/18/17 13:20:47]: COM-PC: create session 127.0.0.1 on port 2858 id=#42028640
+[01/18/17 13:20:47]: End of arm power shutdown phase.
+[01/18/17 13:20:47]: Internal error MCP-NoAnswer: char 1
+[01/18/17 13:20:53]: MCP communication disconnected
+[01/18/17 13:20:55]: Mcp = TSimulated
+[01/18/17 13:20:55]: Mcp communication established
+[01/18/17 13:20:56]: Working mode:automatic.
+[01/18/17 13:20:57]: COM-PC: destroy session 127.0.0.1 on port 2858 id=#42028640
+[01/18/17 13:21:15]: Working mode:manual.
+[01/18/17 13:21:19]: Working mode:test.
+[01/18/17 13:21:21]: Working mode:automatic.
+[01/18/17 13:21:22]: Saving controller context...
+[01/18/17 13:21:22]: Controller temperature: 28°C
+[01/18/17 13:21:22]: CPU temperature: 28°C
+[01/18/17 13:21:22]: Working mode:manual.
+[01/18/17 13:21:27]: Saving controller context...
+[01/18/17 13:21:40]: Manual motion mode:Joint
+[01/18/17 13:21:44]: Manual motion mode:Frame
+[01/18/17 13:21:45]: Manual motion mode:Joint
+[01/18/17 13:21:48]: Jog mode cannot be selected: first enable arm power.
+[01/18/17 13:21:53]: Deadman validated
+[01/18/17 13:21:53]: Settling arm power...
+[01/18/17 13:21:53]: Arm power settled.
+[01/18/17 13:22:01]: Manual motion mode:Tool
+[01/18/17 13:22:03]: Manual motion mode:Point
+[01/18/17 13:22:04]: Manual motion mode:Joint
+[01/18/17 13:22:04]: Manual motion mode:Frame
+[01/18/17 13:22:05]: Manual motion mode:Joint
+[01/18/17 13:22:05]: Manual motion mode:Frame
+[01/18/17 13:22:08]: Deadman enabled.
+[01/18/17 13:22:12]: Manual motion mode:Tool
+[01/18/17 13:22:48]: Manual motion mode:Disabled
+[01/18/17 13:23:58]: Deadman disabled.
+[01/18/17 13:23:58]: Arm power shutdown: working mode change.
+[01/18/17 13:23:58]: Arm power shutdown...
+[01/18/17 13:23:59]: End of arm power shutdown phase.
+[01/18/17 13:24:00]: Working mode:automatic.
+[01/18/17 13:24:00]: Deadman validated
+[01/18/17 13:24:01]: Settling arm power...
+[01/18/17 13:24:01]: Arm power settled.
+[01/18/17 13:24:03]: Arm power shutdown...
+[01/18/17 13:24:04]: Deadman disabled.
+[01/18/17 13:24:04]: End of arm power shutdown phase.
+[01/18/17 13:24:05]: Working mode:manual.
+[01/18/17 13:24:06]: Working mode:test.
+[01/18/17 13:24:07]: Working mode:remote.
+[01/18/17 13:24:07]: Saving controller context...
+[01/18/17 13:24:08]: Working mode:automatic.
+[01/18/17 13:24:12]: Saving controller context...
+[01/18/17 13:24:24]: Deadman validated
+[01/18/17 13:24:24]: Settling arm power...
+[01/18/17 13:24:25]: Arm power settled.
+[01/18/17 13:24:39]: Deadman enabled.
+[01/18/17 13:24:55]: COM-PC: create session 127.0.0.1 on port 2912 id=#42029264
+[01/18/17 13:25:24]: Arm power shutdown...
+[01/18/17 13:25:25]: End of arm power shutdown phase.
+[01/18/17 13:25:26]: MCP communication disconnected
+[01/18/17 13:25:48]: -----------------------------------------------
+[01/18/17 13:25:48]: Logger started
+[01/18/17 13:25:53]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/18/17 13:25:53]: Cycle time set to 0.004s
+[01/18/17 13:25:53]: Simulation cycle time set to 0.1s
+[01/18/17 13:25:53]: Controller IP address could not be updated
+[01/18/17 13:25:53]: STARC : No STARC board detected on PCI.
+[01/18/17 13:25:53]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/18/17 13:25:53]: Power hour count = 0:02:06
+[01/18/17 13:25:53]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/18/17 13:25:53]: COM-PC: server created on all interfaces [5653]
+[01/18/17 13:25:53]: COM-PC: create session 127.0.0.1 on port 2929 id=#42326368
+[01/18/17 13:25:53]: System: s7.3.1 Mar 12 2012
+[01/18/17 13:25:53]: Configuration Version: c1.009 
+[01/18/17 13:25:53]: Option testMode: enabled 
+[01/18/17 13:25:53]: Option VAL 3: enabled 
+[01/18/17 13:25:53]: Option uniVAL: enabled 
+[01/18/17 13:25:53]: Machine Number: ? 
+[01/18/17 13:25:53]: Arm: tx60-S1-R3 floor
+[01/18/17 13:25:53]: Arm serial number: ? 
+[01/18/17 13:25:53]: Robot name:  
+[01/18/17 13:25:53]: EP: s7.3.1 Mar  6 2012
+[01/18/17 13:25:53]: SCA: s7.3.1 Mar  6 2012
+[01/18/17 13:25:53]: PLC: s7.3.1 Mar  6 2012
+[01/18/17 13:25:53]: New profile : default
+[01/18/17 13:25:53]: End of controller initialization
+[01/18/17 13:25:53]: System event INTERFACE-Stopped  (Calibration)
+[01/18/17 13:25:53]: System event INTERFACE-Stopped  (Calibration). 5 events lost.
+[01/18/17 13:26:02]: -----------------------------------------------
+[01/18/17 13:26:02]: Logger started
+[01/18/17 13:26:06]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/18/17 13:26:06]: Cycle time set to 0.004s
+[01/18/17 13:26:06]: Simulation cycle time set to 0.1s
+[01/18/17 13:26:06]: Controller IP address could not be updated
+[01/18/17 13:26:06]: STARC : No STARC board detected on PCI.
+[01/18/17 13:26:06]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/18/17 13:26:06]: Power hour count = 0:02:06
+[01/18/17 13:26:06]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/18/17 13:26:06]: COM-PC: server created on all interfaces [5653]
+[01/18/17 13:26:06]: System: s7.3.1 Mar 12 2012
+[01/18/17 13:26:06]: Configuration Version: c1.009 
+[01/18/17 13:26:06]: Option testMode: enabled 
+[01/18/17 13:26:06]: Option VAL 3: enabled 
+[01/18/17 13:26:06]: Option uniVAL: enabled 
+[01/18/17 13:26:06]: Machine Number: ? 
+[01/18/17 13:26:06]: Arm: tx60-S1-R3 floor
+[01/18/17 13:26:06]: Arm serial number: ? 
+[01/18/17 13:26:06]: Robot name:  
+[01/18/17 13:26:06]: EP: s7.3.1 Mar  6 2012
+[01/18/17 13:26:06]: SCA: s7.3.1 Mar  6 2012
+[01/18/17 13:26:06]: PLC: s7.3.1 Mar  6 2012
+[01/18/17 13:26:06]: New profile : default
+[01/18/17 13:26:06]: End of controller initialization
+[01/18/17 13:26:06]: System event INTERFACE-Stopped  (Calibration)
+[01/18/17 13:26:06]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[01/18/17 13:26:07]: End of arm power shutdown phase.
+[01/18/17 13:26:08]: Internal error MCP-NoAnswer: char 1
+[01/18/17 13:26:14]: MCP communication disconnected
+[01/18/17 13:26:16]: Mcp = TSimulated
+[01/18/17 13:26:16]: Mcp communication established
+[01/18/17 13:26:16]: Working mode:automatic.
+[01/18/17 13:26:18]: COM-PC: create session 127.0.0.1 on port 2940 id=#47537984
+[01/18/17 15:50:48]: -----------------------------------------------
+[01/18/17 15:50:48]: Logger started
+[01/18/17 15:50:53]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/18/17 15:50:53]: Cycle time set to 0.004s
+[01/18/17 15:50:53]: Simulation cycle time set to 0.1s
+[01/18/17 15:50:53]: Controller IP address could not be updated
+[01/18/17 15:50:53]: STARC : No STARC board detected on PCI.
+[01/18/17 15:50:53]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/18/17 15:50:53]: Power hour count = 0:02:06
+[01/18/17 15:50:53]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/18/17 15:50:53]: COM-PC: server created on all interfaces [5653]
+[01/18/17 15:50:53]: System: s7.3.1 Mar 12 2012
+[01/18/17 15:50:53]: Configuration Version: c1.009 
+[01/18/17 15:50:53]: Option testMode: enabled 
+[01/18/17 15:50:53]: Option VAL 3: enabled 
+[01/18/17 15:50:53]: Option uniVAL: enabled 
+[01/18/17 15:50:53]: Machine Number: ? 
+[01/18/17 15:50:53]: Arm: tx60-S1-R3 floor
+[01/18/17 15:50:53]: Arm serial number: ? 
+[01/18/17 15:50:53]: Robot name:  
+[01/18/17 15:50:53]: EP: s7.3.1 Mar  6 2012
+[01/18/17 15:50:53]: SCA: s7.3.1 Mar  6 2012
+[01/18/17 15:50:53]: PLC: s7.3.1 Mar  6 2012
+[01/18/17 15:50:53]: New profile : default
+[01/18/17 15:50:53]: End of controller initialization
+[01/18/17 15:50:53]: System event INTERFACE-Stopped  (Main menu)
+[01/18/17 15:50:53]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/18/17 15:50:53]: End of arm power shutdown phase.
+[01/18/17 15:50:53]: COM-PC: create session 127.0.0.1 on port 2429 id=#41914128
+[01/18/17 15:50:53]: Internal error MCP-NoAnswer: char 1
+[01/18/17 15:50:59]: MCP communication disconnected
+[01/18/17 15:51:01]: Mcp = TSimulated
+[01/18/17 15:51:01]: Mcp communication established
+[01/18/17 15:51:02]: Working mode:automatic.
+[01/18/17 15:51:55]: Deadman validated
+[01/18/17 15:51:55]: Settling arm power...
+[01/18/17 15:51:55]: Arm power settled.
+[01/18/17 15:52:10]: Deadman enabled.
+[01/18/17 15:52:12]: s application started
+[01/18/17 15:52:12]: s application stopped
+[01/18/17 15:52:23]: MCP communication disconnected
+[01/18/17 15:52:24]: Arm power shutdown: working mode change.
+[01/18/17 15:52:24]: Arm power shutdown...
+[01/25/17 16:10:51]: -----------------------------------------------
+[01/25/17 16:10:51]: Logger started
+[01/25/17 16:10:56]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/25/17 16:10:56]: Cycle time set to 0.004s
+[01/25/17 16:10:56]: Simulation cycle time set to 0.1s
+[01/25/17 16:10:56]: Controller IP address could not be updated
+[01/25/17 16:10:56]: STARC : No STARC board detected on PCI.
+[01/25/17 16:10:56]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/25/17 16:10:56]: Power hour count = 0:02:06
+[01/25/17 16:10:56]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/25/17 16:10:56]: COM-PC: server created on all interfaces [5653]
+[01/25/17 16:10:56]: System: s7.3.1 Mar 12 2012
+[01/25/17 16:10:56]: Configuration Version: c1.009 
+[01/25/17 16:10:56]: Option testMode: enabled 
+[01/25/17 16:10:56]: Option VAL 3: enabled 
+[01/25/17 16:10:56]: Option uniVAL: enabled 
+[01/25/17 16:10:56]: Machine Number: ? 
+[01/25/17 16:10:56]: Arm: tx60-S1-R3 floor
+[01/25/17 16:10:56]: Arm serial number: ? 
+[01/25/17 16:10:56]: Robot name:  
+[01/25/17 16:10:56]: EP: s7.3.1 Mar  6 2012
+[01/25/17 16:10:56]: SCA: s7.3.1 Mar  6 2012
+[01/25/17 16:10:56]: PLC: s7.3.1 Mar  6 2012
+[01/25/17 16:10:56]: New profile : default
+[01/25/17 16:10:56]: End of controller initialization
+[01/25/17 16:10:56]: System event INTERFACE-Stopped  (Main menu)
+[01/25/17 16:10:56]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/25/17 16:10:56]: COM-PC: create session 127.0.0.1 on port 6570 id=#41118200
+[01/25/17 16:10:57]: Internal error MCP-NoAnswer: char 1
+[01/25/17 16:10:57]: End of arm power shutdown phase.
+[01/25/17 16:11:04]: MCP communication disconnected
+[01/25/17 16:11:05]: Mcp = TSimulated
+[01/25/17 16:11:05]: Mcp communication established
+[01/25/17 16:11:05]: Working mode:automatic.
+[01/25/17 16:12:41]: MCP communication disconnected
+[01/25/17 16:13:07]: -----------------------------------------------
+[01/25/17 16:13:07]: Logger started
+[01/25/17 16:13:12]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/25/17 16:13:12]: Cycle time set to 0.004s
+[01/25/17 16:13:12]: Simulation cycle time set to 0.1s
+[01/25/17 16:13:12]: Controller IP address could not be updated
+[01/25/17 16:13:12]: STARC : No STARC board detected on PCI.
+[01/25/17 16:13:12]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/25/17 16:13:12]: Power hour count = 0:02:06
+[01/25/17 16:13:12]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/25/17 16:13:12]: COM-PC: server created on all interfaces [5653]
+[01/25/17 16:13:12]: System: s7.3.1 Mar 12 2012
+[01/25/17 16:13:12]: Configuration Version: c1.009 
+[01/25/17 16:13:12]: Option testMode: enabled 
+[01/25/17 16:13:12]: Option VAL 3: enabled 
+[01/25/17 16:13:12]: Option uniVAL: enabled 
+[01/25/17 16:13:12]: Machine Number: ? 
+[01/25/17 16:13:12]: Arm: tx60-S1-R3 floor
+[01/25/17 16:13:12]: Arm serial number: ? 
+[01/25/17 16:13:12]: Robot name:  
+[01/25/17 16:13:12]: EP: s7.3.1 Mar  6 2012
+[01/25/17 16:13:12]: SCA: s7.3.1 Mar  6 2012
+[01/25/17 16:13:12]: PLC: s7.3.1 Mar  6 2012
+[01/25/17 16:13:12]: New profile : default
+[01/25/17 16:13:12]: End of controller initialization
+[01/25/17 16:13:12]: System event INTERFACE-Stopped  (Calibration)
+[01/25/17 16:13:12]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[01/25/17 16:13:12]: End of arm power shutdown phase.
+[01/25/17 16:13:13]: COM-PC: create session 127.0.0.1 on port 6604 id=#41078152
+[01/25/17 16:13:13]: Internal error MCP-NoAnswer: char 1
+[01/25/17 16:13:19]: MCP communication disconnected
+[01/25/17 16:13:21]: Mcp = TSimulated
+[01/25/17 16:13:21]: Mcp communication established
+[01/25/17 16:13:22]: Working mode:automatic.
+[01/25/17 16:58:31]: -----------------------------------------------
+[01/25/17 16:58:31]: Logger started
+[01/25/17 16:58:35]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/25/17 16:58:35]: Cycle time set to 0.004s
+[01/25/17 16:58:35]: Simulation cycle time set to 0.1s
+[01/25/17 16:58:35]: Controller IP address could not be updated
+[01/25/17 16:58:35]: STARC : No STARC board detected on PCI.
+[01/25/17 16:58:35]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/25/17 16:58:35]: Power hour count = 0:02:06
+[01/25/17 16:58:35]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/25/17 16:58:35]: COM-PC: server created on all interfaces [5653]
+[01/25/17 16:58:35]: System: s7.3.1 Mar 12 2012
+[01/25/17 16:58:35]: Configuration Version: c1.009 
+[01/25/17 16:58:35]: Option testMode: enabled 
+[01/25/17 16:58:35]: Option VAL 3: enabled 
+[01/25/17 16:58:35]: Option uniVAL: enabled 
+[01/25/17 16:58:35]: Machine Number: ? 
+[01/25/17 16:58:35]: Arm: tx60-S1-R3 floor
+[01/25/17 16:58:35]: Arm serial number: ? 
+[01/25/17 16:58:35]: Robot name:  
+[01/25/17 16:58:35]: EP: s7.3.1 Mar  6 2012
+[01/25/17 16:58:35]: SCA: s7.3.1 Mar  6 2012
+[01/25/17 16:58:35]: PLC: s7.3.1 Mar  6 2012
+[01/25/17 16:58:35]: New profile : default
+[01/25/17 16:58:35]: End of controller initialization
+[01/25/17 16:58:35]: System event INTERFACE-Stopped  (Calibration)
+[01/25/17 16:58:35]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[01/25/17 16:58:35]: COM-PC: create session 127.0.0.1 on port 7411 id=#49110016
+[01/25/17 16:58:36]: End of arm power shutdown phase.
+[01/25/17 16:58:37]: Internal error MCP-NoAnswer: char 1
+[01/25/17 16:58:43]: MCP communication disconnected
+[01/25/17 16:58:45]: Mcp = TSimulated
+[01/25/17 16:58:45]: Mcp communication established
+[01/25/17 16:58:45]: Working mode:automatic.
+[01/26/17 11:07:01]: -----------------------------------------------
+[01/26/17 11:07:01]: Logger started
+[01/26/17 11:07:06]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/26/17 11:07:06]: Cycle time set to 0.004s
+[01/26/17 11:07:06]: Simulation cycle time set to 0.1s
+[01/26/17 11:07:06]: Controller IP address could not be updated
+[01/26/17 11:07:06]: STARC : No STARC board detected on PCI.
+[01/26/17 11:07:06]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/26/17 11:07:06]: Power hour count = 0:02:06
+[01/26/17 11:07:06]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/26/17 11:07:06]: COM-PC: server created on all interfaces [5653]
+[01/26/17 11:07:06]: System: s7.3.1 Mar 12 2012
+[01/26/17 11:07:06]: Configuration Version: c1.009 
+[01/26/17 11:07:06]: Option testMode: enabled 
+[01/26/17 11:07:06]: Option VAL 3: enabled 
+[01/26/17 11:07:06]: Option uniVAL: enabled 
+[01/26/17 11:07:06]: Machine Number: ? 
+[01/26/17 11:07:06]: Arm: tx60-S1-R3 floor
+[01/26/17 11:07:06]: Arm serial number: ? 
+[01/26/17 11:07:06]: Robot name:  
+[01/26/17 11:07:06]: EP: s7.3.1 Mar  6 2012
+[01/26/17 11:07:06]: SCA: s7.3.1 Mar  6 2012
+[01/26/17 11:07:06]: PLC: s7.3.1 Mar  6 2012
+[01/26/17 11:07:06]: New profile : default
+[01/26/17 11:07:06]: End of controller initialization
+[01/26/17 11:07:06]: System event INTERFACE-Stopped  (Main menu)
+[01/26/17 11:07:06]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/26/17 11:07:06]: End of arm power shutdown phase.
+[01/26/17 11:07:06]: COM-PC: create session 127.0.0.1 on port 2658 id=#42560096
+[01/26/17 11:07:06]: Internal error MCP-NoAnswer: char 1
+[01/26/17 11:07:12]: MCP communication disconnected
+[01/26/17 11:07:14]: Mcp = TSimulated
+[01/26/17 11:07:14]: Mcp communication established
+[01/26/17 11:07:15]: Working mode:automatic.
+[01/26/17 11:07:29]: RemoteAxisCtrl application started
+[01/26/17 11:07:33]: Deadman validated
+[01/26/17 11:07:33]: Settling arm power...
+[01/26/17 11:07:33]: Arm power settled.
+[01/26/17 11:07:48]: Deadman enabled.
+[01/26/17 11:37:36]: Saving controller context...
+[01/26/17 11:37:36]: Controller temperature: 28°C
+[01/26/17 11:37:36]: CPU temperature: 28°C
+[01/26/17 11:43:55]: RemoteAxisCtrl application stopped
+[01/26/17 12:07:39]: Saving controller context...
+[01/26/17 13:07:45]: Saving controller context... (2)
+[01/26/17 13:21:38]: MCP communication disconnected
+[01/26/17 13:21:38]: Arm power shutdown: working mode change.
+[01/26/17 13:21:38]: Arm power shutdown...
+[01/26/17 13:21:39]: End of arm power shutdown phase.
+[01/26/17 16:50:41]: -----------------------------------------------
+[01/26/17 16:50:41]: Logger started
+[01/26/17 16:50:45]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/26/17 16:50:45]: Cycle time set to 0.004s
+[01/26/17 16:50:45]: Simulation cycle time set to 0.1s
+[01/26/17 16:50:45]: Controller IP address could not be updated
+[01/26/17 16:50:45]: STARC : No STARC board detected on PCI.
+[01/26/17 16:50:45]: Cannot load uniVAL driver files: .\sys/uniVAL
+[01/26/17 16:50:45]: Power hour count = 2:01:59
+[01/26/17 16:50:45]: Mac Address = fc-f8-ae-f4-0e-d4
+[01/26/17 16:50:45]: COM-PC: server created on all interfaces [5653]
+[01/26/17 16:50:45]: System: s7.3.1 Mar 12 2012
+[01/26/17 16:50:45]: Configuration Version: c1.009 
+[01/26/17 16:50:45]: Option testMode: enabled 
+[01/26/17 16:50:45]: Option VAL 3: enabled 
+[01/26/17 16:50:45]: Option uniVAL: enabled 
+[01/26/17 16:50:45]: Machine Number: ? 
+[01/26/17 16:50:45]: Arm: tx60-S1-R3 floor
+[01/26/17 16:50:45]: Arm serial number: ? 
+[01/26/17 16:50:45]: Robot name:  
+[01/26/17 16:50:45]: EP: s7.3.1 Mar  6 2012
+[01/26/17 16:50:45]: SCA: s7.3.1 Mar  6 2012
+[01/26/17 16:50:45]: PLC: s7.3.1 Mar  6 2012
+[01/26/17 16:50:45]: New profile : default
+[01/26/17 16:50:45]: End of controller initialization
+[01/26/17 16:50:45]: System event INTERFACE-Stopped  (Main menu)
+[01/26/17 16:50:45]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[01/26/17 16:50:46]: Internal error MCP-NoAnswer: char 1
+[01/26/17 16:50:46]: End of arm power shutdown phase.
+[01/26/17 16:50:52]: MCP communication disconnected
+[01/26/17 16:50:54]: Mcp = TSimulated
+[01/26/17 16:50:54]: Mcp communication established
+[01/26/17 16:50:54]: Working mode:automatic.
+[01/26/17 16:51:07]: Deadman validated
+[01/26/17 16:51:07]: Settling arm power...
+[01/26/17 16:51:08]: Arm power settled.
+[01/26/17 16:51:12]: RemoteAxisCtrl application started
+[01/26/17 16:51:22]: COM-PC: create session 127.0.0.1 on port 3125 id=#42504160
+[01/26/17 16:51:22]: Deadman enabled.
+[01/26/17 16:55:26]: RemoteAxisCtrl application stopped
+[01/26/17 17:01:48]: RemoteAxisCtrl application started
+[01/26/17 17:05:54]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[01/26/17 17:12:30]: Arm power shutdown...
+[01/26/17 17:12:31]: End of arm power shutdown phase.
+[01/26/17 17:12:33]: Deadman disabled.
+[01/26/17 17:12:33]: Deadman validated
+[01/26/17 17:12:33]: Settling arm power...
+[01/26/17 17:12:33]: Arm power settled.
+[01/26/17 17:12:33]: Saving controller context...
+[01/26/17 17:12:33]: Controller temperature: 28°C
+[01/26/17 17:12:33]: CPU temperature: 28°C
+[01/26/17 17:12:34]: Manual motion mode:Connect
+[01/26/17 17:12:35]: Manual motion mode:Disabled
+[01/26/17 17:12:35]: End of connection move.
+[01/26/17 17:12:48]: Deadman enabled.
+[01/26/17 17:13:32]: RemoteAxisCtrl application stopped
+[01/26/17 17:13:39]: RemoteAxisCtrl application started
+[01/26/17 17:15:53]: RemoteAxisCtrl application stopped
+[01/26/17 17:16:15]: RemoteAxisCtrl application started
+[01/26/17 17:17:58]: RemoteAxisCtrl application stopped
+[01/26/17 17:18:40]: RemoteAxisCtrl application started
+[01/26/17 17:21:15]: Arm power shutdown...
+[01/26/17 17:21:16]: End of arm power shutdown phase.
+[01/26/17 17:21:16]: Deadman disabled.
+[01/26/17 17:21:17]: Deadman validated
+[01/26/17 17:21:17]: Settling arm power...
+[01/26/17 17:21:17]: Arm power settled.
+[01/26/17 17:21:18]: Manual motion mode:Connect
+[01/26/17 17:21:28]: Manual motion mode:Disabled
+[01/26/17 17:21:28]: End of connection move.
+[01/26/17 17:21:28]: RemoteAxisCtrl application stopped
+[01/26/17 17:21:32]: Deadman enabled.
+[01/26/17 17:21:36]: RemoteAxisCtrl application started
+[01/26/17 17:22:01]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[01/26/17 17:23:25]: Arm power shutdown...
+[01/26/17 17:23:26]: End of arm power shutdown phase.
+[01/26/17 17:23:31]: Saving controller context...
+[01/26/17 17:23:43]: Deadman disabled.
+[01/26/17 17:23:43]: Deadman validated
+[01/26/17 17:23:43]: Settling arm power...
+[01/26/17 17:23:43]: Arm power settled.
+[01/26/17 17:23:44]: Manual motion mode:Connect
+[01/26/17 17:23:45]: Manual motion mode:Disabled
+[01/26/17 17:23:45]: End of connection move.
+[01/26/17 17:23:58]: Deadman enabled.
+[01/26/17 17:24:03]: Arm power shutdown...
+[01/26/17 17:24:04]: End of arm power shutdown phase.
+[01/26/17 17:24:06]: Saving controller context...
+[01/26/17 17:24:08]: Deadman disabled.
+[01/26/17 17:24:08]: Deadman validated
+[01/26/17 17:24:08]: Settling arm power...
+[01/26/17 17:24:09]: Arm power settled.
+[01/26/17 17:24:09]: Manual motion mode:Connect
+[01/26/17 17:24:15]: Manual motion mode:Disabled
+[01/26/17 17:24:15]: End of connection move.
+[01/26/17 17:24:23]: Deadman enabled.
+[01/26/17 17:24:44]: Arm power shutdown...
+[01/26/17 17:24:45]: End of arm power shutdown phase.
+[01/26/17 17:24:46]: Saving controller context...
+[01/26/17 17:24:47]: Deadman disabled.
+[01/26/17 17:24:47]: Deadman validated
+[01/26/17 17:24:47]: Settling arm power...
+[01/26/17 17:24:48]: Arm power settled.
+[01/26/17 17:24:48]: Manual motion mode:Connect
+[01/26/17 17:24:54]: RemoteAxisCtrl application stopped
+[01/26/17 17:24:54]: Manual motion mode:Disabled
+[01/26/17 17:24:54]: End of connection move.
+[01/26/17 17:25:02]: Deadman enabled.
+[01/26/17 17:25:03]: RemoteAxisCtrl application started
+[01/26/17 17:26:56]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[01/26/17 17:30:08]: Arm power shutdown...
+[01/26/17 17:30:09]: End of arm power shutdown phase.
+[01/26/17 17:30:11]: Saving controller context...
+[01/26/17 17:32:28]: Deadman disabled.
+[01/26/17 17:32:28]: Deadman validated
+[01/26/17 17:32:29]: Settling arm power...
+[01/26/17 17:32:29]: Arm power settled.
+[01/26/17 17:32:29]: Manual motion mode:Connect
+[01/26/17 17:32:32]: RemoteAxisCtrl application stopped
+[01/26/17 17:32:32]: Manual motion mode:Disabled
+[01/26/17 17:32:32]: End of connection move.
+[01/26/17 17:32:43]: Deadman enabled.
+[01/26/17 17:32:46]: RemoteAxisCtrl application started
+[01/26/17 17:38:36]: Arm power shutdown...
+[01/26/17 17:38:37]: End of arm power shutdown phase.
+[01/26/17 17:38:39]: Saving controller context...
+[01/26/17 18:05:55]: Deadman disabled.
+[01/26/17 18:05:55]: Deadman validated
+[01/26/17 18:05:56]: Settling arm power...
+[01/26/17 18:05:56]: Arm power settled.
+[01/26/17 18:05:56]: Manual motion mode:Connect
+[01/26/17 18:06:01]: Manual motion mode:Disabled
+[01/26/17 18:06:01]: End of connection move.
+[01/26/17 18:06:10]: RemoteAxisCtrl application stopped
+[01/26/17 18:06:10]: Deadman enabled.
+[01/26/17 18:06:13]: RemoteAxisCtrl application started
+[01/26/17 18:07:10]: RemoteAxisCtrl application stopped
+[01/26/17 18:07:51]: RemoteAxisCtrl application started
+[01/26/17 18:08:50]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[01/26/17 18:09:28]: RemoteAxisCtrl application stopped
+[01/26/17 18:13:56]: RemoteAxisCtrl application started
+[01/26/17 18:15:31]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[01/26/17 18:15:47]: RemoteAxisCtrl application stopped
+[01/26/17 18:15:52]: RemoteAxisCtrl application started
+[01/26/17 18:20:01]: Arm power shutdown...
+[01/26/17 18:20:02]: End of arm power shutdown phase.
+[01/26/17 18:20:04]: Saving controller context...
+[01/26/17 19:24:03]: RemoteAxisCtrl application stopped
+[01/26/17 20:35:45]: COM-PC: destroy session 127.0.0.1 on port 3125 id=#42504160
+[02/04/17 12:34:16]: -----------------------------------------------
+[02/04/17 12:34:16]: Logger started
+[02/04/17 12:34:21]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/04/17 12:34:21]: Cycle time set to 0.004s
+[02/04/17 12:34:21]: Simulation cycle time set to 0.1s
+[02/04/17 12:34:21]: Controller IP address could not be updated
+[02/04/17 12:34:21]: STARC : No STARC board detected on PCI.
+[02/04/17 12:34:21]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/04/17 12:34:21]: Power hour count = 3:00:25
+[02/04/17 12:34:21]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/04/17 12:34:21]: COM-PC: server created on all interfaces [5653]
+[02/04/17 12:34:21]: System: s7.3.1 Mar 12 2012
+[02/04/17 12:34:21]: Configuration Version: c1.009 
+[02/04/17 12:34:21]: Option testMode: enabled 
+[02/04/17 12:34:21]: Option VAL 3: enabled 
+[02/04/17 12:34:21]: Option uniVAL: enabled 
+[02/04/17 12:34:21]: Machine Number: ? 
+[02/04/17 12:34:21]: Arm: tx60-S1-R3 floor
+[02/04/17 12:34:21]: Arm serial number: ? 
+[02/04/17 12:34:21]: Robot name:  
+[02/04/17 12:34:21]: EP: s7.3.1 Mar  6 2012
+[02/04/17 12:34:21]: SCA: s7.3.1 Mar  6 2012
+[02/04/17 12:34:21]: PLC: s7.3.1 Mar  6 2012
+[02/04/17 12:34:21]: New profile : default
+[02/04/17 12:34:21]: End of controller initialization
+[02/04/17 12:34:21]: System event INTERFACE-Stopped  (Main menu)
+[02/04/17 12:34:21]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/04/17 12:34:21]: End of arm power shutdown phase.
+[02/04/17 12:34:22]: Internal error MCP-NoAnswer: char 1
+[02/04/17 12:34:23]: COM-PC: create session 127.0.0.1 on port 2979 id=#41766976
+[02/04/17 12:34:26]: Saving controller context...
+[02/04/17 12:34:26]: Controller temperature: 28°C
+[02/04/17 12:34:26]: CPU temperature: 28°C
+[02/04/17 12:34:28]: MCP communication disconnected
+[02/04/17 12:34:30]: Mcp = TSimulated
+[02/04/17 12:34:30]: Mcp communication established
+[02/04/17 12:34:30]: Working mode:automatic.
+[02/04/17 12:34:44]: RemoteAxisCtrl application started
+[02/04/17 12:35:27]: Deadman validated
+[02/04/17 12:35:27]: Settling arm power...
+[02/04/17 12:35:27]: Arm power settled.
+[02/04/17 12:35:42]: Deadman enabled.
+[02/04/17 12:38:08]: COM-PC: destroy session 127.0.0.1 on port 2979 id=#41766976
+[02/06/17 18:11:13]: -----------------------------------------------
+[02/06/17 18:11:13]: Logger started
+[02/06/17 18:11:18]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/06/17 18:11:18]: Cycle time set to 0.004s
+[02/06/17 18:11:18]: Simulation cycle time set to 0.1s
+[02/06/17 18:11:18]: Controller IP address could not be updated
+[02/06/17 18:11:18]: STARC : No STARC board detected on PCI.
+[02/06/17 18:11:18]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/06/17 18:11:18]: Power hour count = 3:00:25
+[02/06/17 18:11:18]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/06/17 18:11:18]: COM-PC: server created on all interfaces [5653]
+[02/06/17 18:11:18]: System: s7.3.1 Mar 12 2012
+[02/06/17 18:11:18]: Configuration Version: c1.009 
+[02/06/17 18:11:18]: Option testMode: enabled 
+[02/06/17 18:11:18]: Option VAL 3: enabled 
+[02/06/17 18:11:18]: Option uniVAL: enabled 
+[02/06/17 18:11:18]: Machine Number: ? 
+[02/06/17 18:11:18]: Arm: tx60-S1-R3 floor
+[02/06/17 18:11:18]: Arm serial number: ? 
+[02/06/17 18:11:18]: Robot name:  
+[02/06/17 18:11:18]: EP: s7.3.1 Mar  6 2012
+[02/06/17 18:11:18]: SCA: s7.3.1 Mar  6 2012
+[02/06/17 18:11:18]: PLC: s7.3.1 Mar  6 2012
+[02/06/17 18:11:18]: New profile : default
+[02/06/17 18:11:18]: End of controller initialization
+[02/06/17 18:11:18]: System event INTERFACE-Stopped  (Main menu)
+[02/06/17 18:11:18]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/06/17 18:11:18]: End of arm power shutdown phase.
+[02/06/17 18:11:18]: COM-PC: create session 127.0.0.1 on port 4978 id=#48000224
+[02/06/17 18:11:18]: Internal error MCP-NoAnswer: char 1
+[02/06/17 18:11:23]: Saving controller context...
+[02/06/17 18:11:23]: Controller temperature: 28°C
+[02/06/17 18:11:23]: CPU temperature: 28°C
+[02/06/17 18:11:24]: MCP communication disconnected
+[02/06/17 18:11:26]: Mcp = TSimulated
+[02/06/17 18:11:26]: Mcp communication established
+[02/06/17 18:11:27]: Working mode:automatic.
+[02/06/17 18:11:45]: Jog move impossible: first select a jog mode.
+[02/06/17 18:11:48]: Working mode:manual.
+[02/06/17 18:11:49]: Deadman validated
+[02/06/17 18:11:49]: Settling arm power...
+[02/06/17 18:11:50]: Arm power settled.
+[02/06/17 18:11:54]: Jog move impossible: first select a jog mode.
+[02/06/17 18:11:55]: Jog move impossible: first select a jog mode. (1)
+[02/06/17 18:12:01]: Manual motion mode:Joint
+[02/06/17 18:12:04]: Deadman enabled.
+[02/06/17 18:12:08]: Manual motion mode:Frame
+[02/06/17 18:12:08]: Manual motion mode:Tool
+[02/06/17 18:12:09]: Manual motion mode:Point
+[02/06/17 18:12:10]: Manual motion mode:Tool
+[02/06/17 18:12:11]: Manual motion mode:Point
+[02/06/17 18:12:13]: Jog move impossible: first select a jog mode.
+[02/06/17 18:12:14]: Jog move impossible: first select a jog mode. (1)
+[02/06/17 18:12:16]: No target defined
+[02/06/17 18:12:17]: Jog move impossible: first select a jog mode.
+[02/06/17 18:12:18]: Jog move impossible: first select a jog mode. (1)
+[02/06/17 18:12:22]: Manual motion mode:Point
+[02/06/17 18:14:21]: Point  Point1_1  modified
+[02/06/17 18:14:30]: Point  Point1_1  taught
+[02/06/17 18:14:45]: Points application started
+[02/06/17 18:14:45]: Points application stopped
+[02/06/17 18:14:54]: Points application started
+[02/06/17 18:14:54]: Points application stopped
+[02/06/17 18:14:58]: Points application started
+[02/06/17 18:14:58]: Points application stopped
+[02/06/17 18:15:52]: Point  Point1_2  modified
+[02/06/17 18:16:03]: Point  Point1_2  taught
+[02/06/17 18:16:34]: Point  Point1_2  modified
+[02/06/17 18:16:48]: Point  Point1_1  modified
+[02/06/17 18:17:16]: Manual motion mode:Tool
+[02/06/17 18:17:17]: Manual motion mode:Frame
+[02/06/17 18:17:18]: Manual motion mode:Joint
+[02/06/17 18:17:19]: Manual motion mode:Frame
+[02/06/17 18:17:19]: Manual motion mode:Tool
+[02/06/17 18:17:20]: Manual motion mode:Disabled
+[02/06/17 18:17:20]: Manual motion mode:Point
+[02/06/17 18:17:43]: Manual motion mode:Disabled
+[02/06/17 18:17:44]: Manual motion mode:Point
+[02/06/17 18:17:50]: Manual motion mode:Disabled
+[02/06/17 18:18:20]: MCP communication disconnected
+[02/06/17 18:18:20]: Arm power shutdown: working mode change.
+[02/06/17 18:18:20]: Arm power shutdown...
+[02/07/17 16:17:51]: -----------------------------------------------
+[02/07/17 16:17:51]: Logger started
+[02/07/17 16:17:56]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/07/17 16:17:56]: Cycle time set to 0.004s
+[02/07/17 16:17:56]: Simulation cycle time set to 0.1s
+[02/07/17 16:17:56]: Controller IP address could not be updated
+[02/07/17 16:17:56]: STARC : No STARC board detected on PCI.
+[02/07/17 16:17:56]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/07/17 16:17:56]: Power hour count = 3:00:25
+[02/07/17 16:17:56]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/07/17 16:17:56]: COM-PC: server created on all interfaces [5653]
+[02/07/17 16:17:56]: System: s7.3.1 Mar 12 2012
+[02/07/17 16:17:56]: Configuration Version: c1.009 
+[02/07/17 16:17:56]: Option testMode: enabled 
+[02/07/17 16:17:56]: Option VAL 3: enabled 
+[02/07/17 16:17:56]: Option uniVAL: enabled 
+[02/07/17 16:17:56]: Machine Number: ? 
+[02/07/17 16:17:56]: Arm: tx60-S1-R3 floor
+[02/07/17 16:17:56]: Arm serial number: ? 
+[02/07/17 16:17:56]: Robot name:  
+[02/07/17 16:17:56]: EP: s7.3.1 Mar  6 2012
+[02/07/17 16:17:56]: SCA: s7.3.1 Mar  6 2012
+[02/07/17 16:17:56]: PLC: s7.3.1 Mar  6 2012
+[02/07/17 16:17:56]: New profile : default
+[02/07/17 16:17:56]: End of controller initialization
+[02/07/17 16:17:56]: System event INTERFACE-Stopped  (Main menu)
+[02/07/17 16:17:56]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/07/17 16:17:56]: COM-PC: create session 127.0.0.1 on port 4532 id=#41896360
+[02/07/17 16:17:56]: End of arm power shutdown phase.
+[02/07/17 16:17:57]: Internal error MCP-NoAnswer: char 1
+[02/07/17 16:18:03]: MCP communication disconnected
+[02/07/17 16:18:05]: Mcp = TSimulated
+[02/07/17 16:18:05]: Mcp communication established
+[02/07/17 16:18:05]: Working mode:automatic.
+[02/07/17 16:18:13]: Deadman validated
+[02/07/17 16:18:13]: Settling arm power...
+[02/07/17 16:18:14]: Arm power settled.
+[02/07/17 16:18:17]: RemoteAxisCtrl application started
+[02/07/17 16:18:28]: Deadman enabled.
+[02/07/17 16:18:39]: RemoteAxisCtrl application stopped
+[02/07/17 16:19:19]: RemoteAxisCtrl application started
+[02/07/17 16:19:35]: RemoteAxisCtrl application stopped
+[02/07/17 16:19:40]: RemoteAxisCtrl application started
+[02/07/17 16:19:58]: RemoteAxisCtrl application stopped
+[02/07/17 16:20:26]: RemoteAxisCtrl application started
+[02/07/17 16:20:38]: RemoteAxisCtrl application stopped
+[02/07/17 16:21:37]: RemoteAxisCtrl application started
+[02/07/17 16:21:49]: RemoteAxisCtrl application stopped
+[02/07/17 16:22:07]: RemoteAxisCtrl application started
+[02/07/17 16:22:18]: RemoteAxisCtrl application stopped
+[02/07/17 16:25:19]: RemoteAxisCtrl application started
+[02/07/17 16:25:46]: RemoteAxisCtrl application stopped
+[02/07/17 16:26:07]: RemoteAxisCtrl application started
+[02/07/17 16:27:00]: RemoteAxisCtrl application stopped
+[02/07/17 16:27:02]: RemoteAxisCtrl application started
+[02/07/17 16:27:10]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:28:11]: RemoteAxisCtrl application stopped
+[02/07/17 16:28:13]: RemoteAxisCtrl application started
+[02/07/17 16:28:20]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:28:35]: RemoteAxisCtrl application stopped
+[02/07/17 16:28:37]: RemoteAxisCtrl application started
+[02/07/17 16:28:42]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:29:00]: RemoteAxisCtrl application stopped
+[02/07/17 16:29:01]: RemoteAxisCtrl application started
+[02/07/17 16:29:06]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:29:38]: RemoteAxisCtrl application stopped
+[02/07/17 16:29:39]: RemoteAxisCtrl application started
+[02/07/17 16:29:57]: RemoteAxisCtrl application stopped
+[02/07/17 16:30:06]: RemoteAxisCtrl application started
+[02/07/17 16:30:20]: RemoteAxisCtrl application stopped
+[02/07/17 16:30:32]: RemoteAxisCtrl application started
+[02/07/17 16:31:00]: RemoteAxisCtrl application stopped
+[02/07/17 16:31:30]: RemoteAxisCtrl application started
+[02/07/17 16:35:43]: RemoteAxisCtrl application stopped
+[02/07/17 16:35:43]: RemoteAxisCtrl application started
+[02/07/17 16:36:45]: RemoteAxisCtrl application stopped
+[02/07/17 16:36:59]: RemoteAxisCtrl application started
+[02/07/17 16:37:14]: RemoteAxisCtrl application stopped
+[02/07/17 16:37:22]: RemoteAxisCtrl application started
+[02/07/17 16:37:43]: RemoteAxisCtrl application stopped
+[02/07/17 16:39:44]: RemoteAxisCtrl application started
+[02/07/17 16:40:08]: Cannot move: cannot cross singularity in this case.
+[02/07/17 16:40:23]: RemoteAxisCtrl application stopped
+[02/07/17 16:40:45]: RemoteAxisCtrl application started
+[02/07/17 16:40:50]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:41:03]: RemoteAxisCtrl application stopped
+[02/07/17 16:48:01]: RemoteAxisCtrl application started
+[02/07/17 16:48:17]: Saving controller context...
+[02/07/17 16:48:17]: Controller temperature: 28°C
+[02/07/17 16:48:17]: CPU temperature: 28°C
+[02/07/17 16:48:23]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:48:40]: RemoteAxisCtrl application stopped
+[02/07/17 16:52:12]: Arm power shutdown...
+[02/07/17 16:52:13]: End of arm power shutdown phase.
+[02/07/17 16:52:14]: Saving controller context...
+[02/07/17 16:53:11]: COM-PC: destroy session 127.0.0.1 on port 4532 id=#41896360
+[02/07/17 16:53:20]: COM-PC: create session 127.0.0.1 on port 4989 id=#41898336
+[02/07/17 16:53:41]: COM-PC: destroy session 127.0.0.1 on port 4989 id=#41898336
+[02/07/17 16:53:44]: COM-PC: create session 127.0.0.1 on port 4997 id=#41896048
+[02/07/17 16:54:21]: COM-PC: destroy session 127.0.0.1 on port 4997 id=#41896048
+[02/07/17 16:54:25]: COM-PC: create session 127.0.0.1 on port 5011 id=#41898024
+[02/07/17 16:55:21]: COM-PC: destroy session 127.0.0.1 on port 5011 id=#41898024
+[02/07/17 16:55:37]: RemoteAxisCtrl application started
+[02/07/17 16:55:41]: Deadman disabled.
+[02/07/17 16:55:41]: Deadman validated
+[02/07/17 16:55:41]: Settling arm power...
+[02/07/17 16:55:42]: Arm power settled.
+[02/07/17 16:55:50]: COM-PC: create session 127.0.0.1 on port 5031 id=#41897920
+[02/07/17 16:55:56]: ERR 154 Invalid movement command: invalid destination point or mdesc.. RemoteAxisCtrl~. 
+[02/07/17 16:55:56]: Deadman enabled.
+[02/07/17 16:56:11]: RemoteAxisCtrl application stopped
+[02/07/17 16:56:12]: RemoteAxisCtrl application started
+[02/07/17 16:56:33]: Jog move impossible: first select a jog mode.
+[02/07/17 16:56:53]: Cannot move: cannot cross singularity in this case.
+[02/07/17 16:57:20]: RemoteAxisCtrl application stopped
+[02/07/17 16:57:22]: RemoteAxisCtrl application started
+[02/07/17 16:59:00]: Cannot move: cannot cross singularity in this case.
+[02/07/17 16:59:18]: Arm power shutdown...
+[02/07/17 16:59:19]: End of arm power shutdown phase.
+[02/07/17 16:59:22]: Saving controller context...
+[02/07/17 16:59:32]: RemoteAxisCtrl application stopped
+[02/07/17 16:59:51]: COM-PC: destroy session 127.0.0.1 on port 5031 id=#41897920
+[02/07/17 17:02:51]: COM-PC: create session 127.0.0.1 on port 5156 id=#41897608
+[02/07/17 17:03:21]: COM-PC: destroy session 127.0.0.1 on port 5156 id=#41897608
+[02/07/17 17:04:01]: COM-PC: create session 127.0.0.1 on port 5173 id=#41896048
+[02/07/17 17:05:41]: COM-PC: destroy session 127.0.0.1 on port 5173 id=#41896048
+[02/07/17 17:06:13]: Deadman disabled.
+[02/07/17 17:06:13]: Deadman validated
+[02/07/17 17:06:13]: Settling arm power...
+[02/07/17 17:06:14]: Arm power settled.
+[02/07/17 17:06:20]: RemoteAxisCtrl application started
+[02/07/17 17:06:23]: COM-PC: create session 127.0.0.1 on port 5206 id=#41897296
+[02/07/17 17:06:28]: Deadman enabled.
+[02/07/17 17:06:31]: Cannot move: cannot cross singularity in this case.
+[02/07/17 17:06:46]: RemoteAxisCtrl application stopped
+[02/07/17 17:07:09]: Arm power shutdown...
+[02/07/17 17:07:10]: End of arm power shutdown phase.
+[02/07/17 17:07:10]: Deadman disabled.
+[02/07/17 17:07:10]: Deadman validated
+[02/07/17 17:07:11]: Saving controller context...
+[02/07/17 17:07:25]: Deadman enabled.
+[02/07/17 17:07:31]: COM-PC: destroy session 127.0.0.1 on port 5206 id=#41897296
+[02/07/17 18:07:27]: -----------------------------------------------
+[02/07/17 18:07:27]: Logger started
+[02/07/17 18:07:31]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/07/17 18:07:31]: Cycle time set to 0.004s
+[02/07/17 18:07:31]: Simulation cycle time set to 0.1s
+[02/07/17 18:07:31]: Controller IP address could not be updated
+[02/07/17 18:07:31]: STARC : No STARC board detected on PCI.
+[02/07/17 18:07:31]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/07/17 18:07:31]: Power hour count = 3:38:45
+[02/07/17 18:07:31]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/07/17 18:07:31]: COM-PC: server created on all interfaces [5653]
+[02/07/17 18:07:31]: System: s7.3.1 Mar 12 2012
+[02/07/17 18:07:31]: Configuration Version: c1.009 
+[02/07/17 18:07:31]: Option testMode: enabled 
+[02/07/17 18:07:31]: Option VAL 3: enabled 
+[02/07/17 18:07:31]: Option uniVAL: enabled 
+[02/07/17 18:07:31]: Machine Number: ? 
+[02/07/17 18:07:31]: Arm: tx60-S1-R3 floor
+[02/07/17 18:07:31]: Arm serial number: ? 
+[02/07/17 18:07:31]: Robot name:  
+[02/07/17 18:07:31]: EP: s7.3.1 Mar  6 2012
+[02/07/17 18:07:31]: SCA: s7.3.1 Mar  6 2012
+[02/07/17 18:07:31]: PLC: s7.3.1 Mar  6 2012
+[02/07/17 18:07:31]: New profile : default
+[02/07/17 18:07:31]: End of controller initialization
+[02/07/17 18:07:31]: System event INTERFACE-Stopped  (Main menu)
+[02/07/17 18:07:31]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/07/17 18:07:32]: COM-PC: create session 127.0.0.1 on port 2575 id=#40990320
+[02/07/17 18:07:32]: End of arm power shutdown phase.
+[02/07/17 18:07:33]: Internal error MCP-NoAnswer: char 1
+[02/07/17 18:07:39]: MCP communication disconnected
+[02/07/17 18:07:41]: Mcp = TSimulated
+[02/07/17 18:07:41]: Mcp communication established
+[02/07/17 18:07:41]: Working mode:automatic.
+[02/07/17 18:08:07]: COM-PC: destroy session 127.0.0.1 on port 2575 id=#40990320
+[02/07/17 18:09:34]: COM-PC: create session 127.0.0.1 on port 2616 id=#40989072
+[02/07/17 18:09:47]: COM-PC: destroy session 127.0.0.1 on port 2616 id=#40989072
+[02/07/17 18:23:07]: COM-PC: create session 127.0.0.1 on port 2896 id=#40990424
+[02/07/17 18:23:27]: COM-PC: destroy session 127.0.0.1 on port 2896 id=#40990424
+[02/07/17 18:24:38]: COM-PC: create session 127.0.0.1 on port 2954 id=#40990424
+[02/07/17 18:24:57]: COM-PC: destroy session 127.0.0.1 on port 2954 id=#40990424
+[02/07/17 18:31:09]: RemoteAxisCtrl application started
+[02/07/17 18:31:14]: COM-PC: create session 127.0.0.1 on port 3068 id=#40990112
+[02/07/17 18:31:20]: Deadman validated
+[02/07/17 18:31:20]: Settling arm power...
+[02/07/17 18:31:21]: Arm power settled.
+[02/07/17 18:31:34]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[02/07/17 18:31:35]: Deadman enabled.
+[02/07/17 18:31:53]: RemoteAxisCtrl application stopped
+[02/07/17 18:42:47]: COM-PC: destroy session 127.0.0.1 on port 3068 id=#40990112
+[02/07/17 18:44:56]: -----------------------------------------------
+[02/07/17 18:44:56]: Logger started
+[02/07/17 18:45:00]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/07/17 18:45:00]: Cycle time set to 0.004s
+[02/07/17 18:45:00]: Simulation cycle time set to 0.1s
+[02/07/17 18:45:00]: Controller IP address could not be updated
+[02/07/17 18:45:00]: STARC : No STARC board detected on PCI.
+[02/07/17 18:45:00]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/07/17 18:45:00]: Power hour count = 3:38:45
+[02/07/17 18:45:00]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/07/17 18:45:00]: COM-PC: server created on all interfaces [5653]
+[02/07/17 18:45:00]: System: s7.3.1 Mar 12 2012
+[02/07/17 18:45:00]: Configuration Version: c1.009 
+[02/07/17 18:45:00]: Option testMode: enabled 
+[02/07/17 18:45:00]: Option VAL 3: enabled 
+[02/07/17 18:45:00]: Option uniVAL: enabled 
+[02/07/17 18:45:00]: Machine Number: ? 
+[02/07/17 18:45:00]: Arm: tx60-S1-R3 floor
+[02/07/17 18:45:00]: Arm serial number: ? 
+[02/07/17 18:45:00]: Robot name:  
+[02/07/17 18:45:00]: EP: s7.3.1 Mar  6 2012
+[02/07/17 18:45:00]: SCA: s7.3.1 Mar  6 2012
+[02/07/17 18:45:00]: PLC: s7.3.1 Mar  6 2012
+[02/07/17 18:45:00]: New profile : default
+[02/07/17 18:45:00]: End of controller initialization
+[02/07/17 18:45:00]: System event INTERFACE-Stopped  (Calibration)
+[02/07/17 18:45:00]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[02/07/17 18:45:01]: COM-PC: create session 127.0.0.1 on port 3304 id=#41913280
+[02/07/17 18:45:01]: End of arm power shutdown phase.
+[02/07/17 18:45:02]: Internal error MCP-NoAnswer: char 1
+[02/07/17 18:45:08]: MCP communication disconnected
+[02/07/17 18:45:10]: Mcp = TSimulated
+[02/07/17 18:45:10]: Mcp communication established
+[02/07/17 18:45:10]: Working mode:automatic.
+[02/07/17 18:45:18]: COM-PC: destroy session 127.0.0.1 on port 3304 id=#41913280
+[02/07/17 18:45:42]: Deadman validated
+[02/07/17 18:45:42]: Settling arm power...
+[02/07/17 18:45:42]: Arm power settled.
+[02/07/17 18:45:44]: RemoteAxisCtrl application started
+[02/07/17 18:45:50]: COM-PC: create session 127.0.0.1 on port 3326 id=#41916296
+[02/07/17 18:45:57]: Deadman enabled.
+[02/07/17 19:07:43]: RemoteAxisCtrl application stopped
+[02/07/17 19:07:56]: RemoteAxisCtrl application started
+[02/07/17 19:08:40]: RemoteAxisCtrl application stopped
+[02/07/17 19:09:09]: RemoteAxisCtrl application started
+[02/07/17 19:09:48]: RemoteAxisCtrl application stopped
+[02/07/17 19:15:44]: Saving controller context...
+[02/07/17 19:15:44]: Controller temperature: 28°C
+[02/07/17 19:15:44]: CPU temperature: 28°C
+[02/07/17 19:15:56]: RemoteAxisCtrl application started
+[02/07/17 19:16:44]: RemoteAxisCtrl application stopped
+[02/07/17 19:21:31]: RemoteAxisCtrl application started
+[02/07/17 19:22:53]: RemoteAxisCtrl application stopped
+[02/07/17 19:22:56]: RemoteAxisCtrl application started
+[02/07/17 19:23:39]: RemoteAxisCtrl application stopped
+[02/07/17 19:23:41]: RemoteAxisCtrl application started
+[02/07/17 19:24:09]: RemoteAxisCtrl application stopped
+[02/07/17 19:24:26]: RemoteAxisCtrl application started
+[02/07/17 19:24:43]: RemoteAxisCtrl application stopped
+[02/07/17 19:25:32]: RemoteAxisCtrl application started
+[02/07/17 19:26:13]: RemoteAxisCtrl application stopped
+[02/07/17 19:31:36]: RemoteAxisCtrl application started
+[02/07/17 19:32:38]: RemoteAxisCtrl application stopped
+[02/07/17 19:32:40]: RemoteAxisCtrl application started
+[02/07/17 19:33:38]: RemoteAxisCtrl application stopped
+[02/07/17 19:33:40]: RemoteAxisCtrl application started
+[02/07/17 19:35:27]: RemoteAxisCtrl application stopped
+[02/07/17 19:35:33]: RemoteAxisCtrl application started
+[02/07/17 19:36:00]: RemoteAxisCtrl application stopped
+[02/07/17 19:37:22]: RemoteAxisCtrl application started
+[02/07/17 19:37:53]: RemoteAxisCtrl application stopped
+[02/07/17 19:39:43]: RemoteAxisCtrl application started
+[02/07/17 19:40:09]: RemoteAxisCtrl application stopped
+[02/07/17 19:41:22]: RemoteAxisCtrl application started
+[02/07/17 19:41:41]: RemoteAxisCtrl application stopped
+[02/07/17 19:42:17]: RemoteAxisCtrl application started
+[02/07/17 19:43:37]: RemoteAxisCtrl application stopped
+[02/07/17 19:43:39]: RemoteAxisCtrl application started
+[02/07/17 19:45:02]: RemoteAxisCtrl application stopped
+[02/07/17 19:45:04]: RemoteAxisCtrl application started
+[02/07/17 19:45:47]: Saving controller context...
+[02/07/17 19:46:33]: RemoteAxisCtrl application stopped
+[02/07/17 19:46:35]: RemoteAxisCtrl application started
+[02/07/17 19:46:45]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[02/07/17 19:46:53]: RemoteAxisCtrl application stopped
+[02/07/17 19:47:13]: RemoteAxisCtrl application started
+[02/07/17 19:47:31]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[02/07/17 19:47:49]: RemoteAxisCtrl application stopped
+[02/07/17 19:49:41]: RemoteAxisCtrl application started
+[02/07/17 19:49:52]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[02/07/17 19:50:04]: RemoteAxisCtrl application stopped
+[02/07/17 19:51:29]: RemoteAxisCtrl application started
+[02/07/17 19:51:39]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[02/07/17 19:51:48]: RemoteAxisCtrl application stopped
+[02/07/17 19:52:47]: RemoteAxisCtrl application started
+[02/07/17 19:53:19]: RemoteAxisCtrl application stopped
+[02/07/17 19:55:03]: RemoteAxisCtrl application started
+[02/07/17 19:56:29]: RemoteAxisCtrl application stopped
+[02/10/17 16:13:04]: -----------------------------------------------
+[02/10/17 16:13:04]: Logger started
+[02/10/17 16:13:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/10/17 16:13:08]: Cycle time set to 0.004s
+[02/10/17 16:13:08]: Simulation cycle time set to 0.1s
+[02/10/17 16:13:08]: Controller IP address could not be updated
+[02/10/17 16:13:08]: STARC : No STARC board detected on PCI.
+[02/10/17 16:13:08]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/10/17 16:13:08]: Power hour count = 4:38:36
+[02/10/17 16:13:08]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/10/17 16:13:08]: COM-PC: server created on all interfaces [5653]
+[02/10/17 16:13:08]: System: s7.3.1 Mar 12 2012
+[02/10/17 16:13:08]: Configuration Version: c1.009 
+[02/10/17 16:13:08]: Option testMode: enabled 
+[02/10/17 16:13:08]: Option VAL 3: enabled 
+[02/10/17 16:13:08]: Option uniVAL: enabled 
+[02/10/17 16:13:08]: Machine Number: ? 
+[02/10/17 16:13:08]: Arm: tx60-S1-R3 floor
+[02/10/17 16:13:08]: Arm serial number: ? 
+[02/10/17 16:13:08]: Robot name:  
+[02/10/17 16:13:08]: EP: s7.3.1 Mar  6 2012
+[02/10/17 16:13:08]: SCA: s7.3.1 Mar  6 2012
+[02/10/17 16:13:08]: PLC: s7.3.1 Mar  6 2012
+[02/10/17 16:13:08]: New profile : default
+[02/10/17 16:13:08]: End of controller initialization
+[02/10/17 16:13:08]: System event INTERFACE-Stopped  (Main menu)
+[02/10/17 16:13:08]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/10/17 16:13:09]: End of arm power shutdown phase.
+[02/10/17 16:13:09]: COM-PC: create session 127.0.0.1 on port 2783 id=#41504072
+[02/10/17 16:13:09]: Internal error MCP-NoAnswer: char 1
+[02/10/17 16:13:15]: MCP communication disconnected
+[02/10/17 16:13:17]: Mcp = TSimulated
+[02/10/17 16:13:17]: Mcp communication established
+[02/10/17 16:13:17]: Working mode:automatic.
+[02/10/17 16:13:25]: COM-PC: destroy session 127.0.0.1 on port 2783 id=#41504072
+[02/13/17 16:31:23]: -----------------------------------------------
+[02/13/17 16:31:23]: Logger started
+[02/13/17 16:31:27]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/13/17 16:31:27]: Cycle time set to 0.004s
+[02/13/17 16:31:27]: Simulation cycle time set to 0.1s
+[02/13/17 16:31:27]: Controller IP address could not be updated
+[02/13/17 16:31:27]: STARC : No STARC board detected on PCI.
+[02/13/17 16:31:27]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/13/17 16:31:27]: Power hour count = 4:38:36
+[02/13/17 16:31:27]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/13/17 16:31:27]: COM-PC: server created on all interfaces [5653]
+[02/13/17 16:31:27]: System: s7.3.1 Mar 12 2012
+[02/13/17 16:31:27]: Configuration Version: c1.009 
+[02/13/17 16:31:27]: Option testMode: enabled 
+[02/13/17 16:31:27]: Option VAL 3: enabled 
+[02/13/17 16:31:27]: Option uniVAL: enabled 
+[02/13/17 16:31:27]: Machine Number: ? 
+[02/13/17 16:31:27]: Arm: tx60-S1-R3 floor
+[02/13/17 16:31:27]: Arm serial number: ? 
+[02/13/17 16:31:27]: Robot name:  
+[02/13/17 16:31:27]: EP: s7.3.1 Mar  6 2012
+[02/13/17 16:31:27]: SCA: s7.3.1 Mar  6 2012
+[02/13/17 16:31:27]: PLC: s7.3.1 Mar  6 2012
+[02/13/17 16:31:27]: New profile : default
+[02/13/17 16:31:27]: End of controller initialization
+[02/13/17 16:31:28]: COM-PC: create session 127.0.0.1 on port 2591 id=#41435632
+[02/13/17 16:31:28]: End of arm power shutdown phase.
+[02/13/17 16:31:28]: Internal error MCP-NoAnswer: char 1
+[02/13/17 16:31:34]: MCP communication disconnected
+[02/13/17 16:31:36]: Mcp = TSimulated
+[02/13/17 16:31:36]: Mcp communication established
+[02/13/17 16:31:37]: Working mode:automatic.
+[02/13/17 16:31:48]: COM-PC: destroy session 127.0.0.1 on port 2591 id=#41435632
+[02/13/17 16:32:10]: Deadman validated
+[02/13/17 16:32:10]: Settling arm power...
+[02/13/17 16:32:11]: Arm power settled.
+[02/13/17 16:32:25]: Deadman enabled.
+[02/13/17 16:32:31]: RemoteAxisCtrl application started
+[02/13/17 16:32:40]: COM-PC: create session 127.0.0.1 on port 2609 id=#41435424
+[02/13/17 17:02:13]: Saving controller context...
+[02/13/17 17:02:13]: Controller temperature: 28°C
+[02/13/17 17:02:13]: CPU temperature: 28°C
+[02/13/17 17:28:57]: Arm power shutdown...
+[02/13/17 17:28:58]: End of arm power shutdown phase.
+[02/13/17 17:29:01]: Saving controller context...
+[02/13/17 17:29:07]: MCP communication disconnected
+[02/13/17 19:47:03]: -----------------------------------------------
+[02/13/17 19:47:03]: Logger started
+[02/13/17 19:47:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/13/17 19:47:08]: Cycle time set to 0.004s
+[02/13/17 19:47:08]: Simulation cycle time set to 0.1s
+[02/13/17 19:47:08]: Controller IP address could not be updated
+[02/13/17 19:47:08]: STARC : No STARC board detected on PCI.
+[02/13/17 19:47:08]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/13/17 19:47:08]: Power hour count = 5:35:13
+[02/13/17 19:47:08]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/13/17 19:47:08]: COM-PC: server created on all interfaces [5653]
+[02/13/17 19:47:08]: System: s7.3.1 Mar 12 2012
+[02/13/17 19:47:08]: Configuration Version: c1.009 
+[02/13/17 19:47:08]: Option testMode: enabled 
+[02/13/17 19:47:08]: Option VAL 3: enabled 
+[02/13/17 19:47:08]: Option uniVAL: enabled 
+[02/13/17 19:47:08]: Machine Number: ? 
+[02/13/17 19:47:08]: Arm: tx60-S1-R3 floor
+[02/13/17 19:47:08]: Arm serial number: ? 
+[02/13/17 19:47:08]: Robot name:  
+[02/13/17 19:47:08]: EP: s7.3.1 Mar  6 2012
+[02/13/17 19:47:08]: SCA: s7.3.1 Mar  6 2012
+[02/13/17 19:47:08]: PLC: s7.3.1 Mar  6 2012
+[02/13/17 19:47:08]: New profile : default
+[02/13/17 19:47:08]: End of controller initialization
+[02/13/17 19:47:08]: System event INTERFACE-Stopped  (Main menu)
+[02/13/17 19:47:08]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/13/17 19:47:08]: COM-PC: create session 127.0.0.1 on port 5318 id=#48381592
+[02/13/17 19:47:08]: End of arm power shutdown phase.
+[02/13/17 19:47:09]: Internal error MCP-NoAnswer: char 1
+[02/13/17 19:47:15]: MCP communication disconnected
+[02/13/17 19:47:17]: Mcp = TSimulated
+[02/13/17 19:47:17]: Mcp communication established
+[02/13/17 19:47:17]: Working mode:automatic.
+[02/13/17 19:47:35]: RemoteAxisCtrl application started
+[02/13/17 19:47:49]: Working mode:manual.
+[02/13/17 19:47:50]: Working mode:remote.
+[02/13/17 19:47:52]: Working mode:automatic.
+[02/13/17 19:47:53]: Deadman validated
+[02/13/17 19:47:53]: Settling arm power...
+[02/13/17 19:47:53]: Arm power settled.
+[02/13/17 19:48:08]: Deadman enabled.
+[02/13/17 19:49:10]: RemoteAxisCtrl application stopped
+[02/13/17 20:02:28]: RemoteAxisCtrl application started
+[02/13/17 20:03:28]: RemoteAxisCtrl application stopped
+[02/13/17 20:03:34]: RemoteAxisCtrl application started
+[02/13/17 20:04:03]: RemoteAxisCtrl application stopped
+[02/13/17 20:13:21]: RemoteAxisCtrl application started
+[02/13/17 20:16:35]: RemoteAxisCtrl application stopped
+[02/13/17 20:17:51]: Saving controller context...
+[02/13/17 20:17:51]: RemoteAxisCtrl application started
+[02/13/17 20:17:51]: Controller temperature: 28°C
+[02/13/17 20:17:51]: CPU temperature: 28°C
+[02/13/17 20:18:37]: RemoteAxisCtrl application stopped
+[02/13/17 20:19:14]: RemoteAxisCtrl application started
+[02/13/17 20:22:40]: RemoteAxisCtrl application stopped
+[02/13/17 20:24:39]: MCP communication disconnected
+[02/21/17 19:15:05]: -----------------------------------------------
+[02/21/17 19:15:05]: Logger started
+[02/21/17 19:15:10]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/21/17 19:15:10]: Cycle time set to 0.004s
+[02/21/17 19:15:10]: Simulation cycle time set to 0.1s
+[02/21/17 19:15:10]: Controller IP address could not be updated
+[02/21/17 19:15:10]: STARC : No STARC board detected on PCI.
+[02/21/17 19:15:10]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/21/17 19:15:10]: Power hour count = 6:05:01
+[02/21/17 19:15:10]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/21/17 19:15:10]: COM-PC: server created on all interfaces [5653]
+[02/21/17 19:15:10]: System: s7.3.1 Mar 12 2012
+[02/21/17 19:15:10]: Configuration Version: c1.009 
+[02/21/17 19:15:10]: Option testMode: enabled 
+[02/21/17 19:15:10]: Option VAL 3: enabled 
+[02/21/17 19:15:10]: Option uniVAL: enabled 
+[02/21/17 19:15:10]: Machine Number: ? 
+[02/21/17 19:15:10]: Arm: tx60-S1-R3 floor
+[02/21/17 19:15:10]: Arm serial number: ? 
+[02/21/17 19:15:10]: Robot name:  
+[02/21/17 19:15:10]: EP: s7.3.1 Mar  6 2012
+[02/21/17 19:15:10]: SCA: s7.3.1 Mar  6 2012
+[02/21/17 19:15:10]: PLC: s7.3.1 Mar  6 2012
+[02/21/17 19:15:10]: New profile : default
+[02/21/17 19:15:10]: End of controller initialization
+[02/21/17 19:15:10]: System event INTERFACE-Stopped  (Main menu)
+[02/21/17 19:15:10]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/21/17 19:15:10]: COM-PC: create session 127.0.0.1 on port 4824 id=#42365768
+[02/21/17 19:15:10]: End of arm power shutdown phase.
+[02/21/17 19:15:11]: Internal error MCP-NoAnswer: char 1
+[02/21/17 19:15:18]: MCP communication disconnected
+[02/21/17 19:15:19]: Mcp = TSimulated
+[02/21/17 19:15:19]: Mcp communication established
+[02/21/17 19:15:19]: Working mode:automatic.
+[02/21/17 19:15:35]: MCP communication disconnected
+[02/21/17 19:15:38]: -----------------------------------------------
+[02/21/17 19:15:38]: Logger started
+[02/21/17 19:15:42]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/21/17 19:15:42]: Cycle time set to 0.004s
+[02/21/17 19:15:42]: Simulation cycle time set to 0.1s
+[02/21/17 19:15:42]: Controller IP address could not be updated
+[02/21/17 19:15:42]: STARC : No STARC board detected on PCI.
+[02/21/17 19:15:42]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/21/17 19:15:42]: Power hour count = 6:05:01
+[02/21/17 19:15:42]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/21/17 19:15:42]: COM-PC: server created on all interfaces [5653]
+[02/21/17 19:15:42]: System: s7.3.1 Mar 12 2012
+[02/21/17 19:15:42]: Configuration Version: c1.009 
+[02/21/17 19:15:42]: Option testMode: enabled 
+[02/21/17 19:15:42]: Option VAL 3: enabled 
+[02/21/17 19:15:42]: Option uniVAL: enabled 
+[02/21/17 19:15:42]: Machine Number: ? 
+[02/21/17 19:15:42]: Arm: tx60-S1-R3 floor
+[02/21/17 19:15:42]: Arm serial number: ? 
+[02/21/17 19:15:42]: Robot name:  
+[02/21/17 19:15:42]: EP: s7.3.1 Mar  6 2012
+[02/21/17 19:15:42]: SCA: s7.3.1 Mar  6 2012
+[02/21/17 19:15:42]: PLC: s7.3.1 Mar  6 2012
+[02/21/17 19:15:42]: New profile : default
+[02/21/17 19:15:42]: End of controller initialization
+[02/21/17 19:15:42]: System event INTERFACE-Stopped  (Calibration)
+[02/21/17 19:15:42]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[02/21/17 19:15:43]: End of arm power shutdown phase.
+[02/21/17 19:15:44]: Internal error MCP-NoAnswer: char 1
+[02/21/17 19:15:50]: MCP communication disconnected
+[02/21/17 19:15:52]: Mcp = TSimulated
+[02/21/17 19:15:52]: Mcp communication established
+[02/21/17 19:15:52]: Working mode:automatic.
+[02/21/17 19:16:21]: -----------------------------------------------
+[02/21/17 19:16:21]: Logger started
+[02/21/17 19:16:26]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/21/17 19:16:26]: Cycle time set to 0.004s
+[02/21/17 19:16:26]: Simulation cycle time set to 0.1s
+[02/21/17 19:16:26]: Controller IP address could not be updated
+[02/21/17 19:16:26]: STARC : No STARC board detected on PCI.
+[02/21/17 19:16:26]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/21/17 19:16:26]: Power hour count = 6:05:01
+[02/21/17 19:16:26]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/21/17 19:16:26]: COM-PC: server created on all interfaces [5653]
+[02/21/17 19:16:26]: System: s7.3.1 Mar 12 2012
+[02/21/17 19:16:26]: Configuration Version: c1.009 
+[02/21/17 19:16:26]: Option testMode: enabled 
+[02/21/17 19:16:26]: Option VAL 3: enabled 
+[02/21/17 19:16:26]: Option uniVAL: enabled 
+[02/21/17 19:16:26]: Machine Number: ? 
+[02/21/17 19:16:26]: Arm: tx60-S1-R3 floor
+[02/21/17 19:16:26]: Arm serial number: ? 
+[02/21/17 19:16:26]: Robot name:  
+[02/21/17 19:16:26]: EP: s7.3.1 Mar  6 2012
+[02/21/17 19:16:26]: SCA: s7.3.1 Mar  6 2012
+[02/21/17 19:16:26]: PLC: s7.3.1 Mar  6 2012
+[02/21/17 19:16:26]: New profile : default
+[02/21/17 19:16:26]: End of controller initialization
+[02/21/17 19:16:26]: System event INTERFACE-Stopped  (Calibration)
+[02/21/17 19:16:26]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[02/21/17 19:16:26]: End of arm power shutdown phase.
+[02/21/17 19:16:27]: Internal error MCP-NoAnswer: char 1
+[02/21/17 19:16:33]: MCP communication disconnected
+[02/21/17 19:16:35]: Mcp = TSimulated
+[02/21/17 19:16:35]: Mcp communication established
+[02/21/17 19:16:36]: Working mode:automatic.
+[02/21/17 19:17:41]: -----------------------------------------------
+[02/21/17 19:17:41]: Logger started
+[02/21/17 19:17:45]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/21/17 19:17:45]: Cycle time set to 0.004s
+[02/21/17 19:17:45]: Simulation cycle time set to 0.1s
+[02/21/17 19:17:45]: Controller IP address could not be updated
+[02/21/17 19:17:45]: STARC : No STARC board detected on PCI.
+[02/21/17 19:17:45]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/21/17 19:17:45]: Power hour count = 6:05:01
+[02/21/17 19:17:45]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/21/17 19:17:45]: COM-PC: server created on all interfaces [5653]
+[02/21/17 19:17:45]: System: s7.3.1 Mar 12 2012
+[02/21/17 19:17:45]: Configuration Version: c1.009 
+[02/21/17 19:17:45]: Option testMode: enabled 
+[02/21/17 19:17:45]: Option VAL 3: enabled 
+[02/21/17 19:17:45]: Option uniVAL: enabled 
+[02/21/17 19:17:45]: Machine Number: ? 
+[02/21/17 19:17:45]: Arm: tx60-S1-R3 floor
+[02/21/17 19:17:45]: Arm serial number: ? 
+[02/21/17 19:17:45]: Robot name:  
+[02/21/17 19:17:45]: EP: s7.3.1 Mar  6 2012
+[02/21/17 19:17:45]: SCA: s7.3.1 Mar  6 2012
+[02/21/17 19:17:45]: PLC: s7.3.1 Mar  6 2012
+[02/21/17 19:17:45]: New profile : default
+[02/21/17 19:17:45]: End of controller initialization
+[02/21/17 19:17:45]: System event INTERFACE-Stopped  (Calibration)
+[02/21/17 19:17:45]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[02/21/17 19:17:46]: End of arm power shutdown phase.
+[02/21/17 19:17:47]: Internal error MCP-NoAnswer: char 1
+[02/21/17 19:17:49]: COM-PC: create session 127.0.0.1 on port 4871 id=#41317712
+[02/21/17 19:17:53]: MCP communication disconnected
+[02/21/17 19:17:55]: Mcp = TSimulated
+[02/21/17 19:17:55]: Mcp communication established
+[02/21/17 19:17:56]: Working mode:automatic.
+[02/21/17 19:18:01]: Deadman validated
+[02/21/17 19:18:02]: Settling arm power...
+[02/21/17 19:18:02]: Arm power settled.
+[02/21/17 19:18:17]: Deadman enabled.
+[02/21/17 19:18:21]: RemoteAxisCtrl application started
+[02/21/17 19:21:25]: RemoteAxisCtrl application stopped
+[02/21/17 19:37:19]: RemoteAxisCtrl application started
+[02/21/17 19:48:03]: Saving controller context...
+[02/21/17 19:48:03]: Controller temperature: 28°C
+[02/21/17 19:48:03]: CPU temperature: 28°C
+[02/21/17 19:48:04]: Arm power shutdown...
+[02/21/17 19:48:05]: End of arm power shutdown phase.
+[02/21/17 19:48:08]: Saving controller context...
+[02/21/17 19:48:14]: COM-PC: destroy session 127.0.0.1 on port 4871 id=#41317712
+[02/26/17 11:36:20]: -----------------------------------------------
+[02/26/17 11:36:20]: Logger started
+[02/26/17 11:36:25]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/26/17 11:36:25]: Cycle time set to 0.004s
+[02/26/17 11:36:25]: Simulation cycle time set to 0.1s
+[02/26/17 11:36:25]: Controller IP address could not be updated
+[02/26/17 11:36:25]: STARC : No STARC board detected on PCI.
+[02/26/17 11:36:25]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/26/17 11:36:25]: Power hour count = 6:34:56
+[02/26/17 11:36:25]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/26/17 11:36:25]: COM-PC: server created on all interfaces [5653]
+[02/26/17 11:36:25]: System: s7.3.1 Mar 12 2012
+[02/26/17 11:36:25]: Configuration Version: c1.009 
+[02/26/17 11:36:25]: Option testMode: enabled 
+[02/26/17 11:36:25]: Option VAL 3: enabled 
+[02/26/17 11:36:25]: Option uniVAL: enabled 
+[02/26/17 11:36:25]: Machine Number: ? 
+[02/26/17 11:36:25]: Arm: tx60-S1-R3 floor
+[02/26/17 11:36:25]: Arm serial number: ? 
+[02/26/17 11:36:25]: Robot name:  
+[02/26/17 11:36:25]: EP: s7.3.1 Mar  6 2012
+[02/26/17 11:36:25]: SCA: s7.3.1 Mar  6 2012
+[02/26/17 11:36:25]: PLC: s7.3.1 Mar  6 2012
+[02/26/17 11:36:25]: New profile : default
+[02/26/17 11:36:25]: End of controller initialization
+[02/26/17 11:36:25]: System event INTERFACE-Stopped  (Main menu)
+[02/26/17 11:36:25]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[02/26/17 11:36:25]: End of arm power shutdown phase.
+[02/26/17 11:36:26]: COM-PC: create session 127.0.0.1 on port 2503 id=#49186568
+[02/26/17 11:36:26]: Internal error MCP-NoAnswer: char 1
+[02/26/17 11:36:29]: COM-PC: destroy session 127.0.0.1 on port 2503 id=#49186568
+[02/26/17 11:36:30]: Saving controller context...
+[02/26/17 11:36:30]: Controller temperature: 28°C
+[02/26/17 11:36:30]: CPU temperature: 28°C
+[02/26/17 11:40:37]: -----------------------------------------------
+[02/26/17 11:40:37]: Logger started
+[02/26/17 11:40:43]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/26/17 11:40:43]: Cycle time set to 0.004s
+[02/26/17 11:40:43]: Simulation cycle time set to 0.1s
+[02/26/17 11:40:43]: Controller IP address could not be updated
+[02/26/17 11:40:43]: STARC : No STARC board detected on PCI.
+[02/26/17 11:40:43]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/26/17 11:40:43]: Power hour count = 6:34:56
+[02/26/17 11:40:43]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/26/17 11:40:43]: End of arm power shutdown phase.
+[02/26/17 11:40:43]: COM-PC: server created on all interfaces [5653]
+[02/26/17 11:40:43]: System: s7.3.1 Mar 12 2012
+[02/26/17 11:40:43]: Configuration Version: c1.009 
+[02/26/17 11:40:43]: Option testMode: enabled 
+[02/26/17 11:40:43]: Option VAL 3: enabled 
+[02/26/17 11:40:43]: Option uniVAL: enabled 
+[02/26/17 11:40:43]: Machine Number: ? 
+[02/26/17 11:40:43]: Arm: tx60-S1-R3 floor
+[02/26/17 11:40:43]: Arm serial number: ? 
+[02/26/17 11:40:43]: Robot name:  
+[02/26/17 11:40:43]: EP: s7.3.1 Mar  6 2012
+[02/26/17 11:40:43]: SCA: s7.3.1 Mar  6 2012
+[02/26/17 11:40:43]: PLC: s7.3.1 Mar  6 2012
+[02/26/17 11:40:43]: New profile : default
+[02/26/17 11:40:43]: End of controller initialization
+[02/26/17 11:40:43]: System event INTERFACE-Stopped  (Main menu)
+[02/26/17 11:40:43]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[02/26/17 11:40:43]: COM-PC: create session 127.0.0.1 on port 1772 id=#42825472
+[02/26/17 11:40:44]: Internal error MCP-NoAnswer: char 1
+[02/26/17 11:40:50]: MCP communication disconnected
+[02/26/17 11:40:52]: Mcp = TSimulated
+[02/26/17 11:40:52]: Mcp communication established
+[02/26/17 11:40:52]: Working mode:automatic.
+[02/26/17 11:40:54]: COM-PC: destroy session 127.0.0.1 on port 1772 id=#42825472
+[02/26/17 11:41:00]: -----------------------------------------------
+[02/26/17 11:41:00]: Logger started
+[02/26/17 11:41:04]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[02/26/17 11:41:04]: Cycle time set to 0.004s
+[02/26/17 11:41:04]: Simulation cycle time set to 0.1s
+[02/26/17 11:41:04]: Controller IP address could not be updated
+[02/26/17 11:41:04]: STARC : No STARC board detected on PCI.
+[02/26/17 11:41:04]: Cannot load uniVAL driver files: .\sys/uniVAL
+[02/26/17 11:41:04]: Power hour count = 6:34:56
+[02/26/17 11:41:04]: Mac Address = fc-f8-ae-f4-0e-d4
+[02/26/17 11:41:04]: COM-PC: server created on all interfaces [5653]
+[02/26/17 11:41:04]: System: s7.3.1 Mar 12 2012
+[02/26/17 11:41:04]: Configuration Version: c1.009 
+[02/26/17 11:41:04]: Option testMode: enabled 
+[02/26/17 11:41:04]: Option VAL 3: enabled 
+[02/26/17 11:41:04]: Option uniVAL: enabled 
+[02/26/17 11:41:04]: Machine Number: ? 
+[02/26/17 11:41:04]: Arm: tx60-S1-R3 floor
+[02/26/17 11:41:04]: Arm serial number: ? 
+[02/26/17 11:41:04]: Robot name:  
+[02/26/17 11:41:04]: EP: s7.3.1 Mar  6 2012
+[02/26/17 11:41:04]: SCA: s7.3.1 Mar  6 2012
+[02/26/17 11:41:04]: PLC: s7.3.1 Mar  6 2012
+[02/26/17 11:41:04]: New profile : default
+[02/26/17 11:41:04]: End of controller initialization
+[02/26/17 11:41:04]: System event INTERFACE-Stopped  (Calibration)
+[02/26/17 11:41:04]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[02/26/17 11:41:05]: End of arm power shutdown phase.
+[02/26/17 11:41:06]: Internal error MCP-NoAnswer: char 1
+[02/26/17 11:41:12]: MCP communication disconnected
+[02/26/17 11:41:14]: Mcp = TSimulated
+[02/26/17 11:41:14]: Mcp communication established
+[02/26/17 11:41:14]: Working mode:automatic.
+[02/26/17 11:41:29]: Deadman validated
+[02/26/17 11:41:29]: Settling arm power...
+[02/26/17 11:41:29]: Arm power settled.
+[02/26/17 11:41:44]: Deadman enabled.
+[02/26/17 11:41:57]: RemoteAxisCtrl application started
+[02/26/17 11:42:03]: COM-PC: create session 127.0.0.1 on port 1809 id=#42250856
+[02/26/17 11:47:59]: RemoteAxisCtrl application stopped
+[02/26/17 11:48:11]: RemoteAxisCtrl application started
+[02/26/17 11:49:35]: RemoteAxisCtrl application stopped
+[02/26/17 11:52:43]: RemoteAxisCtrl application started
+[02/26/17 11:54:55]: RemoteAxisCtrl application stopped
+[02/26/17 11:56:00]: RemoteAxisCtrl application started
+[02/26/17 11:58:29]: RemoteAxisCtrl application stopped
+[02/26/17 11:58:59]: RemoteAxisCtrl application started
+[02/26/17 12:00:57]: RemoteAxisCtrl application stopped
+[02/26/17 12:02:09]: RemoteAxisCtrl application started
+[02/26/17 12:03:07]: RemoteAxisCtrl application stopped
+[02/26/17 12:06:00]: RemoteAxisCtrl application started
+[02/26/17 12:06:53]: RemoteAxisCtrl application stopped
+[02/26/17 12:08:21]: RemoteAxisCtrl application started
+[02/26/17 12:09:12]: RemoteAxisCtrl application stopped
+[02/26/17 12:11:26]: RemoteAxisCtrl application started
+[02/26/17 12:11:32]: Saving controller context...
+[02/26/17 12:11:32]: Controller temperature: 28°C
+[02/26/17 12:11:32]: CPU temperature: 28°C
+[02/26/17 12:12:44]: RemoteAxisCtrl application stopped
+[02/26/17 12:22:14]: RemoteAxisCtrl application started
+[02/26/17 12:26:15]: RemoteAxisCtrl application stopped
+[02/26/17 12:27:29]: RemoteAxisCtrl application started
+[02/26/17 12:28:34]: RemoteAxisCtrl application stopped
+[02/26/17 12:34:32]: RemoteAxisCtrl application started
+[02/26/17 12:35:20]: RemoteAxisCtrl application stopped
+[02/26/17 12:38:05]: RemoteAxisCtrl application started
+[02/26/17 12:39:39]: RemoteAxisCtrl application stopped
+[02/26/17 12:41:30]: RemoteAxisCtrl application started
+[02/26/17 12:41:35]: Saving controller context...
+[02/26/17 12:42:14]: RemoteAxisCtrl application stopped
+[02/26/17 12:42:42]: RemoteAxisCtrl application started
+[02/26/17 12:43:26]: RemoteAxisCtrl application stopped
+[02/26/17 12:45:55]: RemoteAxisCtrl application started
+[02/26/17 12:46:36]: RemoteAxisCtrl application stopped
+[02/26/17 12:46:52]: RemoteAxisCtrl application started
+[02/26/17 12:47:32]: RemoteAxisCtrl application stopped
+[02/26/17 12:48:57]: RemoteAxisCtrl application started
+[02/26/17 12:49:41]: RemoteAxisCtrl application stopped
+[02/26/17 13:04:35]: RemoteAxisCtrl application started
+[02/26/17 13:06:27]: RemoteAxisCtrl application stopped
+[02/26/17 13:11:38]: Saving controller context...
+[02/26/17 14:41:47]: Saving controller context... (3)
+[02/26/17 15:00:35]: RemoteAxisCtrl application started
+[02/26/17 15:03:06]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[02/26/17 15:03:23]: RemoteAxisCtrl application stopped
+[02/26/17 15:03:58]: RemoteAxisCtrl application started
+[02/26/17 15:04:38]: RemoteAxisCtrl application stopped
+[02/26/17 15:05:05]: RemoteAxisCtrl application started
+[02/26/17 15:05:31]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[02/26/17 15:05:43]: RemoteAxisCtrl application stopped
+[02/26/17 15:07:04]: COM-PC: destroy session 127.0.0.1 on port 1809 id=#42250856
+[03/08/17 18:29:07]: -----------------------------------------------
+[03/08/17 18:29:07]: Logger started
+[03/08/17 18:29:12]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/08/17 18:29:12]: Cycle time set to 0.004s
+[03/08/17 18:29:12]: Simulation cycle time set to 0.1s
+[03/08/17 18:29:12]: Controller IP address could not be updated
+[03/08/17 18:29:12]: STARC : No STARC board detected on PCI.
+[03/08/17 18:29:12]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/08/17 18:29:12]: Power hour count = 9:34:36
+[03/08/17 18:29:12]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/08/17 18:29:12]: COM-PC: server created on all interfaces [5653]
+[03/08/17 18:29:12]: System: s7.3.1 Mar 12 2012
+[03/08/17 18:29:12]: Configuration Version: c1.009 
+[03/08/17 18:29:12]: Option testMode: enabled 
+[03/08/17 18:29:12]: Option VAL 3: enabled 
+[03/08/17 18:29:12]: Option uniVAL: enabled 
+[03/08/17 18:29:12]: Machine Number: ? 
+[03/08/17 18:29:12]: Arm: tx60-S1-R3 floor
+[03/08/17 18:29:12]: Arm serial number: ? 
+[03/08/17 18:29:12]: Robot name:  
+[03/08/17 18:29:12]: EP: s7.3.1 Mar  6 2012
+[03/08/17 18:29:12]: SCA: s7.3.1 Mar  6 2012
+[03/08/17 18:29:12]: PLC: s7.3.1 Mar  6 2012
+[03/08/17 18:29:12]: New profile : default
+[03/08/17 18:29:12]: End of controller initialization
+[03/08/17 18:29:12]: System event INTERFACE-Stopped  (Main menu)
+[03/08/17 18:29:12]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[03/08/17 18:29:12]: COM-PC: create session 127.0.0.1 on port 4351 id=#41575864
+[03/08/17 18:29:12]: End of arm power shutdown phase.
+[03/08/17 18:29:13]: Internal error MCP-NoAnswer: char 1
+[03/08/17 18:29:17]: Saving controller context...
+[03/08/17 18:29:17]: Controller temperature: 28°C
+[03/08/17 18:29:17]: CPU temperature: 28°C
+[03/08/17 18:29:19]: MCP communication disconnected
+[03/08/17 18:29:21]: Mcp = TSimulated
+[03/08/17 18:29:21]: Mcp communication established
+[03/08/17 18:29:22]: Working mode:automatic.
+[03/08/17 18:29:25]: COM-PC: destroy session 127.0.0.1 on port 4351 id=#41575864
+[03/08/17 18:29:32]: RemoteAxisCtrl application started
+[03/08/17 18:29:35]: Deadman validated
+[03/08/17 18:29:35]: Settling arm power...
+[03/08/17 18:29:36]: Arm power settled.
+[03/08/17 18:29:39]: COM-PC: create session 127.0.0.1 on port 4361 id=#41574096
+[03/08/17 18:29:50]: Deadman enabled.
+[03/08/17 18:36:13]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[03/08/17 18:36:28]: RemoteAxisCtrl application stopped
+[03/08/17 18:38:25]: RemoteAxisCtrl application started
+[03/08/17 18:41:48]: RemoteAxisCtrl application stopped
+[03/08/17 18:57:01]: RemoteAxisCtrl application started
+[03/08/17 18:57:30]: RemoteAxisCtrl application stopped
+[03/08/17 18:59:37]: Saving controller context...
+[03/08/17 19:00:41]: RemoteAxisCtrl application started
+[03/08/17 19:02:58]: RemoteAxisCtrl application stopped
+[03/08/17 19:29:40]: Saving controller context...
+[03/08/17 19:59:49]: Saving controller context... (1)
+[03/08/17 20:23:15]: RemoteAxisCtrl application started
+[03/08/17 20:24:30]: RemoteAxisCtrl application stopped
+[03/08/17 20:24:53]: RemoteAxisCtrl application started
+[03/08/17 20:26:10]: RemoteAxisCtrl application stopped
+[03/08/17 20:26:50]: RemoteAxisCtrl application started
+[03/08/17 20:27:54]: RemoteAxisCtrl application stopped
+[03/08/17 20:28:09]: RemoteAxisCtrl application started
+[03/08/17 20:28:37]: MCP communication disconnected
+[03/08/17 20:28:37]: Arm power shutdown: working mode change.
+[03/08/17 20:28:37]: Arm power shutdown...
+[03/10/17 17:29:50]: -----------------------------------------------
+[03/10/17 17:29:50]: Logger started
+[03/10/17 17:29:55]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/10/17 17:29:55]: Cycle time set to 0.004s
+[03/10/17 17:29:55]: Simulation cycle time set to 0.1s
+[03/10/17 17:29:55]: Controller IP address could not be updated
+[03/10/17 17:29:55]: STARC : No STARC board detected on PCI.
+[03/10/17 17:29:55]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/10/17 17:29:55]: Power hour count = 11:04:31
+[03/10/17 17:29:55]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/10/17 17:29:55]: COM-PC: server created on all interfaces [5653]
+[03/10/17 17:29:55]: System: s7.3.1 Mar 12 2012
+[03/10/17 17:29:55]: Configuration Version: c1.009 
+[03/10/17 17:29:55]: Option testMode: enabled 
+[03/10/17 17:29:55]: Option VAL 3: enabled 
+[03/10/17 17:29:55]: Option uniVAL: enabled 
+[03/10/17 17:29:55]: Machine Number: ? 
+[03/10/17 17:29:55]: Arm: tx60-S1-R3 floor
+[03/10/17 17:29:55]: Arm serial number: ? 
+[03/10/17 17:29:55]: Robot name:  
+[03/10/17 17:29:55]: EP: s7.3.1 Mar  6 2012
+[03/10/17 17:29:55]: SCA: s7.3.1 Mar  6 2012
+[03/10/17 17:29:55]: PLC: s7.3.1 Mar  6 2012
+[03/10/17 17:29:55]: New profile : default
+[03/10/17 17:29:55]: End of controller initialization
+[03/10/17 17:29:55]: System event INTERFACE-Stopped  (Main menu)
+[03/10/17 17:29:55]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[03/10/17 17:29:55]: COM-PC: create session 127.0.0.1 on port 2413 id=#41302816
+[03/10/17 17:29:55]: End of arm power shutdown phase.
+[03/10/17 17:29:56]: Internal error MCP-NoAnswer: char 1
+[03/10/17 17:30:02]: MCP communication disconnected
+[03/10/17 17:30:04]: Mcp = TSimulated
+[03/10/17 17:30:04]: Mcp communication established
+[03/10/17 17:30:04]: Working mode:automatic.
+[03/10/17 17:30:08]: COM-PC: destroy session 127.0.0.1 on port 2413 id=#41302816
+[03/10/17 17:31:35]: Working mode:manual.
+[03/10/17 17:31:36]: Working mode:test.
+[03/10/17 17:31:38]: Working mode:remote.
+[03/10/17 17:31:38]: Saving controller context...
+[03/10/17 17:31:38]: Controller temperature: 28°C
+[03/10/17 17:31:38]: CPU temperature: 28°C
+[03/10/17 17:31:39]: Working mode:automatic.
+[03/10/17 17:31:39]: Deadman validated
+[03/10/17 17:31:40]: Settling arm power...
+[03/10/17 17:31:40]: Arm power settled.
+[03/10/17 17:31:42]: COM-PC: create session 127.0.0.1 on port 2447 id=#41303024
+[03/10/17 17:31:47]: RemoteAxisCtrl application started
+[03/10/17 17:31:54]: Deadman enabled.
+[03/10/17 17:51:30]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[03/10/17 17:51:47]: RemoteAxisCtrl application stopped
+[03/10/17 17:52:02]: COM-PC: destroy session 127.0.0.1 on port 2447 id=#41303024
+[03/15/17 15:51:03]: -----------------------------------------------
+[03/15/17 15:51:03]: Logger started
+[03/15/17 15:51:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:51:08]: Cycle time set to 0.004s
+[03/15/17 15:51:08]: Simulation cycle time set to 0.1s
+[03/15/17 15:51:08]: Controller IP address could not be updated
+[03/15/17 15:51:08]: STARC : No STARC board detected on PCI.
+[03/15/17 15:51:08]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:51:08]: Power hour count = 11:04:31
+[03/15/17 15:51:08]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:51:08]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:51:08]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:51:08]: Configuration Version: c1.009 
+[03/15/17 15:51:08]: Option testMode: enabled 
+[03/15/17 15:51:08]: Option VAL 3: enabled 
+[03/15/17 15:51:08]: Option uniVAL: enabled 
+[03/15/17 15:51:08]: Machine Number: ? 
+[03/15/17 15:51:08]: Arm: tx60-S1-R3 floor
+[03/15/17 15:51:08]: Arm serial number: ? 
+[03/15/17 15:51:08]: Robot name:  
+[03/15/17 15:51:08]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:51:08]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:51:08]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:51:08]: New profile : default
+[03/15/17 15:51:08]: End of controller initialization
+[03/15/17 15:51:08]: System event INTERFACE-Stopped  (Main menu)
+[03/15/17 15:51:08]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[03/15/17 15:51:08]: COM-PC: create session 127.0.0.1 on port 2600 id=#42682200
+[03/15/17 15:51:08]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:51:08]: End of arm power shutdown phase.
+[03/15/17 15:51:14]: MCP communication disconnected
+[03/15/17 15:51:16]: Mcp = TSimulated
+[03/15/17 15:51:16]: Mcp communication established
+[03/15/17 15:51:16]: Working mode:manual.
+[03/15/17 15:51:20]: COM-PC: destroy session 127.0.0.1 on port 2600 id=#42682200
+[03/15/17 15:51:56]: MCP communication disconnected
+[03/15/17 15:52:06]: -----------------------------------------------
+[03/15/17 15:52:06]: Logger started
+[03/15/17 15:52:10]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:52:10]: Cycle time set to 0.004s
+[03/15/17 15:52:10]: Simulation cycle time set to 0.1s
+[03/15/17 15:52:10]: Controller IP address could not be updated
+[03/15/17 15:52:10]: STARC : No STARC board detected on PCI.
+[03/15/17 15:52:10]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:52:10]: Power hour count = 11:04:31
+[03/15/17 15:52:10]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:52:10]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:52:10]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:52:10]: Configuration Version: c1.009 
+[03/15/17 15:52:10]: Option testMode: enabled 
+[03/15/17 15:52:10]: Option VAL 3: enabled 
+[03/15/17 15:52:10]: Option uniVAL: enabled 
+[03/15/17 15:52:10]: Machine Number: ? 
+[03/15/17 15:52:10]: Arm: tx60-S1-R3 floor
+[03/15/17 15:52:10]: Arm serial number: ? 
+[03/15/17 15:52:10]: Robot name:  
+[03/15/17 15:52:10]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:52:10]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:52:10]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:52:10]: New profile : default
+[03/15/17 15:52:10]: End of controller initialization
+[03/15/17 15:52:10]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:52:10]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:52:11]: End of arm power shutdown phase.
+[03/15/17 15:52:12]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:52:18]: MCP communication disconnected
+[03/15/17 15:52:20]: Mcp = TSimulated
+[03/15/17 15:52:20]: Mcp communication established
+[03/15/17 15:52:20]: Working mode:manual.
+[03/15/17 15:52:56]: -----------------------------------------------
+[03/15/17 15:52:56]: Logger started
+[03/15/17 15:53:00]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:53:00]: Cycle time set to 0.004s
+[03/15/17 15:53:00]: Simulation cycle time set to 0.1s
+[03/15/17 15:53:00]: Controller IP address could not be updated
+[03/15/17 15:53:00]: STARC : No STARC board detected on PCI.
+[03/15/17 15:53:00]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:53:00]: Power hour count = 11:04:31
+[03/15/17 15:53:00]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:53:00]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:53:00]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:53:00]: Configuration Version: c1.009 
+[03/15/17 15:53:00]: Option testMode: enabled 
+[03/15/17 15:53:00]: Option VAL 3: enabled 
+[03/15/17 15:53:00]: Option uniVAL: enabled 
+[03/15/17 15:53:00]: Machine Number: ? 
+[03/15/17 15:53:00]: Arm: tx60-S1-R3 floor
+[03/15/17 15:53:00]: Arm serial number: ? 
+[03/15/17 15:53:00]: Robot name:  
+[03/15/17 15:53:00]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:53:00]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:53:00]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:53:00]: New profile : default
+[03/15/17 15:53:00]: End of controller initialization
+[03/15/17 15:53:00]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:53:00]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:53:01]: End of arm power shutdown phase.
+[03/15/17 15:53:02]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:53:08]: MCP communication disconnected
+[03/15/17 15:53:10]: Mcp = TSimulated
+[03/15/17 15:53:10]: Mcp communication established
+[03/15/17 15:53:10]: Working mode:manual.
+[03/15/17 15:53:46]: -----------------------------------------------
+[03/15/17 15:53:46]: Logger started
+[03/15/17 15:53:50]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:53:50]: Cycle time set to 0.004s
+[03/15/17 15:53:50]: Simulation cycle time set to 0.1s
+[03/15/17 15:53:50]: Controller IP address could not be updated
+[03/15/17 15:53:50]: STARC : No STARC board detected on PCI.
+[03/15/17 15:53:50]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:53:50]: Power hour count = 11:04:31
+[03/15/17 15:53:50]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:53:50]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:53:50]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:53:50]: Configuration Version: c1.009 
+[03/15/17 15:53:50]: Option testMode: enabled 
+[03/15/17 15:53:50]: Option VAL 3: enabled 
+[03/15/17 15:53:50]: Option uniVAL: enabled 
+[03/15/17 15:53:50]: Machine Number: ? 
+[03/15/17 15:53:50]: Arm: tx60-S1-R3 floor
+[03/15/17 15:53:50]: Arm serial number: ? 
+[03/15/17 15:53:50]: Robot name:  
+[03/15/17 15:53:50]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:53:50]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:53:50]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:53:50]: New profile : default
+[03/15/17 15:53:50]: End of controller initialization
+[03/15/17 15:53:50]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:53:50]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:53:51]: End of arm power shutdown phase.
+[03/15/17 15:53:52]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:54:05]: -----------------------------------------------
+[03/15/17 15:54:05]: Logger started
+[03/15/17 15:54:09]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:54:09]: Cycle time set to 0.004s
+[03/15/17 15:54:09]: Simulation cycle time set to 0.1s
+[03/15/17 15:54:09]: Controller IP address could not be updated
+[03/15/17 15:54:09]: STARC : No STARC board detected on PCI.
+[03/15/17 15:54:09]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:54:09]: Power hour count = 11:04:31
+[03/15/17 15:54:09]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:54:09]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:54:09]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:54:09]: Configuration Version: c1.009 
+[03/15/17 15:54:09]: Option testMode: enabled 
+[03/15/17 15:54:09]: Option VAL 3: enabled 
+[03/15/17 15:54:09]: Option uniVAL: enabled 
+[03/15/17 15:54:09]: Machine Number: ? 
+[03/15/17 15:54:09]: Arm: tx60-S1-R3 floor
+[03/15/17 15:54:09]: Arm serial number: ? 
+[03/15/17 15:54:09]: Robot name:  
+[03/15/17 15:54:09]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:54:09]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:54:09]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:54:09]: New profile : default
+[03/15/17 15:54:09]: End of controller initialization
+[03/15/17 15:54:09]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:54:09]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:54:10]: End of arm power shutdown phase.
+[03/15/17 15:54:11]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:54:17]: MCP communication disconnected
+[03/15/17 15:54:19]: Mcp = TSimulated
+[03/15/17 15:54:19]: Mcp communication established
+[03/15/17 15:54:19]: Working mode:manual.
+[03/15/17 15:56:57]: -----------------------------------------------
+[03/15/17 15:56:57]: Logger started
+[03/15/17 15:57:03]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:57:03]: Cycle time set to 0.004s
+[03/15/17 15:57:03]: Simulation cycle time set to 0.1s
+[03/15/17 15:57:03]: Controller IP address could not be updated
+[03/15/17 15:57:03]: STARC : No STARC board detected on PCI.
+[03/15/17 15:57:03]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:57:03]: Power hour count = 11:04:31
+[03/15/17 15:57:03]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:57:03]: End of arm power shutdown phase.
+[03/15/17 15:57:03]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:57:03]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:57:03]: Configuration Version: c1.009 
+[03/15/17 15:57:03]: Option testMode: enabled 
+[03/15/17 15:57:03]: Option VAL 3: enabled 
+[03/15/17 15:57:03]: Option uniVAL: enabled 
+[03/15/17 15:57:03]: Machine Number: ? 
+[03/15/17 15:57:03]: Arm: tx60-S1-R3 floor
+[03/15/17 15:57:03]: Arm serial number: ? 
+[03/15/17 15:57:03]: Robot name:  
+[03/15/17 15:57:03]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:57:03]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:57:03]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:57:03]: New profile : default
+[03/15/17 15:57:03]: End of controller initialization
+[03/15/17 15:57:03]: System event INTERFACE-Stopped  (Main menu)
+[03/15/17 15:57:03]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[03/15/17 15:57:03]: COM-PC: create session 127.0.0.1 on port 2037 id=#42103224
+[03/15/17 15:57:04]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:57:10]: MCP communication disconnected
+[03/15/17 15:57:12]: Mcp = TSimulated
+[03/15/17 15:57:12]: Mcp communication established
+[03/15/17 15:57:12]: Working mode:manual.
+[03/15/17 15:57:18]: COM-PC: destroy session 127.0.0.1 on port 2037 id=#42103224
+[03/15/17 15:57:26]: MCP communication disconnected
+[03/15/17 15:57:29]: -----------------------------------------------
+[03/15/17 15:57:29]: Logger started
+[03/15/17 15:57:33]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:57:33]: Cycle time set to 0.004s
+[03/15/17 15:57:33]: Simulation cycle time set to 0.1s
+[03/15/17 15:57:33]: Controller IP address could not be updated
+[03/15/17 15:57:33]: STARC : No STARC board detected on PCI.
+[03/15/17 15:57:33]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:57:33]: Power hour count = 11:04:31
+[03/15/17 15:57:33]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:57:33]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:57:33]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:57:33]: Configuration Version: c1.009 
+[03/15/17 15:57:33]: Option testMode: enabled 
+[03/15/17 15:57:33]: Option VAL 3: enabled 
+[03/15/17 15:57:33]: Option uniVAL: enabled 
+[03/15/17 15:57:33]: Machine Number: ? 
+[03/15/17 15:57:33]: Arm: tx60-S1-R3 floor
+[03/15/17 15:57:33]: Arm serial number: ? 
+[03/15/17 15:57:33]: Robot name:  
+[03/15/17 15:57:33]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:57:33]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:57:33]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:57:33]: New profile : default
+[03/15/17 15:57:33]: End of controller initialization
+[03/15/17 15:57:34]: End of arm power shutdown phase.
+[03/15/17 15:57:35]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:57:42]: MCP communication disconnected
+[03/15/17 15:57:43]: Mcp = TSimulated
+[03/15/17 15:57:43]: Mcp communication established
+[03/15/17 15:57:43]: Working mode:manual.
+[03/15/17 15:59:12]: -----------------------------------------------
+[03/15/17 15:59:12]: Logger started
+[03/15/17 15:59:16]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:59:16]: Cycle time set to 0.004s
+[03/15/17 15:59:16]: Simulation cycle time set to 0.1s
+[03/15/17 15:59:16]: Controller IP address could not be updated
+[03/15/17 15:59:16]: STARC : No STARC board detected on PCI.
+[03/15/17 15:59:16]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:59:16]: Power hour count = 11:04:31
+[03/15/17 15:59:16]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:59:16]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:59:16]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:59:16]: Configuration Version: c1.009 
+[03/15/17 15:59:16]: Option testMode: enabled 
+[03/15/17 15:59:16]: Option VAL 3: enabled 
+[03/15/17 15:59:16]: Option uniVAL: enabled 
+[03/15/17 15:59:16]: Machine Number: ? 
+[03/15/17 15:59:16]: Arm: tx60-S1-R3 floor
+[03/15/17 15:59:16]: Arm serial number: ? 
+[03/15/17 15:59:16]: Robot name:  
+[03/15/17 15:59:16]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:59:16]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:59:16]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:59:16]: New profile : default
+[03/15/17 15:59:16]: End of controller initialization
+[03/15/17 15:59:16]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:59:16]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:59:17]: End of arm power shutdown phase.
+[03/15/17 15:59:18]: Internal error MCP-NoAnswer: char 1
+[03/15/17 15:59:24]: MCP communication disconnected
+[03/15/17 15:59:26]: Mcp = TSimulated
+[03/15/17 15:59:26]: Mcp communication established
+[03/15/17 15:59:26]: Working mode:manual.
+[03/15/17 15:59:51]: -----------------------------------------------
+[03/15/17 15:59:51]: Logger started
+[03/15/17 15:59:55]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 15:59:55]: Cycle time set to 0.004s
+[03/15/17 15:59:55]: Simulation cycle time set to 0.1s
+[03/15/17 15:59:55]: Controller IP address could not be updated
+[03/15/17 15:59:55]: STARC : No STARC board detected on PCI.
+[03/15/17 15:59:55]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 15:59:55]: Power hour count = 11:04:31
+[03/15/17 15:59:55]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 15:59:55]: COM-PC: server created on all interfaces [5653]
+[03/15/17 15:59:55]: System: s7.3.1 Mar 12 2012
+[03/15/17 15:59:55]: Configuration Version: c1.009 
+[03/15/17 15:59:55]: Option testMode: enabled 
+[03/15/17 15:59:55]: Option VAL 3: enabled 
+[03/15/17 15:59:55]: Option uniVAL: enabled 
+[03/15/17 15:59:55]: Machine Number: ? 
+[03/15/17 15:59:55]: Arm: tx60-S1-R3 floor
+[03/15/17 15:59:55]: Arm serial number: ? 
+[03/15/17 15:59:55]: Robot name:  
+[03/15/17 15:59:55]: EP: s7.3.1 Mar  6 2012
+[03/15/17 15:59:55]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 15:59:55]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 15:59:55]: New profile : default
+[03/15/17 15:59:55]: End of controller initialization
+[03/15/17 15:59:55]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 15:59:55]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 15:59:56]: End of arm power shutdown phase.
+[03/15/17 15:59:57]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:00:03]: MCP communication disconnected
+[03/15/17 16:00:05]: Mcp = TSimulated
+[03/15/17 16:00:05]: Mcp communication established
+[03/15/17 16:00:05]: Working mode:manual.
+[03/15/17 16:00:38]: -----------------------------------------------
+[03/15/17 16:00:38]: Logger started
+[03/15/17 16:00:43]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:00:43]: Cycle time set to 0.004s
+[03/15/17 16:00:43]: Simulation cycle time set to 0.1s
+[03/15/17 16:00:43]: Controller IP address could not be updated
+[03/15/17 16:00:43]: STARC : No STARC board detected on PCI.
+[03/15/17 16:00:43]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:00:43]: Power hour count = 11:04:31
+[03/15/17 16:00:43]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:00:43]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:00:43]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:00:43]: Configuration Version: c1.009 
+[03/15/17 16:00:43]: Option testMode: enabled 
+[03/15/17 16:00:43]: Option VAL 3: enabled 
+[03/15/17 16:00:43]: Option uniVAL: enabled 
+[03/15/17 16:00:43]: Machine Number: ? 
+[03/15/17 16:00:43]: Arm: tx60-S1-R3 floor
+[03/15/17 16:00:43]: Arm serial number: ? 
+[03/15/17 16:00:43]: Robot name:  
+[03/15/17 16:00:43]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:00:43]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:00:43]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:00:43]: New profile : default
+[03/15/17 16:00:43]: End of controller initialization
+[03/15/17 16:00:43]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:00:43]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:00:43]: End of arm power shutdown phase.
+[03/15/17 16:00:44]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:00:54]: -----------------------------------------------
+[03/15/17 16:00:54]: Logger started
+[03/15/17 16:00:58]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:00:58]: Cycle time set to 0.004s
+[03/15/17 16:00:58]: Simulation cycle time set to 0.1s
+[03/15/17 16:00:58]: Controller IP address could not be updated
+[03/15/17 16:00:58]: STARC : No STARC board detected on PCI.
+[03/15/17 16:00:58]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:00:58]: Power hour count = 11:04:31
+[03/15/17 16:00:58]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:00:58]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:00:58]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:00:58]: Configuration Version: c1.009 
+[03/15/17 16:00:58]: Option testMode: enabled 
+[03/15/17 16:00:58]: Option VAL 3: enabled 
+[03/15/17 16:00:58]: Option uniVAL: enabled 
+[03/15/17 16:00:58]: Machine Number: ? 
+[03/15/17 16:00:58]: Arm: tx60-S1-R3 floor
+[03/15/17 16:00:58]: Arm serial number: ? 
+[03/15/17 16:00:58]: Robot name:  
+[03/15/17 16:00:58]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:00:58]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:00:58]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:00:58]: New profile : default
+[03/15/17 16:00:58]: End of controller initialization
+[03/15/17 16:00:58]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:00:58]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:00:59]: End of arm power shutdown phase.
+[03/15/17 16:01:00]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:01:15]: -----------------------------------------------
+[03/15/17 16:01:15]: Logger started
+[03/15/17 16:01:19]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:01:19]: Cycle time set to 0.004s
+[03/15/17 16:01:19]: Simulation cycle time set to 0.1s
+[03/15/17 16:01:19]: Controller IP address could not be updated
+[03/15/17 16:01:19]: STARC : No STARC board detected on PCI.
+[03/15/17 16:01:19]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:01:19]: Power hour count = 11:04:31
+[03/15/17 16:01:19]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:01:19]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:01:19]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:01:19]: Configuration Version: c1.009 
+[03/15/17 16:01:19]: Option testMode: enabled 
+[03/15/17 16:01:19]: Option VAL 3: enabled 
+[03/15/17 16:01:19]: Option uniVAL: enabled 
+[03/15/17 16:01:19]: Machine Number: ? 
+[03/15/17 16:01:19]: Arm: tx60-S1-R3 floor
+[03/15/17 16:01:19]: Arm serial number: ? 
+[03/15/17 16:01:19]: Robot name:  
+[03/15/17 16:01:19]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:01:19]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:01:19]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:01:19]: New profile : default
+[03/15/17 16:01:19]: End of controller initialization
+[03/15/17 16:01:19]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:01:19]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:01:20]: End of arm power shutdown phase.
+[03/15/17 16:01:21]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:03:40]: -----------------------------------------------
+[03/15/17 16:03:40]: Logger started
+[03/15/17 16:03:45]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:03:45]: Cycle time set to 0.004s
+[03/15/17 16:03:45]: Simulation cycle time set to 0.1s
+[03/15/17 16:03:45]: Controller IP address could not be updated
+[03/15/17 16:03:45]: STARC : No STARC board detected on PCI.
+[03/15/17 16:03:45]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:03:45]: Power hour count = 11:04:31
+[03/15/17 16:03:45]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:03:45]: End of arm power shutdown phase.
+[03/15/17 16:03:45]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:03:45]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:03:45]: Configuration Version: c1.009 
+[03/15/17 16:03:45]: Option testMode: enabled 
+[03/15/17 16:03:45]: Option VAL 3: enabled 
+[03/15/17 16:03:45]: Option uniVAL: enabled 
+[03/15/17 16:03:45]: Machine Number: ? 
+[03/15/17 16:03:45]: Arm: tx60-S1-R3 floor
+[03/15/17 16:03:45]: Arm serial number: ? 
+[03/15/17 16:03:45]: Robot name:  
+[03/15/17 16:03:45]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:03:45]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:03:45]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:03:45]: New profile : default
+[03/15/17 16:03:45]: End of controller initialization
+[03/15/17 16:03:45]: System event INTERFACE-Stopped  (Main menu)
+[03/15/17 16:03:45]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[03/15/17 16:03:46]: COM-PC: create session 127.0.0.1 on port 2014 id=#47538048
+[03/15/17 16:03:46]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:03:52]: MCP communication disconnected
+[03/15/17 16:03:54]: Mcp = TSimulated
+[03/15/17 16:03:54]: Mcp communication established
+[03/15/17 16:03:54]: Working mode:manual.
+[03/15/17 16:03:58]: COM-PC: destroy session 127.0.0.1 on port 2014 id=#47538048
+[03/15/17 16:04:20]: MCP communication disconnected
+[03/15/17 16:04:47]: -----------------------------------------------
+[03/15/17 16:04:47]: Logger started
+[03/15/17 16:04:51]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:04:51]: Cycle time set to 0.004s
+[03/15/17 16:04:51]: Simulation cycle time set to 0.1s
+[03/15/17 16:04:51]: Controller IP address could not be updated
+[03/15/17 16:04:51]: STARC : No STARC board detected on PCI.
+[03/15/17 16:04:51]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:04:51]: Power hour count = 11:04:31
+[03/15/17 16:04:51]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:04:51]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:04:51]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:04:51]: Configuration Version: c1.009 
+[03/15/17 16:04:51]: Option testMode: enabled 
+[03/15/17 16:04:51]: Option VAL 3: enabled 
+[03/15/17 16:04:51]: Option uniVAL: enabled 
+[03/15/17 16:04:51]: Machine Number: ? 
+[03/15/17 16:04:51]: Arm: tx60-S1-R3 floor
+[03/15/17 16:04:51]: Arm serial number: ? 
+[03/15/17 16:04:51]: Robot name:  
+[03/15/17 16:04:51]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:04:51]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:04:51]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:04:51]: New profile : default
+[03/15/17 16:04:51]: End of controller initialization
+[03/15/17 16:04:52]: End of arm power shutdown phase.
+[03/15/17 16:04:53]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:04:59]: MCP communication disconnected
+[03/15/17 16:05:01]: Mcp = TSimulated
+[03/15/17 16:05:01]: Mcp communication established
+[03/15/17 16:05:01]: Working mode:manual.
+[03/15/17 16:07:36]: -----------------------------------------------
+[03/15/17 16:07:36]: Logger started
+[03/15/17 16:07:40]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:07:40]: Cycle time set to 0.004s
+[03/15/17 16:07:40]: Simulation cycle time set to 0.1s
+[03/15/17 16:07:40]: Controller IP address could not be updated
+[03/15/17 16:07:40]: STARC : No STARC board detected on PCI.
+[03/15/17 16:07:40]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:07:40]: Power hour count = 11:04:31
+[03/15/17 16:07:40]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:07:40]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:07:40]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:07:40]: Configuration Version: c1.009 
+[03/15/17 16:07:40]: Option testMode: enabled 
+[03/15/17 16:07:40]: Option VAL 3: enabled 
+[03/15/17 16:07:40]: Option uniVAL: enabled 
+[03/15/17 16:07:40]: Machine Number: ? 
+[03/15/17 16:07:40]: Arm: tx60-S1-R3 floor
+[03/15/17 16:07:40]: Arm serial number: ? 
+[03/15/17 16:07:40]: Robot name:  
+[03/15/17 16:07:40]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:07:40]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:07:40]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:07:40]: New profile : default
+[03/15/17 16:07:40]: End of controller initialization
+[03/15/17 16:07:40]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:07:40]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:07:41]: End of arm power shutdown phase.
+[03/15/17 16:07:41]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:07:47]: MCP communication disconnected
+[03/15/17 16:07:49]: Mcp = TSimulated
+[03/15/17 16:07:49]: Mcp communication established
+[03/15/17 16:07:50]: Working mode:manual.
+[03/15/17 16:09:08]: -----------------------------------------------
+[03/15/17 16:09:08]: Logger started
+[03/15/17 16:09:12]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:09:12]: Cycle time set to 0.004s
+[03/15/17 16:09:12]: Simulation cycle time set to 0.1s
+[03/15/17 16:09:12]: Controller IP address could not be updated
+[03/15/17 16:09:12]: STARC : No STARC board detected on PCI.
+[03/15/17 16:09:12]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:09:12]: Power hour count = 11:04:31
+[03/15/17 16:09:12]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:09:12]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:09:12]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:09:12]: Configuration Version: c1.009 
+[03/15/17 16:09:12]: Option testMode: enabled 
+[03/15/17 16:09:12]: Option VAL 3: enabled 
+[03/15/17 16:09:12]: Option uniVAL: enabled 
+[03/15/17 16:09:12]: Machine Number: ? 
+[03/15/17 16:09:12]: Arm: tx60-S1-R3 floor
+[03/15/17 16:09:12]: Arm serial number: ? 
+[03/15/17 16:09:12]: Robot name:  
+[03/15/17 16:09:12]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:09:12]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:09:12]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:09:12]: New profile : default
+[03/15/17 16:09:12]: End of controller initialization
+[03/15/17 16:09:12]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:09:12]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:09:12]: COM-PC: create session 127.0.0.1 on port 2108 id=#40944312
+[03/15/17 16:09:13]: End of arm power shutdown phase.
+[03/15/17 16:09:13]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:09:18]: COM-PC: destroy session 127.0.0.1 on port 2108 id=#40944312
+[03/15/17 16:09:48]: -----------------------------------------------
+[03/15/17 16:09:48]: Logger started
+[03/15/17 16:09:53]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:09:53]: Cycle time set to 0.004s
+[03/15/17 16:09:53]: Simulation cycle time set to 0.1s
+[03/15/17 16:09:53]: Controller IP address could not be updated
+[03/15/17 16:09:53]: STARC : No STARC board detected on PCI.
+[03/15/17 16:09:53]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:09:53]: Power hour count = 11:04:31
+[03/15/17 16:09:53]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:09:53]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:09:53]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:09:53]: Configuration Version: c1.009 
+[03/15/17 16:09:53]: Option testMode: enabled 
+[03/15/17 16:09:53]: Option VAL 3: enabled 
+[03/15/17 16:09:53]: Option uniVAL: enabled 
+[03/15/17 16:09:53]: Machine Number: ? 
+[03/15/17 16:09:53]: Arm: tx60-S1-R3 floor
+[03/15/17 16:09:53]: Arm serial number: ? 
+[03/15/17 16:09:53]: Robot name:  
+[03/15/17 16:09:53]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:09:53]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:09:53]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:09:53]: New profile : default
+[03/15/17 16:09:53]: End of controller initialization
+[03/15/17 16:09:53]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:09:53]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:09:53]: COM-PC: create session 127.0.0.1 on port 2126 id=#40848256
+[03/15/17 16:09:53]: End of arm power shutdown phase.
+[03/15/17 16:09:54]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:10:00]: MCP communication disconnected
+[03/15/17 16:10:02]: Mcp = TSimulated
+[03/15/17 16:10:02]: Mcp communication established
+[03/15/17 16:10:03]: Working mode:manual.
+[03/15/17 16:10:09]: COM-PC: destroy session 127.0.0.1 on port 2126 id=#40848256
+[03/15/17 16:11:02]: -----------------------------------------------
+[03/15/17 16:11:02]: Logger started
+[03/15/17 16:11:06]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:11:06]: Cycle time set to 0.004s
+[03/15/17 16:11:06]: Simulation cycle time set to 0.1s
+[03/15/17 16:11:06]: Controller IP address could not be updated
+[03/15/17 16:11:06]: STARC : No STARC board detected on PCI.
+[03/15/17 16:11:06]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:11:06]: Power hour count = 11:04:31
+[03/15/17 16:11:06]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:11:06]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:11:06]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:11:06]: Configuration Version: c1.009 
+[03/15/17 16:11:06]: Option testMode: enabled 
+[03/15/17 16:11:06]: Option VAL 3: enabled 
+[03/15/17 16:11:06]: Option uniVAL: enabled 
+[03/15/17 16:11:06]: Machine Number: ? 
+[03/15/17 16:11:06]: Arm: tx60-S1-R3 floor
+[03/15/17 16:11:06]: Arm serial number: ? 
+[03/15/17 16:11:06]: Robot name:  
+[03/15/17 16:11:06]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:11:06]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:11:06]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:11:06]: New profile : default
+[03/15/17 16:11:06]: End of controller initialization
+[03/15/17 16:11:06]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 16:11:07]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 16:11:07]: COM-PC: create session 127.0.0.1 on port 2167 id=#41426616
+[03/15/17 16:11:07]: End of arm power shutdown phase.
+[03/15/17 16:11:08]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:11:14]: MCP communication disconnected
+[03/15/17 16:11:16]: Mcp = TSimulated
+[03/15/17 16:11:16]: Mcp communication established
+[03/15/17 16:11:17]: Working mode:manual.
+[03/15/17 16:11:26]: COM-PC: destroy session 127.0.0.1 on port 2167 id=#41426616
+[03/15/17 16:14:15]: -----------------------------------------------
+[03/15/17 16:14:15]: Logger started
+[03/15/17 16:14:19]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 16:14:19]: Cycle time set to 0.004s
+[03/15/17 16:14:19]: Simulation cycle time set to 0.1s
+[03/15/17 16:14:19]: Controller IP address could not be updated
+[03/15/17 16:14:19]: STARC : No STARC board detected on PCI.
+[03/15/17 16:14:19]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 16:14:19]: Power hour count = 11:04:31
+[03/15/17 16:14:19]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 16:14:19]: COM-PC: server created on all interfaces [5653]
+[03/15/17 16:14:19]: System: s7.3.1 Mar 12 2012
+[03/15/17 16:14:19]: Configuration Version: c1.009 
+[03/15/17 16:14:19]: Option testMode: enabled 
+[03/15/17 16:14:19]: Option VAL 3: enabled 
+[03/15/17 16:14:19]: Option uniVAL: enabled 
+[03/15/17 16:14:19]: Machine Number: ? 
+[03/15/17 16:14:19]: Arm: tx60-S1-R3 floor
+[03/15/17 16:14:19]: Arm serial number: ? 
+[03/15/17 16:14:19]: Robot name:  
+[03/15/17 16:14:19]: EP: s7.3.1 Mar  6 2012
+[03/15/17 16:14:19]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 16:14:19]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 16:14:19]: New profile : default
+[03/15/17 16:14:19]: End of controller initialization
+[03/15/17 16:14:20]: End of arm power shutdown phase.
+[03/15/17 16:14:20]: Internal error MCP-NoAnswer: char 1
+[03/15/17 16:14:26]: MCP communication disconnected
+[03/15/17 16:14:28]: Mcp = TSimulated
+[03/15/17 16:14:28]: Mcp communication established
+[03/15/17 16:14:29]: Working mode:manual.
+[03/15/17 19:00:16]: -----------------------------------------------
+[03/15/17 19:00:16]: Logger started
+[03/15/17 19:00:20]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 19:00:20]: Cycle time set to 0.004s
+[03/15/17 19:00:20]: Simulation cycle time set to 0.1s
+[03/15/17 19:00:20]: Controller IP address could not be updated
+[03/15/17 19:00:20]: STARC : No STARC board detected on PCI.
+[03/15/17 19:00:20]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 19:00:20]: Power hour count = 11:04:31
+[03/15/17 19:00:20]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 19:00:20]: COM-PC: server created on all interfaces [5653]
+[03/15/17 19:00:20]: System: s7.3.1 Mar 12 2012
+[03/15/17 19:00:20]: Configuration Version: c1.009 
+[03/15/17 19:00:20]: Option testMode: enabled 
+[03/15/17 19:00:20]: Option VAL 3: enabled 
+[03/15/17 19:00:20]: Option uniVAL: enabled 
+[03/15/17 19:00:20]: Machine Number: ? 
+[03/15/17 19:00:20]: Arm: tx60-S1-R3 floor
+[03/15/17 19:00:20]: Arm serial number: ? 
+[03/15/17 19:00:20]: Robot name:  
+[03/15/17 19:00:20]: EP: s7.3.1 Mar  6 2012
+[03/15/17 19:00:20]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 19:00:20]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 19:00:20]: New profile : default
+[03/15/17 19:00:20]: End of controller initialization
+[03/15/17 19:00:20]: System event INTERFACE-Stopped  (Main menu)
+[03/15/17 19:00:20]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[03/15/17 19:00:21]: End of arm power shutdown phase.
+[03/15/17 19:00:21]: COM-PC: create session 127.0.0.1 on port 2115 id=#48455800
+[03/15/17 19:00:21]: Internal error MCP-NoAnswer: char 1
+[03/15/17 19:00:25]: Saving controller context...
+[03/15/17 19:00:25]: Controller temperature: 28°C
+[03/15/17 19:00:25]: CPU temperature: 28°C
+[03/15/17 19:00:27]: MCP communication disconnected
+[03/15/17 19:00:29]: Mcp = TSimulated
+[03/15/17 19:00:29]: Mcp communication established
+[03/15/17 19:00:29]: Working mode:manual.
+[03/15/17 19:00:34]: COM-PC: destroy session 127.0.0.1 on port 2115 id=#48455800
+[03/15/17 19:00:51]: -----------------------------------------------
+[03/15/17 19:00:51]: Logger started
+[03/15/17 19:00:56]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 19:00:56]: Cycle time set to 0.004s
+[03/15/17 19:00:56]: Simulation cycle time set to 0.1s
+[03/15/17 19:00:56]: Controller IP address could not be updated
+[03/15/17 19:00:56]: STARC : No STARC board detected on PCI.
+[03/15/17 19:00:56]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 19:00:56]: Power hour count = 11:04:31
+[03/15/17 19:00:56]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 19:00:56]: COM-PC: server created on all interfaces [5653]
+[03/15/17 19:00:56]: System: s7.3.1 Mar 12 2012
+[03/15/17 19:00:56]: Configuration Version: c1.009 
+[03/15/17 19:00:56]: Option testMode: enabled 
+[03/15/17 19:00:56]: Option VAL 3: enabled 
+[03/15/17 19:00:56]: Option uniVAL: enabled 
+[03/15/17 19:00:56]: Machine Number: ? 
+[03/15/17 19:00:56]: Arm: tx60-S1-R3 floor
+[03/15/17 19:00:56]: Arm serial number: ? 
+[03/15/17 19:00:56]: Robot name:  
+[03/15/17 19:00:56]: EP: s7.3.1 Mar  6 2012
+[03/15/17 19:00:56]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 19:00:56]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 19:00:56]: New profile : default
+[03/15/17 19:00:56]: End of controller initialization
+[03/15/17 19:00:56]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 19:00:56]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 19:00:56]: End of arm power shutdown phase.
+[03/15/17 19:00:57]: Internal error MCP-NoAnswer: char 1
+[03/15/17 19:01:03]: MCP communication disconnected
+[03/15/17 19:01:05]: Mcp = TSimulated
+[03/15/17 19:01:05]: Mcp communication established
+[03/15/17 19:01:06]: Working mode:manual.
+[03/15/17 19:01:46]: -----------------------------------------------
+[03/15/17 19:01:46]: Logger started
+[03/15/17 19:01:57]: -----------------------------------------------
+[03/15/17 19:01:57]: Logger started
+[03/15/17 19:02:01]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 19:02:01]: Cycle time set to 0.004s
+[03/15/17 19:02:01]: Simulation cycle time set to 0.1s
+[03/15/17 19:02:01]: Controller IP address could not be updated
+[03/15/17 19:02:01]: STARC : No STARC board detected on PCI.
+[03/15/17 19:02:01]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 19:02:01]: Power hour count = 11:04:31
+[03/15/17 19:02:01]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 19:02:01]: COM-PC: server created on all interfaces [5653]
+[03/15/17 19:02:01]: System: s7.3.1 Mar 12 2012
+[03/15/17 19:02:01]: Configuration Version: c1.009 
+[03/15/17 19:02:01]: Option testMode: enabled 
+[03/15/17 19:02:01]: Option VAL 3: enabled 
+[03/15/17 19:02:01]: Option uniVAL: enabled 
+[03/15/17 19:02:01]: Machine Number: ? 
+[03/15/17 19:02:01]: Arm: tx60-S1-R3 floor
+[03/15/17 19:02:01]: Arm serial number: ? 
+[03/15/17 19:02:01]: Robot name:  
+[03/15/17 19:02:01]: EP: s7.3.1 Mar  6 2012
+[03/15/17 19:02:01]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 19:02:01]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 19:02:01]: New profile : default
+[03/15/17 19:02:01]: End of controller initialization
+[03/15/17 19:02:01]: System event INTERFACE-Stopped  (Calibration)
+[03/15/17 19:02:01]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[03/15/17 19:02:02]: End of arm power shutdown phase.
+[03/15/17 19:02:03]: Internal error MCP-NoAnswer: char 1
+[03/15/17 19:02:09]: MCP communication disconnected
+[03/15/17 19:02:11]: Mcp = TSimulated
+[03/15/17 19:02:11]: Mcp communication established
+[03/15/17 19:02:11]: Working mode:manual.
+[03/15/17 19:05:15]: MCP communication disconnected
+[03/15/17 19:23:32]: -----------------------------------------------
+[03/15/17 19:23:32]: Logger started
+[03/15/17 19:23:38]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 19:23:38]: Cycle time set to 0.004s
+[03/15/17 19:23:38]: Simulation cycle time set to 0.1s
+[03/15/17 19:23:38]: Controller IP address could not be updated
+[03/15/17 19:23:38]: STARC : No STARC board detected on PCI.
+[03/15/17 19:23:38]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 19:23:38]: Power hour count = 11:04:31
+[03/15/17 19:23:38]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 19:23:38]: End of arm power shutdown phase.
+[03/15/17 19:23:38]: COM-PC: server created on all interfaces [5653]
+[03/15/17 19:23:38]: System: s7.3.1 Mar 12 2012
+[03/15/17 19:23:38]: Configuration Version: c1.009 
+[03/15/17 19:23:38]: Option testMode: enabled 
+[03/15/17 19:23:38]: Option VAL 3: enabled 
+[03/15/17 19:23:38]: Option uniVAL: enabled 
+[03/15/17 19:23:38]: Machine Number: ? 
+[03/15/17 19:23:38]: Arm: tx60-S1-R3 floor
+[03/15/17 19:23:38]: Arm serial number: ? 
+[03/15/17 19:23:38]: Robot name:  
+[03/15/17 19:23:38]: EP: s7.3.1 Mar  6 2012
+[03/15/17 19:23:38]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 19:23:38]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 19:23:38]: New profile : default
+[03/15/17 19:23:38]: End of controller initialization
+[03/15/17 19:23:38]: System event INTERFACE-Stopped  (Main menu)
+[03/15/17 19:23:38]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[03/15/17 19:23:38]: COM-PC: create session 127.0.0.1 on port 2983 id=#41440928
+[03/15/17 19:23:39]: Internal error MCP-NoAnswer: char 1
+[03/15/17 19:23:45]: MCP communication disconnected
+[03/15/17 19:23:47]: Mcp = TSimulated
+[03/15/17 19:23:47]: Mcp communication established
+[03/15/17 19:23:47]: Working mode:manual.
+[03/15/17 19:23:57]: COM-PC: destroy session 127.0.0.1 on port 2983 id=#41440928
+[03/15/17 19:24:11]: MCP communication disconnected
+[03/15/17 19:24:18]: -----------------------------------------------
+[03/15/17 19:24:18]: Logger started
+[03/15/17 19:24:22]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[03/15/17 19:24:22]: Cycle time set to 0.004s
+[03/15/17 19:24:22]: Simulation cycle time set to 0.1s
+[03/15/17 19:24:22]: Controller IP address could not be updated
+[03/15/17 19:24:22]: STARC : No STARC board detected on PCI.
+[03/15/17 19:24:22]: Cannot load uniVAL driver files: .\sys/uniVAL
+[03/15/17 19:24:22]: Power hour count = 11:04:31
+[03/15/17 19:24:22]: Mac Address = fc-f8-ae-f4-0e-d4
+[03/15/17 19:24:22]: COM-PC: server created on all interfaces [5653]
+[03/15/17 19:24:22]: System: s7.3.1 Mar 12 2012
+[03/15/17 19:24:22]: Configuration Version: c1.009 
+[03/15/17 19:24:22]: Option testMode: enabled 
+[03/15/17 19:24:22]: Option VAL 3: enabled 
+[03/15/17 19:24:22]: Option uniVAL: enabled 
+[03/15/17 19:24:22]: Machine Number: ? 
+[03/15/17 19:24:22]: Arm: tx60-S1-R3 floor
+[03/15/17 19:24:22]: Arm serial number: ? 
+[03/15/17 19:24:22]: Robot name:  
+[03/15/17 19:24:22]: EP: s7.3.1 Mar  6 2012
+[03/15/17 19:24:22]: SCA: s7.3.1 Mar  6 2012
+[03/15/17 19:24:22]: PLC: s7.3.1 Mar  6 2012
+[03/15/17 19:24:22]: New profile : default
+[03/15/17 19:24:22]: End of controller initialization
+[03/15/17 19:24:23]: End of arm power shutdown phase.
+[03/15/17 19:24:24]: Internal error MCP-NoAnswer: char 1
+[03/15/17 19:24:30]: MCP communication disconnected
+[03/15/17 19:24:32]: Mcp = TSimulated
+[03/15/17 19:24:32]: Mcp communication established
+[03/15/17 19:24:32]: Working mode:manual.
+[05/16/17 16:50:19]: -----------------------------------------------
+[05/16/17 16:50:19]: Logger started
+[05/16/17 16:50:24]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/16/17 16:50:24]: Cycle time set to 0.004s
+[05/16/17 16:50:24]: Simulation cycle time set to 0.1s
+[05/16/17 16:50:24]: Controller IP address could not be updated
+[05/16/17 16:50:24]: STARC : No STARC board detected on PCI.
+[05/16/17 16:50:24]: Cannot load uniVAL driver files: .\sys/uniVAL
+[05/16/17 16:50:24]: Power hour count = 11:04:31
+[05/16/17 16:50:24]: Mac Address = fc-f8-ae-f4-0e-d4
+[05/16/17 16:50:24]: COM-PC: server created on all interfaces [5653]
+[05/16/17 16:50:24]: System: s7.3.1 Mar 12 2012
+[05/16/17 16:50:24]: Configuration Version: c1.009 
+[05/16/17 16:50:24]: Option testMode: enabled 
+[05/16/17 16:50:24]: Option VAL 3: enabled 
+[05/16/17 16:50:24]: Option uniVAL: enabled 
+[05/16/17 16:50:24]: Machine Number: ? 
+[05/16/17 16:50:24]: Arm: tx60-S1-R3 floor
+[05/16/17 16:50:24]: Arm serial number: ? 
+[05/16/17 16:50:24]: Robot name:  
+[05/16/17 16:50:24]: EP: s7.3.1 Mar  6 2012
+[05/16/17 16:50:24]: SCA: s7.3.1 Mar  6 2012
+[05/16/17 16:50:24]: PLC: s7.3.1 Mar  6 2012
+[05/16/17 16:50:24]: New profile : default
+[05/16/17 16:50:24]: End of controller initialization
+[05/16/17 16:50:24]: System event INTERFACE-Stopped  (Main menu)
+[05/16/17 16:50:24]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[05/16/17 16:50:24]: End of arm power shutdown phase.
+[05/16/17 16:50:24]: COM-PC: create session 127.0.0.1 on port 22847 id=#42229064
+[05/16/17 16:50:24]: Internal error MCP-NoAnswer: char 1
+[05/16/17 16:50:29]: Saving controller context...
+[05/16/17 16:50:29]: Controller temperature: 28°C
+[05/16/17 16:50:29]: CPU temperature: 28°C
+[05/16/17 16:50:30]: MCP communication disconnected
+[05/16/17 16:50:32]: Mcp = TSimulated
+[05/16/17 16:50:33]: Mcp communication established
+[05/16/17 16:50:33]: Working mode:manual.
+[05/16/17 16:50:40]: COM-PC: destroy session 127.0.0.1 on port 22847 id=#42229064
+[05/16/17 16:51:08]: Working mode:test.
+[05/16/17 16:51:10]: Working mode:remote.
+[05/16/17 16:51:11]: Working mode:automatic.
+[05/16/17 16:51:13]: Deadman validated
+[05/16/17 16:51:13]: Settling arm power...
+[05/16/17 16:51:13]: Arm power settled.
+[05/16/17 16:51:22]: RemoteAxisCtrl application started
+[05/16/17 16:51:28]: Deadman enabled.
+[05/16/17 16:52:10]: RemoteAxisCtrl application stopped
+[05/16/17 16:52:14]: RemoteAxisCtrl application started
+[05/16/17 16:52:27]: Arm power shutdown...
+[05/16/17 16:52:28]: End of arm power shutdown phase.
+[05/16/17 16:52:29]: Deadman disabled.
+[05/16/17 16:52:29]: Deadman validated
+[05/16/17 16:52:29]: Saving controller context...
+[05/16/17 16:52:29]: Settling arm power...
+[05/16/17 16:52:30]: Arm power settled.
+[05/16/17 16:52:30]: Manual motion mode:Connect
+[05/16/17 16:52:32]: Manual motion mode:Disabled
+[05/16/17 16:52:32]: End of connection move.
+[05/16/17 16:52:44]: Deadman enabled.
+[05/16/17 16:52:48]: RemoteAxisCtrl application stopped
+[05/16/17 16:52:57]: COM-PC: create session 127.0.0.1 on port 23029 id=#42229272
+[05/16/17 16:53:02]: RemoteAxisCtrl application started
+[05/16/17 16:55:09]: MCP communication disconnected
+[05/16/17 16:55:09]: Arm power shutdown: working mode change.
+[05/16/17 16:55:09]: Arm power shutdown...
+[05/16/17 16:55:42]: -----------------------------------------------
+[05/16/17 16:55:42]: Logger started
+[05/16/17 16:55:46]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/16/17 16:55:46]: Cycle time set to 0.004s
+[05/16/17 16:55:46]: Simulation cycle time set to 0.1s
+[05/16/17 16:55:46]: Controller IP address could not be updated
+[05/16/17 16:55:46]: STARC : No STARC board detected on PCI.
+[05/16/17 16:55:46]: Cannot load uniVAL driver files: .\sys/uniVAL
+[05/16/17 16:55:46]: Power hour count = 11:05:44
+[05/16/17 16:55:46]: Mac Address = fc-f8-ae-f4-0e-d4
+[05/16/17 16:55:46]: COM-PC: server created on all interfaces [5653]
+[05/16/17 16:55:46]: System: s7.3.1 Mar 12 2012
+[05/16/17 16:55:46]: Configuration Version: c1.009 
+[05/16/17 16:55:46]: Option testMode: enabled 
+[05/16/17 16:55:46]: Option VAL 3: enabled 
+[05/16/17 16:55:46]: Option uniVAL: enabled 
+[05/16/17 16:55:46]: Machine Number: ? 
+[05/16/17 16:55:46]: Arm: tx60-S1-R3 floor
+[05/16/17 16:55:46]: Arm serial number: ? 
+[05/16/17 16:55:46]: Robot name:  
+[05/16/17 16:55:46]: EP: s7.3.1 Mar  6 2012
+[05/16/17 16:55:46]: SCA: s7.3.1 Mar  6 2012
+[05/16/17 16:55:46]: PLC: s7.3.1 Mar  6 2012
+[05/16/17 16:55:46]: New profile : default
+[05/16/17 16:55:46]: End of controller initialization
+[05/16/17 16:55:46]: System event INTERFACE-Stopped  (Calibration)
+[05/16/17 16:55:46]: System event INTERFACE-Stopped  (Calibration). 2 events lost.
+[05/16/17 16:55:46]: COM-PC: create session 127.0.0.1 on port 23174 id=#42673832
+[05/16/17 16:55:47]: End of arm power shutdown phase.
+[05/16/17 16:55:48]: Internal error MCP-NoAnswer: char 1
+[05/16/17 16:55:54]: MCP communication disconnected
+[05/16/17 16:55:56]: Mcp = TSimulated
+[05/16/17 16:55:56]: Mcp communication established
+[05/16/17 16:55:56]: Working mode:automatic.
+[05/16/17 16:56:00]: COM-PC: destroy session 127.0.0.1 on port 23174 id=#42673832
+[05/16/17 17:22:15]: Deadman validated
+[05/16/17 17:22:15]: Settling arm power...
+[05/16/17 17:22:16]: Arm power settled.
+[05/16/17 17:22:25]: RemoteAxisCtrl application started
+[05/16/17 17:22:30]: Deadman enabled.
+[05/16/17 17:23:19]: -----------------------------------------------
+[05/16/17 17:23:19]: Logger started
+[05/16/17 17:23:23]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/16/17 17:23:23]: Cycle time set to 0.004s
+[05/16/17 17:23:23]: Simulation cycle time set to 0.1s
+[05/16/17 17:23:23]: Controller IP address could not be updated
+[05/16/17 17:23:23]: STARC : No STARC board detected on PCI.
+[05/16/17 17:23:23]: Cannot load uniVAL driver files: .\sys/uniVAL
+[05/16/17 17:23:23]: Power hour count = 11:05:44
+[05/16/17 17:23:23]: Mac Address = fc-f8-ae-f4-0e-d4
+[05/16/17 17:23:23]: COM-PC: server created on all interfaces [5653]
+[05/16/17 17:23:23]: System: s7.3.1 Mar 12 2012
+[05/16/17 17:23:23]: Configuration Version: c1.009 
+[05/16/17 17:23:23]: Option testMode: enabled 
+[05/16/17 17:23:23]: Option VAL 3: enabled 
+[05/16/17 17:23:23]: Option uniVAL: enabled 
+[05/16/17 17:23:23]: Machine Number: ? 
+[05/16/17 17:23:23]: Arm: tx60-S1-R3 floor
+[05/16/17 17:23:23]: Arm serial number: ? 
+[05/16/17 17:23:23]: Robot name:  
+[05/16/17 17:23:23]: EP: s7.3.1 Mar  6 2012
+[05/16/17 17:23:23]: SCA: s7.3.1 Mar  6 2012
+[05/16/17 17:23:23]: PLC: s7.3.1 Mar  6 2012
+[05/16/17 17:23:23]: New profile : default
+[05/16/17 17:23:23]: End of controller initialization
+[05/16/17 17:23:23]: System event INTERFACE-Stopped  (Calibration)
+[05/16/17 17:23:23]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[05/16/17 17:23:24]: End of arm power shutdown phase.
+[05/16/17 17:23:25]: Internal error MCP-NoAnswer: char 1
+[05/16/17 17:23:31]: MCP communication disconnected
+[05/16/17 17:23:33]: Mcp = TSimulated
+[05/16/17 17:23:33]: Mcp communication established
+[05/16/17 17:23:34]: Working mode:automatic.
+[05/16/17 17:26:07]: Working mode:manual.
+[05/16/17 17:26:08]: Working mode:test.
+[05/16/17 17:26:09]: Working mode:remote.
+[05/16/17 17:26:10]: Saving controller context...
+[05/16/17 17:26:10]: Controller temperature: 28°C
+[05/16/17 17:26:10]: CPU temperature: 28°C
+[05/16/17 17:26:10]: Working mode:automatic.
+[05/16/17 17:26:11]: Deadman validated
+[05/16/17 17:26:11]: Settling arm power...
+[05/16/17 17:26:11]: Arm power settled.
+[05/16/17 17:26:17]: RemoteAxisCtrl application started
+[05/16/17 17:26:23]: COM-PC: create session 127.0.0.1 on port 24668 id=#42495408
+[05/16/17 17:26:26]: Deadman enabled.
+[05/16/17 17:27:56]: RemoteAxisCtrl application stopped
+[05/16/17 17:28:29]: COM-PC: destroy session 127.0.0.1 on port 24668 id=#42495408
+[05/16/17 17:59:31]: -----------------------------------------------
+[05/16/17 17:59:31]: Logger started
+[05/16/17 17:59:36]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/16/17 17:59:36]: Cycle time set to 0.004s
+[05/16/17 17:59:36]: Simulation cycle time set to 0.1s
+[05/16/17 17:59:36]: Controller IP address could not be updated
+[05/16/17 17:59:36]: STARC : No STARC board detected on PCI.
+[05/16/17 17:59:36]: Cannot load uniVAL driver files: .\sys/uniVAL
+[05/16/17 17:59:36]: Power hour count = 11:05:44
+[05/16/17 17:59:36]: Mac Address = fc-f8-ae-f4-0e-d4
+[05/16/17 17:59:36]: COM-PC: server created on all interfaces [5653]
+[05/16/17 17:59:36]: System: s7.3.1 Mar 12 2012
+[05/16/17 17:59:36]: Configuration Version: c1.009 
+[05/16/17 17:59:36]: Option testMode: enabled 
+[05/16/17 17:59:36]: Option VAL 3: enabled 
+[05/16/17 17:59:36]: Option uniVAL: enabled 
+[05/16/17 17:59:36]: Machine Number: ? 
+[05/16/17 17:59:36]: Arm: tx60-S1-R3 floor
+[05/16/17 17:59:36]: Arm serial number: ? 
+[05/16/17 17:59:36]: Robot name:  
+[05/16/17 17:59:36]: EP: s7.3.1 Mar  6 2012
+[05/16/17 17:59:36]: SCA: s7.3.1 Mar  6 2012
+[05/16/17 17:59:36]: PLC: s7.3.1 Mar  6 2012
+[05/16/17 17:59:36]: New profile : default
+[05/16/17 17:59:36]: End of controller initialization
+[05/16/17 17:59:36]: System event INTERFACE-Stopped  (Main menu)
+[05/16/17 17:59:36]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[05/16/17 17:59:36]: End of arm power shutdown phase.
+[05/16/17 17:59:37]: COM-PC: create session 127.0.0.1 on port 26368 id=#42288768
+[05/16/17 17:59:37]: Internal error MCP-NoAnswer: char 1
+[05/16/17 17:59:44]: MCP communication disconnected
+[05/16/17 17:59:45]: Mcp = TSimulated
+[05/16/17 17:59:45]: Mcp communication established
+[05/16/17 17:59:46]: Working mode:manual.
+[05/16/17 17:59:50]: COM-PC: destroy session 127.0.0.1 on port 26368 id=#42288768
+[05/16/17 17:59:57]: Working mode:test.
+[05/16/17 17:59:58]: Working mode:remote.
+[05/16/17 17:59:59]: Working mode:automatic.
+[05/16/17 17:59:59]: Deadman validated
+[05/16/17 18:00:00]: Settling arm power...
+[05/16/17 18:00:00]: Arm power settled.
+[05/16/17 18:00:01]: COM-PC: create session 127.0.0.1 on port 26412 id=#42287624
+[05/16/17 18:00:07]: RemoteAxisCtrl application started
+[05/16/17 18:00:14]: Deadman enabled.
+[05/16/17 18:00:49]: RemoteAxisCtrl application stopped
+[05/16/17 18:03:47]: RemoteAxisCtrl application started
+[05/16/17 18:04:25]: RemoteAxisCtrl application stopped
+[05/16/17 18:05:12]: RemoteAxisCtrl application started
+[05/16/17 18:06:14]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[05/16/17 18:06:40]: RemoteAxisCtrl application stopped
+[05/16/17 18:07:15]: RemoteAxisCtrl application started
+[05/16/17 18:07:42]: RemoteAxisCtrl application stopped
+[05/16/17 18:09:18]: RemoteAxisCtrl application started
+[05/16/17 18:10:10]: RemoteAxisCtrl application stopped
+[05/16/17 18:15:36]: RemoteAxisCtrl application started
+[05/16/17 18:16:37]: RemoteAxisCtrl application stopped
+[05/16/17 18:30:01]: Saving controller context...
+[05/16/17 18:30:01]: Controller temperature: 28°C
+[05/16/17 18:30:01]: CPU temperature: 28°C
+[05/16/17 18:36:33]: RemoteAxisCtrl application started
+[05/16/17 18:37:16]: RemoteAxisCtrl application stopped
+[05/16/17 18:38:32]: RemoteAxisCtrl application started
+[05/16/17 18:39:27]: RemoteAxisCtrl application stopped
+[05/16/17 18:41:40]: RemoteAxisCtrl application started
+[05/16/17 18:42:27]: RemoteAxisCtrl application stopped
+[05/16/17 18:45:27]: RemoteAxisCtrl application started
+[05/16/17 18:45:54]: RemoteAxisCtrl application stopped
+[06/26/17 13:13:03]: -----------------------------------------------
+[06/26/17 13:13:03]: Logger started
+[06/26/17 13:13:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/26/17 13:13:08]: Cycle time set to 0.004s
+[06/26/17 13:13:08]: Simulation cycle time set to 0.1s
+[06/26/17 13:13:08]: Controller IP address could not be updated
+[06/26/17 13:13:08]: STARC : No STARC board detected on PCI.
+[06/26/17 13:13:08]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/26/17 13:13:08]: Power hour count = 11:35:39
+[06/26/17 13:13:08]: Mac Address = 00-50-56-c0-00-08
+[06/26/17 13:13:08]: COM-PC: server created on all interfaces [5653]
+[06/26/17 13:13:08]: System: s7.3.1 Mar 12 2012
+[06/26/17 13:13:08]: Configuration Version: c1.009 
+[06/26/17 13:13:08]: Option testMode: enabled 
+[06/26/17 13:13:08]: Option VAL 3: enabled 
+[06/26/17 13:13:08]: Option uniVAL: enabled 
+[06/26/17 13:13:08]: Machine Number: ? 
+[06/26/17 13:13:08]: Arm: tx60-S1-R3 floor
+[06/26/17 13:13:08]: Arm serial number: ? 
+[06/26/17 13:13:08]: Robot name:  
+[06/26/17 13:13:08]: EP: s7.3.1 Mar  6 2012
+[06/26/17 13:13:08]: SCA: s7.3.1 Mar  6 2012
+[06/26/17 13:13:08]: PLC: s7.3.1 Mar  6 2012
+[06/26/17 13:13:08]: New profile : default
+[06/26/17 13:13:08]: End of controller initialization
+[06/26/17 13:13:08]: System event INTERFACE-Stopped  (Main menu)
+[06/26/17 13:13:08]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[06/26/17 13:13:08]: End of arm power shutdown phase.
+[06/26/17 13:13:09]: COM-PC: create session 127.0.0.1 on port 13852 id=#42387200
+[06/26/17 13:13:10]: Internal error MCP-NoAnswer: char 1
+[06/26/17 13:13:16]: MCP communication disconnected
+[06/26/17 13:13:18]: Mcp = TSimulated
+[06/26/17 13:13:18]: Mcp communication established
+[06/26/17 13:13:18]: Working mode:manual.
+[06/26/17 13:13:41]: Working mode:test.
+[06/26/17 13:13:42]: Working mode:remote.
+[06/26/17 13:13:43]: Working mode:automatic.
+[06/26/17 13:13:46]: Deadman validated
+[06/26/17 13:13:46]: Saving controller context...
+[06/26/17 13:13:46]: Settling arm power...
+[06/26/17 13:13:46]: Controller temperature: 28°C
+[06/26/17 13:13:46]: CPU temperature: 28°C
+[06/26/17 13:13:47]: Arm power settled.
+[06/26/17 13:13:51]: RemoteAxisCtrl application started
+[06/26/17 13:14:01]: Deadman enabled.
+[06/26/17 13:16:46]: RemoteAxisCtrl application stopped
+[06/26/17 13:16:51]: RemoteAxisCtrl application started
+[06/26/17 13:21:26]: RemoteAxisCtrl application stopped
+[06/26/17 13:23:01]: RemoteAxisCtrl application started
+[06/26/17 13:24:09]: RemoteAxisCtrl application stopped
+[06/26/17 13:33:37]: Watchdog occurs in Cs8 priority:75
+[06/26/17 13:40:38]: RemoteAxisCtrl application started
+[06/26/17 13:43:51]: Saving controller context...
+[06/26/17 13:45:04]: RemoteAxisCtrl application stopped
+[06/26/17 13:55:17]: RemoteAxisCtrl application started
+[06/26/17 13:58:43]: RemoteAxisCtrl application stopped
+[06/26/17 14:03:14]: COM-PC: destroy session 127.0.0.1 on port 13852 id=#42387200
+[06/26/17 14:03:22]: MCP communication disconnected
+[06/26/17 14:03:22]: Arm power shutdown: working mode change.
+[06/26/17 14:03:22]: Arm power shutdown...
+[06/26/17 14:03:23]: End of arm power shutdown phase.
+[06/26/17 14:03:25]: Saving controller context...
+[06/26/17 18:33:43]: -----------------------------------------------
+[06/26/17 18:33:43]: Logger started
+[06/26/17 18:33:50]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/26/17 18:33:50]: Cycle time set to 0.004s
+[06/26/17 18:33:50]: Simulation cycle time set to 0.1s
+[06/26/17 18:33:50]: Controller IP address could not be updated
+[06/26/17 18:33:50]: STARC : No STARC board detected on PCI.
+[06/26/17 18:33:50]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/26/17 18:33:50]: Power hour count = 12:25:05
+[06/26/17 18:33:50]: Mac Address = 00-50-56-c0-00-01
+[06/26/17 18:33:50]: End of arm power shutdown phase.
+[06/26/17 18:33:50]: COM-PC: server created on all interfaces [5653]
+[06/26/17 18:33:50]: System: s7.3.1 Mar 12 2012
+[06/26/17 18:33:50]: Configuration Version: c1.009 
+[06/26/17 18:33:50]: Option testMode: enabled 
+[06/26/17 18:33:50]: Option VAL 3: enabled 
+[06/26/17 18:33:50]: Option uniVAL: enabled 
+[06/26/17 18:33:50]: Machine Number: ? 
+[06/26/17 18:33:50]: Arm: tx60-S1-R3 floor
+[06/26/17 18:33:50]: Arm serial number: ? 
+[06/26/17 18:33:50]: Robot name:  
+[06/26/17 18:33:50]: EP: s7.3.1 Mar  6 2012
+[06/26/17 18:33:50]: SCA: s7.3.1 Mar  6 2012
+[06/26/17 18:33:50]: PLC: s7.3.1 Mar  6 2012
+[06/26/17 18:33:50]: New profile : default
+[06/26/17 18:33:50]: End of controller initialization
+[06/26/17 18:33:50]: System event INTERFACE-Stopped  (Main menu)
+[06/26/17 18:33:50]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[06/26/17 18:33:50]: COM-PC: create session 127.0.0.1 on port 10400 id=#49039000
+[06/26/17 18:33:52]: Internal error MCP-NoAnswer: char 1
+[06/26/17 18:33:58]: MCP communication disconnected
+[06/26/17 18:34:00]: Mcp = TSimulated
+[06/26/17 18:34:00]: Mcp communication established
+[06/26/17 18:34:01]: Working mode:automatic.
+[06/26/17 18:34:02]: COM-PC: destroy session 127.0.0.1 on port 10400 id=#49039000
+[06/26/17 18:34:03]: COM-PC: create session 127.0.0.1 on port 10409 id=#49040352
+[06/26/17 18:34:18]: Deadman validated
+[06/26/17 18:34:18]: Settling arm power...
+[06/26/17 18:34:19]: Arm power settled.
+[06/26/17 18:34:31]: RemoteAxisCtrl application started
+[06/26/17 18:34:33]: Deadman enabled.
+[06/26/17 18:36:22]: RemoteAxisCtrl application stopped
+[06/26/17 18:38:39]: RemoteAxisCtrl application started
+[06/26/17 18:42:47]: RemoteAxisCtrl application stopped
+[06/26/17 18:43:17]: RemoteAxisCtrl application started
+[06/26/17 18:44:02]: RemoteAxisCtrl application stopped
+[06/26/17 18:49:57]: RemoteAxisCtrl application started
+[06/26/17 18:53:59]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[06/26/17 18:54:42]: RemoteAxisCtrl application stopped
+[06/26/17 18:55:34]: RemoteAxisCtrl application started
+[06/26/17 19:03:44]: RemoteAxisCtrl application stopped
+[06/26/17 19:04:20]: Saving controller context...
+[06/26/17 19:04:21]: Controller temperature: 28°C
+[06/26/17 19:04:21]: CPU temperature: 28°C
+[06/26/17 19:05:12]: COM-PC: destroy session 127.0.0.1 on port 10409 id=#49040352
+[06/27/17 12:08:00]: -----------------------------------------------
+[06/27/17 12:08:00]: Logger started
+[06/27/17 12:08:07]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/27/17 12:08:07]: Cycle time set to 0.004s
+[06/27/17 12:08:07]: Simulation cycle time set to 0.1s
+[06/27/17 12:08:07]: Controller IP address could not be updated
+[06/27/17 12:08:07]: STARC : No STARC board detected on PCI.
+[06/27/17 12:08:07]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/27/17 12:08:07]: Power hour count = 12:55:02
+[06/27/17 12:08:07]: Mac Address = 00-50-56-c0-00-01
+[06/27/17 12:08:07]: End of arm power shutdown phase.
+[06/27/17 12:08:07]: COM-PC: server created on all interfaces [5653]
+[06/27/17 12:08:07]: System: s7.3.1 Mar 12 2012
+[06/27/17 12:08:07]: Configuration Version: c1.009 
+[06/27/17 12:08:07]: Option testMode: enabled 
+[06/27/17 12:08:07]: Option VAL 3: enabled 
+[06/27/17 12:08:07]: Option uniVAL: enabled 
+[06/27/17 12:08:07]: Machine Number: ? 
+[06/27/17 12:08:07]: Arm: tx60-S1-R3 floor
+[06/27/17 12:08:07]: Arm serial number: ? 
+[06/27/17 12:08:07]: Robot name:  
+[06/27/17 12:08:07]: EP: s7.3.1 Mar  6 2012
+[06/27/17 12:08:07]: SCA: s7.3.1 Mar  6 2012
+[06/27/17 12:08:07]: PLC: s7.3.1 Mar  6 2012
+[06/27/17 12:08:07]: New profile : default
+[06/27/17 12:08:07]: End of controller initialization
+[06/27/17 12:08:07]: System event INTERFACE-Stopped  (Main menu)
+[06/27/17 12:08:07]: System event INTERFACE-Stopped  (Main menu). 3 events lost.
+[06/27/17 12:08:07]: Internal error MCP-NoAnswer: char 1
+[06/27/17 12:08:07]: COM-PC: create session 127.0.0.1 on port 4399 id=#41434696
+[06/27/17 12:08:13]: MCP communication disconnected
+[06/27/17 12:08:15]: Mcp = TSimulated
+[06/27/17 12:08:15]: Mcp communication established
+[06/27/17 12:08:15]: Working mode:automatic.
+[06/27/17 12:08:25]: COM-PC: destroy session 127.0.0.1 on port 4399 id=#41434696
+[06/27/17 12:08:35]: Deadman validated
+[06/27/17 12:08:35]: Settling arm power...
+[06/27/17 12:08:35]: Arm power settled.
+[06/27/17 12:08:39]: RemoteAxisCtrl application started
+[06/27/17 12:08:44]: COM-PC: create session 127.0.0.1 on port 4436 id=#41433760
+[06/27/17 12:08:50]: Deadman enabled.
+[06/27/17 12:13:33]: RemoteAxisCtrl application stopped
+[06/27/17 12:23:30]: RemoteAxisCtrl application started
+[06/27/17 12:28:30]: RemoteAxisCtrl application stopped
+[06/27/17 12:33:45]: COM-PC: destroy session 127.0.0.1 on port 4436 id=#41433760
+[06/27/17 12:33:45]: COM-PC: create session 127.0.0.1 on port 6430 id=#41433344
+[06/27/17 12:34:06]: COM-PC: destroy session 127.0.0.1 on port 6430 id=#41433344
+[06/27/17 12:34:07]: COM-PC: create session 127.0.0.1 on port 6456 id=#41433552
+[06/27/17 12:38:40]: Saving controller context...
+[06/27/17 12:38:41]: Controller temperature: 28°C
+[06/27/17 12:38:41]: CPU temperature: 28°C
+[06/27/17 13:08:43]: Saving controller context...
+[06/27/17 13:17:46]: RemoteAxisCtrl application started
+[06/27/17 13:18:36]: RemoteAxisCtrl application stopped
+[06/27/17 13:19:07]: RemoteAxisCtrl application started
+[06/27/17 13:21:07]: RemoteAxisCtrl application stopped
+[06/27/17 13:22:03]: RemoteAxisCtrl application started
+[06/27/17 13:24:22]: RemoteAxisCtrl application stopped
+[06/27/17 13:25:36]: RemoteAxisCtrl application started
+[06/27/17 13:27:12]: RemoteAxisCtrl application stopped
+[06/27/17 13:38:47]: Saving controller context...
+[06/27/17 14:00:24]: RemoteAxisCtrl application started
+[06/27/17 14:03:24]: RemoteAxisCtrl application stopped
+[06/27/17 14:04:57]: RemoteAxisCtrl application started
+[06/27/17 14:06:55]: RemoteAxisCtrl application stopped
+[06/27/17 14:08:49]: Saving controller context...
+[06/27/17 14:21:27]: RemoteAxisCtrl application started
+[06/27/17 14:25:38]: RemoteAxisCtrl application stopped
+[06/27/17 14:38:52]: Saving controller context...
+[06/27/17 14:56:25]: RemoteAxisCtrl application started
+[06/27/17 14:59:11]: RemoteAxisCtrl application stopped
+[06/27/17 15:06:56]: MCP communication disconnected
+[06/27/17 15:06:57]: Arm power shutdown: working mode change.
+[06/27/17 15:06:57]: Arm power shutdown...
+[06/27/17 15:06:58]: End of arm power shutdown phase.
+[06/27/17 16:47:32]: -----------------------------------------------
+[06/27/17 16:47:32]: Logger started
+[06/27/17 16:47:37]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/27/17 16:47:37]: Cycle time set to 0.004s
+[06/27/17 16:47:37]: Simulation cycle time set to 0.1s
+[06/27/17 16:47:37]: Controller IP address could not be updated
+[06/27/17 16:47:37]: STARC : No STARC board detected on PCI.
+[06/27/17 16:47:37]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/27/17 16:47:37]: Power hour count = 15:24:54
+[06/27/17 16:47:37]: Mac Address = 00-50-56-c0-00-08
+[06/27/17 16:47:37]: COM-PC: server created on all interfaces [5653]
+[06/27/17 16:47:37]: System: s7.3.1 Mar 12 2012
+[06/27/17 16:47:37]: Configuration Version: c1.009 
+[06/27/17 16:47:37]: Option testMode: enabled 
+[06/27/17 16:47:37]: Option VAL 3: enabled 
+[06/27/17 16:47:37]: Option uniVAL: enabled 
+[06/27/17 16:47:37]: Machine Number: ? 
+[06/27/17 16:47:37]: Arm: tx60-S1-R3 floor
+[06/27/17 16:47:37]: Arm serial number: ? 
+[06/27/17 16:47:37]: Robot name:  
+[06/27/17 16:47:37]: EP: s7.3.1 Mar  6 2012
+[06/27/17 16:47:37]: SCA: s7.3.1 Mar  6 2012
+[06/27/17 16:47:37]: PLC: s7.3.1 Mar  6 2012
+[06/27/17 16:47:37]: New profile : default
+[06/27/17 16:47:37]: End of controller initialization
+[06/27/17 16:47:37]: System event INTERFACE-Stopped  (Main menu)
+[06/27/17 16:47:37]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[06/27/17 16:47:37]: End of arm power shutdown phase.
+[06/27/17 16:47:38]: Internal error MCP-NoAnswer: char 1
+[06/27/17 16:47:40]: COM-PC: create session 127.0.0.1 on port 4282 id=#42753232
+[06/27/17 16:47:44]: MCP communication disconnected
+[06/27/17 16:47:46]: Mcp = TSimulated
+[06/27/17 16:47:46]: Mcp communication established
+[06/27/17 16:47:47]: Working mode:automatic.
+[06/27/17 16:47:58]: RemoteAxisCtrl application started
+[06/27/17 16:48:01]: Deadman validated
+[06/27/17 16:48:02]: Settling arm power...
+[06/27/17 16:48:02]: Arm power settled.
+[06/27/17 16:48:16]: Deadman enabled.
+[06/27/17 16:49:30]: RemoteAxisCtrl application stopped
+[06/28/17 17:38:25]: -----------------------------------------------
+[06/28/17 17:38:25]: Logger started
+[06/28/17 17:38:30]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/28/17 17:38:30]: Cycle time set to 0.004s
+[06/28/17 17:38:30]: Simulation cycle time set to 0.1s
+[06/28/17 17:38:30]: Controller IP address could not be updated
+[06/28/17 17:38:30]: STARC : No STARC board detected on PCI.
+[06/28/17 17:38:30]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/28/17 17:38:30]: Power hour count = 15:24:54
+[06/28/17 17:38:30]: Mac Address = 00-50-56-c0-00-08
+[06/28/17 17:38:30]: COM-PC: server created on all interfaces [5653]
+[06/28/17 17:38:30]: System: s7.3.1 Mar 12 2012
+[06/28/17 17:38:30]: Configuration Version: c1.009 
+[06/28/17 17:38:30]: Option testMode: enabled 
+[06/28/17 17:38:30]: Option VAL 3: enabled 
+[06/28/17 17:38:30]: Option uniVAL: enabled 
+[06/28/17 17:38:30]: Machine Number: ? 
+[06/28/17 17:38:30]: Arm: tx60-S1-R3 floor
+[06/28/17 17:38:30]: Arm serial number: ? 
+[06/28/17 17:38:30]: Robot name:  
+[06/28/17 17:38:30]: EP: s7.3.1 Mar  6 2012
+[06/28/17 17:38:30]: SCA: s7.3.1 Mar  6 2012
+[06/28/17 17:38:30]: PLC: s7.3.1 Mar  6 2012
+[06/28/17 17:38:30]: New profile : default
+[06/28/17 17:38:30]: End of controller initialization
+[06/28/17 17:38:30]: System event INTERFACE-Stopped  (Main menu)
+[06/28/17 17:38:30]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[06/28/17 17:38:30]: COM-PC: create session 127.0.0.1 on port 9316 id=#48975600
+[06/28/17 17:38:31]: End of arm power shutdown phase.
+[06/28/17 17:38:32]: Internal error MCP-NoAnswer: char 1
+[06/28/17 17:38:38]: MCP communication disconnected
+[06/28/17 17:38:40]: Mcp = TSimulated
+[06/28/17 17:38:40]: Mcp communication established
+[06/28/17 17:38:40]: Working mode:automatic.
+[06/28/17 17:38:40]: Deadman validated
+[06/28/17 17:38:54]: Deadman disabled.
+[06/28/17 17:38:54]: Deadman validated
+[06/28/17 17:38:54]: Settling arm power...
+[06/28/17 17:38:54]: Arm power settled.
+[06/28/17 17:38:56]: RemoteAxisCtrl application started
+[06/28/17 17:39:09]: Deadman enabled.
+[06/28/17 17:41:29]: RemoteAxisCtrl application stopped
+[06/28/17 17:41:33]: RemoteAxisCtrl application started
+[06/28/17 17:48:36]: Cannot complete move: destination is out of reach.(out of arm workspace)
+[06/28/17 17:49:20]: RemoteAxisCtrl application stopped
+[06/28/17 17:50:03]: RemoteAxisCtrl application started
+[06/28/17 17:59:02]: RemoteAxisCtrl application stopped
+[06/28/17 17:59:22]: MCP communication disconnected
+[06/28/17 17:59:22]: Arm power shutdown: working mode change.
+[06/28/17 17:59:22]: Arm power shutdown...
+[06/29/17 09:27:44]: -----------------------------------------------
+[06/29/17 09:27:44]: Logger started
+[06/29/17 09:27:49]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[06/29/17 09:27:49]: Cycle time set to 0.004s
+[06/29/17 09:27:49]: Simulation cycle time set to 0.1s
+[06/29/17 09:27:49]: Controller IP address could not be updated
+[06/29/17 09:27:49]: STARC : No STARC board detected on PCI.
+[06/29/17 09:27:49]: Cannot load uniVAL driver files: .\sys/uniVAL
+[06/29/17 09:27:49]: Power hour count = 15:24:54
+[06/29/17 09:27:49]: Mac Address = 00-50-56-c0-00-08
+[06/29/17 09:27:49]: COM-PC: server created on all interfaces [5653]
+[06/29/17 09:27:49]: System: s7.3.1 Mar 12 2012
+[06/29/17 09:27:49]: Configuration Version: c1.009 
+[06/29/17 09:27:49]: Option testMode: enabled 
+[06/29/17 09:27:49]: Option VAL 3: enabled 
+[06/29/17 09:27:49]: Option uniVAL: enabled 
+[06/29/17 09:27:49]: Machine Number: ? 
+[06/29/17 09:27:49]: Arm: tx60-S1-R3 floor
+[06/29/17 09:27:49]: Arm serial number: ? 
+[06/29/17 09:27:49]: Robot name:  
+[06/29/17 09:27:49]: EP: s7.3.1 Mar  6 2012
+[06/29/17 09:27:49]: SCA: s7.3.1 Mar  6 2012
+[06/29/17 09:27:49]: PLC: s7.3.1 Mar  6 2012
+[06/29/17 09:27:49]: New profile : default
+[06/29/17 09:27:49]: End of controller initialization
+[06/29/17 09:27:49]: System event INTERFACE-Stopped  (Main menu)
+[06/29/17 09:27:49]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[06/29/17 09:27:49]: End of arm power shutdown phase.
+[06/29/17 09:27:49]: COM-PC: create session 127.0.0.1 on port 3356 id=#42492856
+[06/29/17 09:27:50]: Internal error MCP-NoAnswer: char 1
+[06/29/17 09:27:56]: MCP communication disconnected
+[06/29/17 09:27:58]: Mcp = TSimulated
+[06/29/17 09:27:58]: Mcp communication established
+[06/29/17 09:27:58]: Working mode:automatic.
+[06/29/17 09:28:06]: Deadman validated
+[06/29/17 09:28:06]: Settling arm power...
+[06/29/17 09:28:07]: Arm power settled.
+[06/29/17 09:28:08]: COM-PC: destroy session 127.0.0.1 on port 3356 id=#42492856
+[06/29/17 09:28:15]: RemoteAxisCtrl application started
+[06/29/17 09:28:21]: Deadman enabled.
+[06/29/17 09:28:22]: COM-PC: create session 127.0.0.1 on port 3391 id=#42490776
+[06/29/17 09:57:09]: RemoteAxisCtrl application stopped
+[06/29/17 09:57:58]: COM-PC: destroy session 127.0.0.1 on port 3391 id=#42490776
+[07/03/17 19:33:04]: -----------------------------------------------
+[07/03/17 19:33:04]: Logger started
+[07/03/17 19:33:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/03/17 19:33:08]: Cycle time set to 0.004s
+[07/03/17 19:33:08]: Simulation cycle time set to 0.1s
+[07/03/17 19:33:08]: Controller IP address could not be updated
+[07/03/17 19:33:08]: STARC : No STARC board detected on PCI.
+[07/03/17 19:33:08]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/03/17 19:33:08]: Power hour count = 15:24:54
+[07/03/17 19:33:08]: Mac Address = 00-50-56-c0-00-01
+[07/03/17 19:33:08]: COM-PC: server created on all interfaces [5653]
+[07/03/17 19:33:08]: System: s7.3.1 Mar 12 2012
+[07/03/17 19:33:08]: Configuration Version: c1.009 
+[07/03/17 19:33:08]: Option testMode: enabled 
+[07/03/17 19:33:08]: Option VAL 3: enabled 
+[07/03/17 19:33:08]: Option uniVAL: enabled 
+[07/03/17 19:33:08]: Machine Number: ? 
+[07/03/17 19:33:08]: Arm: tx60-S1-R3 floor
+[07/03/17 19:33:08]: Arm serial number: ? 
+[07/03/17 19:33:08]: Robot name:  
+[07/03/17 19:33:08]: EP: s7.3.1 Mar  6 2012
+[07/03/17 19:33:08]: SCA: s7.3.1 Mar  6 2012
+[07/03/17 19:33:08]: PLC: s7.3.1 Mar  6 2012
+[07/03/17 19:33:08]: New profile : default
+[07/03/17 19:33:08]: End of controller initialization
+[07/03/17 19:33:08]: System event INTERFACE-Stopped  (Main menu)
+[07/03/17 19:33:08]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/03/17 19:33:09]: COM-PC: create session 127.0.0.1 on port 14951 id=#43280848
+[07/03/17 19:33:09]: End of arm power shutdown phase.
+[07/03/17 19:33:09]: Internal error MCP-NoAnswer: char 1
+[07/03/17 19:33:15]: MCP communication disconnected
+[07/03/17 19:33:17]: Mcp = TSimulated
+[07/03/17 19:33:17]: Mcp communication established
+[07/03/17 19:33:17]: Working mode:automatic.
+[07/03/17 19:33:26]: COM-PC: destroy session 127.0.0.1 on port 14951 id=#43280848
+[07/03/17 19:33:27]: Deadman validated
+[07/03/17 19:33:27]: Settling arm power...
+[07/03/17 19:33:28]: Arm power settled.
+[07/03/17 19:33:30]: RemoteAxisCtrl application started
+[07/03/17 19:33:34]: COM-PC: create session 127.0.0.1 on port 14981 id=#43277104
+[07/03/17 19:33:42]: Deadman enabled.
+[07/03/17 19:35:56]: RemoteAxisCtrl application stopped
+[07/03/17 19:36:04]: COM-PC: destroy session 127.0.0.1 on port 14981 id=#43277104
+[07/04/17 10:15:14]: -----------------------------------------------
+[07/04/17 10:15:14]: Logger started
+[07/04/17 10:15:19]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/04/17 10:15:19]: Cycle time set to 0.004s
+[07/04/17 10:15:19]: Simulation cycle time set to 0.1s
+[07/04/17 10:15:19]: Controller IP address could not be updated
+[07/04/17 10:15:19]: STARC : No STARC board detected on PCI.
+[07/04/17 10:15:19]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/04/17 10:15:19]: Power hour count = 15:24:54
+[07/04/17 10:15:19]: Mac Address = 00-50-56-c0-00-01
+[07/04/17 10:15:19]: COM-PC: server created on all interfaces [5653]
+[07/04/17 10:15:19]: System: s7.3.1 Mar 12 2012
+[07/04/17 10:15:19]: Configuration Version: c1.009 
+[07/04/17 10:15:19]: Option testMode: enabled 
+[07/04/17 10:15:19]: Option VAL 3: enabled 
+[07/04/17 10:15:19]: Option uniVAL: enabled 
+[07/04/17 10:15:19]: Machine Number: ? 
+[07/04/17 10:15:19]: Arm: tx60-S1-R3 floor
+[07/04/17 10:15:19]: Arm serial number: ? 
+[07/04/17 10:15:19]: Robot name:  
+[07/04/17 10:15:19]: EP: s7.3.1 Mar  6 2012
+[07/04/17 10:15:19]: SCA: s7.3.1 Mar  6 2012
+[07/04/17 10:15:19]: PLC: s7.3.1 Mar  6 2012
+[07/04/17 10:15:19]: New profile : default
+[07/04/17 10:15:19]: End of controller initialization
+[07/04/17 10:15:19]: End of arm power shutdown phase.
+[07/04/17 10:15:19]: COM-PC: create session 127.0.0.1 on port 3175 id=#41901368
+[07/04/17 10:15:20]: Internal error MCP-NoAnswer: char 1
+[07/04/17 10:15:26]: MCP communication disconnected
+[07/04/17 10:15:28]: Mcp = TSimulated
+[07/04/17 10:15:28]: Mcp communication established
+[07/04/17 10:15:28]: Working mode:automatic.
+[07/04/17 10:15:36]: COM-PC: destroy session 127.0.0.1 on port 3175 id=#41901368
+[07/04/17 10:15:40]: Project D:\Archivos de programa\Staubli\SRS\TX60\CS8C\usr/usrapp/RemoteAxisCtrl saved.
+[07/04/17 10:15:41]: Deadman validated
+[07/04/17 10:15:41]: Settling arm power...
+[07/04/17 10:15:42]: Arm power settled.
+[07/04/17 10:15:45]: RemoteAxisCtrl application started
+[07/04/17 10:15:48]: COM-PC: create session 127.0.0.1 on port 3210 id=#41902304
+[07/04/17 10:15:56]: Deadman enabled.
+[07/04/17 10:18:05]: RemoteAxisCtrl application stopped
+[07/04/17 10:20:39]: RemoteAxisCtrl application started
+[07/04/17 10:24:42]: RemoteAxisCtrl application stopped
+[07/04/17 10:35:15]: COM-PC: destroy session 127.0.0.1 on port 3210 id=#41902304
+[07/04/17 10:53:19]: -----------------------------------------------
+[07/04/17 10:53:19]: Logger started
+[07/04/17 10:53:24]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/04/17 10:53:24]: Cycle time set to 0.004s
+[07/04/17 10:53:24]: Simulation cycle time set to 0.1s
+[07/04/17 10:53:24]: Controller IP address could not be updated
+[07/04/17 10:53:24]: STARC : No STARC board detected on PCI.
+[07/04/17 10:53:24]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/04/17 10:53:24]: Power hour count = 15:24:54
+[07/04/17 10:53:24]: Mac Address = 00-50-56-c0-00-01
+[07/04/17 10:53:24]: COM-PC: server created on all interfaces [5653]
+[07/04/17 10:53:24]: System: s7.3.1 Mar 12 2012
+[07/04/17 10:53:24]: Configuration Version: c1.009 
+[07/04/17 10:53:24]: Option testMode: enabled 
+[07/04/17 10:53:24]: Option VAL 3: enabled 
+[07/04/17 10:53:24]: Option uniVAL: enabled 
+[07/04/17 10:53:24]: Machine Number: ? 
+[07/04/17 10:53:24]: Arm: tx60-S1-R3 floor
+[07/04/17 10:53:24]: Arm serial number: ? 
+[07/04/17 10:53:24]: Robot name:  
+[07/04/17 10:53:24]: EP: s7.3.1 Mar  6 2012
+[07/04/17 10:53:24]: SCA: s7.3.1 Mar  6 2012
+[07/04/17 10:53:24]: PLC: s7.3.1 Mar  6 2012
+[07/04/17 10:53:24]: New profile : default
+[07/04/17 10:53:24]: End of controller initialization
+[07/04/17 10:53:24]: System event INTERFACE-Stopped  (Main menu)
+[07/04/17 10:53:24]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/04/17 10:53:24]: COM-PC: create session 127.0.0.1 on port 5679 id=#42216328
+[07/04/17 10:53:24]: End of arm power shutdown phase.
+[07/04/17 10:53:25]: Internal error MCP-NoAnswer: char 1
+[07/04/17 10:53:31]: MCP communication disconnected
+[07/04/17 10:53:33]: Mcp = TSimulated
+[07/04/17 10:53:33]: Mcp communication established
+[07/04/17 10:53:34]: Working mode:automatic.
+[07/04/17 10:53:39]: COM-PC: destroy session 127.0.0.1 on port 5679 id=#42216328
+[07/04/17 10:53:55]: RemoteAxisCtrl application started
+[07/04/17 10:53:59]: Deadman validated
+[07/04/17 10:53:59]: Settling arm power...
+[07/04/17 10:54:00]: Arm power settled.
+[07/04/17 10:54:05]: COM-PC: create session 127.0.0.1 on port 5712 id=#42216016
+[07/04/17 10:54:14]: Deadman enabled.
+[07/04/17 11:13:05]: RemoteAxisCtrl application stopped
+[07/04/17 11:24:02]: Saving controller context...
+[07/04/17 11:24:02]: Controller temperature: 28°C
+[07/04/17 11:24:02]: CPU temperature: 28°C
+[07/04/17 11:30:51]: COM-PC: destroy session 127.0.0.1 on port 5712 id=#42216016
+[07/04/17 11:31:54]: -----------------------------------------------
+[07/04/17 11:31:54]: Logger started
+[07/04/17 11:31:59]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/04/17 11:31:59]: Cycle time set to 0.004s
+[07/04/17 11:31:59]: Simulation cycle time set to 0.1s
+[07/04/17 11:31:59]: Controller IP address could not be updated
+[07/04/17 11:31:59]: STARC : No STARC board detected on PCI.
+[07/04/17 11:31:59]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/04/17 11:31:59]: Power hour count = 15:54:52
+[07/04/17 11:31:59]: Mac Address = 00-50-56-c0-00-01
+[07/04/17 11:31:59]: COM-PC: server created on all interfaces [5653]
+[07/04/17 11:31:59]: System: s7.3.1 Mar 12 2012
+[07/04/17 11:31:59]: Configuration Version: c1.009 
+[07/04/17 11:31:59]: Option testMode: enabled 
+[07/04/17 11:31:59]: Option VAL 3: enabled 
+[07/04/17 11:31:59]: Option uniVAL: enabled 
+[07/04/17 11:31:59]: Machine Number: ? 
+[07/04/17 11:31:59]: Arm: tx60-S1-R3 floor
+[07/04/17 11:31:59]: Arm serial number: ? 
+[07/04/17 11:31:59]: Robot name:  
+[07/04/17 11:31:59]: EP: s7.3.1 Mar  6 2012
+[07/04/17 11:31:59]: SCA: s7.3.1 Mar  6 2012
+[07/04/17 11:31:59]: PLC: s7.3.1 Mar  6 2012
+[07/04/17 11:31:59]: New profile : default
+[07/04/17 11:31:59]: End of controller initialization
+[07/04/17 11:31:59]: System event INTERFACE-Stopped  (Main menu)
+[07/04/17 11:31:59]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/04/17 11:31:59]: COM-PC: create session 127.0.0.1 on port 9593 id=#41507944
+[07/04/17 11:31:59]: End of arm power shutdown phase.
+[07/04/17 11:32:00]: Internal error MCP-NoAnswer: char 1
+[07/04/17 11:32:07]: MCP communication disconnected
+[07/04/17 11:32:08]: Mcp = TSimulated
+[07/04/17 11:32:08]: Mcp communication established
+[07/04/17 11:32:09]: Working mode:automatic.
+[07/04/17 11:32:12]: COM-PC: destroy session 127.0.0.1 on port 9593 id=#41507944
+[07/04/17 11:32:52]: MCP communication disconnected
+[07/05/17 12:05:57]: -----------------------------------------------
+[07/05/17 12:05:57]: Logger started
+[07/05/17 12:06:02]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/05/17 12:06:02]: Cycle time set to 0.004s
+[07/05/17 12:06:02]: Simulation cycle time set to 0.1s
+[07/05/17 12:06:02]: Controller IP address could not be updated
+[07/05/17 12:06:02]: STARC : No STARC board detected on PCI.
+[07/05/17 12:06:02]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/05/17 12:06:02]: Power hour count = 15:54:52
+[07/05/17 12:06:02]: Mac Address = 00-50-56-c0-00-01
+[07/05/17 12:06:02]: COM-PC: server created on all interfaces [5653]
+[07/05/17 12:06:02]: System: s7.3.1 Mar 12 2012
+[07/05/17 12:06:02]: Configuration Version: c1.009 
+[07/05/17 12:06:02]: Option testMode: enabled 
+[07/05/17 12:06:02]: Option VAL 3: enabled 
+[07/05/17 12:06:02]: Option uniVAL: enabled 
+[07/05/17 12:06:02]: Machine Number: ? 
+[07/05/17 12:06:02]: Arm: tx60-S1-R3 floor
+[07/05/17 12:06:02]: Arm serial number: ? 
+[07/05/17 12:06:02]: Robot name:  
+[07/05/17 12:06:02]: EP: s7.3.1 Mar  6 2012
+[07/05/17 12:06:02]: SCA: s7.3.1 Mar  6 2012
+[07/05/17 12:06:02]: PLC: s7.3.1 Mar  6 2012
+[07/05/17 12:06:02]: New profile : default
+[07/05/17 12:06:02]: End of controller initialization
+[07/05/17 12:06:02]: System event INTERFACE-Stopped  (Main menu)
+[07/05/17 12:06:02]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/05/17 12:06:02]: End of arm power shutdown phase.
+[07/05/17 12:06:02]: COM-PC: create session 127.0.0.1 on port 3664 id=#41631304
+[07/05/17 12:06:03]: Internal error MCP-NoAnswer: char 1
+[07/05/17 12:06:09]: MCP communication disconnected
+[07/05/17 12:06:11]: Mcp = TSimulated
+[07/05/17 12:06:11]: Mcp communication established
+[07/05/17 12:06:11]: Working mode:automatic.
+[07/05/17 12:06:22]: COM-PC: destroy session 127.0.0.1 on port 3664 id=#41631304
+[07/05/17 12:06:40]: Deadman validated
+[07/05/17 12:06:40]: Settling arm power...
+[07/05/17 12:06:41]: Arm power settled.
+[07/05/17 12:06:43]: RemoteAxisCtrl application started
+[07/05/17 12:06:51]: COM-PC: create session 127.0.0.1 on port 3727 id=#41627872
+[07/05/17 12:06:55]: Deadman enabled.
+[07/05/17 12:08:18]: RemoteAxisCtrl application stopped
+[07/05/17 12:10:58]: RemoteAxisCtrl application started
+[07/05/17 12:13:21]: RemoteAxisCtrl application stopped
+[07/05/17 12:13:24]: RemoteAxisCtrl application started
+[07/05/17 12:16:46]: RemoteAxisCtrl application stopped
+[07/05/17 12:16:57]: MCP communication disconnected
+[07/05/17 12:16:57]: Arm power shutdown: working mode change.
+[07/05/17 12:16:57]: Arm power shutdown...
+[07/05/17 13:34:11]: -----------------------------------------------
+[07/05/17 13:34:11]: Logger started
+[07/05/17 13:34:16]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/05/17 13:34:16]: Cycle time set to 0.004s
+[07/05/17 13:34:16]: Simulation cycle time set to 0.1s
+[07/05/17 13:34:16]: Controller IP address could not be updated
+[07/05/17 13:34:16]: STARC : No STARC board detected on PCI.
+[07/05/17 13:34:16]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/05/17 13:34:16]: Power hour count = 15:54:52
+[07/05/17 13:34:16]: Mac Address = 00-50-56-c0-00-01
+[07/05/17 13:34:16]: COM-PC: server created on all interfaces [5653]
+[07/05/17 13:34:16]: System: s7.3.1 Mar 12 2012
+[07/05/17 13:34:16]: Configuration Version: c1.009 
+[07/05/17 13:34:16]: Option testMode: enabled 
+[07/05/17 13:34:16]: Option VAL 3: enabled 
+[07/05/17 13:34:16]: Option uniVAL: enabled 
+[07/05/17 13:34:16]: Machine Number: ? 
+[07/05/17 13:34:16]: Arm: tx60-S1-R3 floor
+[07/05/17 13:34:16]: Arm serial number: ? 
+[07/05/17 13:34:16]: Robot name:  
+[07/05/17 13:34:16]: EP: s7.3.1 Mar  6 2012
+[07/05/17 13:34:16]: SCA: s7.3.1 Mar  6 2012
+[07/05/17 13:34:16]: PLC: s7.3.1 Mar  6 2012
+[07/05/17 13:34:16]: New profile : default
+[07/05/17 13:34:16]: End of controller initialization
+[07/05/17 13:34:16]: System event INTERFACE-Stopped  (Main menu)
+[07/05/17 13:34:16]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/05/17 13:34:16]: COM-PC: create session 127.0.0.1 on port 8657 id=#41761888
+[07/05/17 13:34:16]: End of arm power shutdown phase.
+[07/05/17 13:34:17]: Internal error MCP-NoAnswer: char 1
+[07/05/17 13:34:23]: MCP communication disconnected
+[07/05/17 13:34:25]: Mcp = TSimulated
+[07/05/17 13:34:25]: Mcp communication established
+[07/05/17 13:34:25]: Working mode:automatic.
+[07/05/17 13:34:32]: COM-PC: destroy session 127.0.0.1 on port 8657 id=#41761888
+[07/05/17 13:34:37]: COM-PC: create session 127.0.0.1 on port 8681 id=#41763032
+[07/05/17 13:34:42]: Deadman validated
+[07/05/17 13:34:42]: Settling arm power...
+[07/05/17 13:34:43]: Arm power settled.
+[07/05/17 13:34:44]: RemoteAxisCtrl application started
+[07/05/17 13:34:57]: Deadman enabled.
+[07/05/17 13:43:01]: RemoteAxisCtrl application stopped
+[07/05/17 13:43:14]: RemoteAxisCtrl application started
+[07/05/17 13:45:18]: RemoteAxisCtrl application stopped
+[07/05/17 13:49:08]: RemoteAxisCtrl application started
+[07/05/17 13:51:18]: RemoteAxisCtrl application stopped
+[07/05/17 13:52:41]: COM-PC: destroy session 127.0.0.1 on port 8681 id=#41763032
+[07/06/17 10:14:54]: -----------------------------------------------
+[07/06/17 10:14:54]: Logger started
+[07/06/17 10:14:59]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/06/17 10:14:59]: Cycle time set to 0.004s
+[07/06/17 10:14:59]: Simulation cycle time set to 0.1s
+[07/06/17 10:14:59]: Controller IP address could not be updated
+[07/06/17 10:14:59]: STARC : No STARC board detected on PCI.
+[07/06/17 10:14:59]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/06/17 10:14:59]: Power hour count = 15:54:52
+[07/06/17 10:14:59]: Mac Address = 00-50-56-c0-00-01
+[07/06/17 10:14:59]: COM-PC: server created on all interfaces [5653]
+[07/06/17 10:14:59]: System: s7.3.1 Mar 12 2012
+[07/06/17 10:14:59]: Configuration Version: c1.009 
+[07/06/17 10:14:59]: Option testMode: enabled 
+[07/06/17 10:14:59]: Option VAL 3: enabled 
+[07/06/17 10:14:59]: Option uniVAL: enabled 
+[07/06/17 10:14:59]: Machine Number: ? 
+[07/06/17 10:14:59]: Arm: tx60-S1-R3 floor
+[07/06/17 10:14:59]: Arm serial number: ? 
+[07/06/17 10:14:59]: Robot name:  
+[07/06/17 10:14:59]: EP: s7.3.1 Mar  6 2012
+[07/06/17 10:14:59]: SCA: s7.3.1 Mar  6 2012
+[07/06/17 10:14:59]: PLC: s7.3.1 Mar  6 2012
+[07/06/17 10:14:59]: New profile : default
+[07/06/17 10:14:59]: End of controller initialization
+[07/06/17 10:14:59]: System event INTERFACE-Stopped  (Main menu)
+[07/06/17 10:14:59]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[07/06/17 10:14:59]: COM-PC: create session 127.0.0.1 on port 2790 id=#49838072
+[07/06/17 10:15:00]: End of arm power shutdown phase.
+[07/06/17 10:15:00]: Internal error MCP-NoAnswer: char 1
+[07/06/17 10:15:06]: MCP communication disconnected
+[07/06/17 10:15:08]: Mcp = TSimulated
+[07/06/17 10:15:08]: Mcp communication established
+[07/06/17 10:15:09]: Working mode:automatic.
+[07/06/17 10:15:17]: COM-PC: destroy session 127.0.0.1 on port 2790 id=#49838072
+[07/06/17 10:15:28]: MCP communication disconnected
+[07/06/17 10:15:30]: -----------------------------------------------
+[07/06/17 10:15:30]: Logger started
+[07/06/17 10:15:34]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/06/17 10:15:34]: Cycle time set to 0.004s
+[07/06/17 10:15:34]: Simulation cycle time set to 0.1s
+[07/06/17 10:15:34]: Controller IP address could not be updated
+[07/06/17 10:15:34]: STARC : No STARC board detected on PCI.
+[07/06/17 10:15:34]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/06/17 10:15:34]: Power hour count = 15:54:52
+[07/06/17 10:15:34]: Mac Address = 00-50-56-c0-00-01
+[07/06/17 10:15:34]: COM-PC: server created on all interfaces [5653]
+[07/06/17 10:15:34]: System: s7.3.1 Mar 12 2012
+[07/06/17 10:15:34]: Configuration Version: c1.009 
+[07/06/17 10:15:34]: Option testMode: enabled 
+[07/06/17 10:15:34]: Option VAL 3: enabled 
+[07/06/17 10:15:34]: Option uniVAL: enabled 
+[07/06/17 10:15:34]: Machine Number: ? 
+[07/06/17 10:15:34]: Arm: tx60-S1-R3 floor
+[07/06/17 10:15:34]: Arm serial number: ? 
+[07/06/17 10:15:34]: Robot name:  
+[07/06/17 10:15:34]: EP: s7.3.1 Mar  6 2012
+[07/06/17 10:15:34]: SCA: s7.3.1 Mar  6 2012
+[07/06/17 10:15:34]: PLC: s7.3.1 Mar  6 2012
+[07/06/17 10:15:34]: New profile : default
+[07/06/17 10:15:34]: End of controller initialization
+[07/06/17 10:15:34]: System event INTERFACE-Stopped  (Calibration)
+[07/06/17 10:15:34]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[07/06/17 10:15:35]: End of arm power shutdown phase.
+[07/06/17 10:15:36]: Internal error MCP-NoAnswer: char 1
+[07/06/17 10:15:42]: MCP communication disconnected
+[07/06/17 10:15:44]: Mcp = TSimulated
+[07/06/17 10:15:44]: Mcp communication established
+[07/06/17 10:15:45]: Working mode:automatic.
+[07/06/17 10:17:02]: -----------------------------------------------
+[07/06/17 10:17:02]: Logger started
+[07/06/17 10:17:06]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[07/06/17 10:17:06]: Cycle time set to 0.004s
+[07/06/17 10:17:06]: Simulation cycle time set to 0.1s
+[07/06/17 10:17:06]: Controller IP address could not be updated
+[07/06/17 10:17:06]: STARC : No STARC board detected on PCI.
+[07/06/17 10:17:06]: Cannot load uniVAL driver files: .\sys/uniVAL
+[07/06/17 10:17:06]: Power hour count = 15:54:52
+[07/06/17 10:17:06]: Mac Address = 00-50-56-c0-00-01
+[07/06/17 10:17:06]: COM-PC: server created on all interfaces [5653]
+[07/06/17 10:17:06]: System: s7.3.1 Mar 12 2012
+[07/06/17 10:17:06]: Configuration Version: c1.009 
+[07/06/17 10:17:06]: Option testMode: enabled 
+[07/06/17 10:17:06]: Option VAL 3: enabled 
+[07/06/17 10:17:06]: Option uniVAL: enabled 
+[07/06/17 10:17:06]: Machine Number: ? 
+[07/06/17 10:17:06]: Arm: tx60-S1-R3 floor
+[07/06/17 10:17:06]: Arm serial number: ? 
+[07/06/17 10:17:06]: Robot name:  
+[07/06/17 10:17:06]: EP: s7.3.1 Mar  6 2012
+[07/06/17 10:17:06]: SCA: s7.3.1 Mar  6 2012
+[07/06/17 10:17:06]: PLC: s7.3.1 Mar  6 2012
+[07/06/17 10:17:06]: New profile : default
+[07/06/17 10:17:06]: End of controller initialization
+[07/06/17 10:17:06]: System event INTERFACE-Stopped  (Calibration)
+[07/06/17 10:17:06]: System event INTERFACE-Stopped  (Calibration). 4 events lost.
+[07/06/17 10:17:07]: End of arm power shutdown phase.
+[07/06/17 10:17:08]: Internal error MCP-NoAnswer: char 1
+[07/06/17 10:17:15]: MCP communication disconnected
+[07/06/17 10:17:16]: Mcp = TSimulated
+[07/06/17 10:17:16]: Mcp communication established
+[07/06/17 10:17:16]: Working mode:automatic.
+[08/05/17 14:21:14]: -----------------------------------------------
+[08/05/17 14:21:14]: Logger started
+[08/05/17 14:21:18]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[08/05/17 14:21:18]: Cycle time set to 0.004s
+[08/05/17 14:21:18]: Simulation cycle time set to 0.1s
+[08/05/17 14:21:18]: Controller IP address could not be updated
+[08/05/17 14:21:18]: STARC : No STARC board detected on PCI.
+[08/05/17 14:21:18]: Cannot load uniVAL driver files: .\sys/uniVAL
+[08/05/17 14:21:18]: Power hour count = 15:54:52
+[08/05/17 14:21:18]: Mac Address = 00-50-56-c0-00-01
+[08/05/17 14:21:18]: COM-PC: server created on all interfaces [5653]
+[08/05/17 14:21:18]: System: s7.3.1 Mar 12 2012
+[08/05/17 14:21:18]: Configuration Version: c1.009 
+[08/05/17 14:21:18]: Option testMode: enabled 
+[08/05/17 14:21:18]: Option VAL 3: enabled 
+[08/05/17 14:21:18]: Option uniVAL: enabled 
+[08/05/17 14:21:18]: Machine Number: ? 
+[08/05/17 14:21:18]: Arm: tx60-S1-R3 floor
+[08/05/17 14:21:18]: Arm serial number: ? 
+[08/05/17 14:21:18]: Robot name:  
+[08/05/17 14:21:18]: EP: s7.3.1 Mar  6 2012
+[08/05/17 14:21:18]: SCA: s7.3.1 Mar  6 2012
+[08/05/17 14:21:18]: PLC: s7.3.1 Mar  6 2012
+[08/05/17 14:21:18]: New profile : default
+[08/05/17 14:21:18]: End of controller initialization
+[08/05/17 14:21:18]: System event INTERFACE-Stopped  (Main menu)
+[08/05/17 14:21:18]: System event INTERFACE-Stopped  (Main menu). 2 events lost.
+[08/05/17 14:21:19]: End of arm power shutdown phase.
+[08/05/17 14:21:19]: COM-PC: create session 127.0.0.1 on port 11874 id=#41901888
+[08/05/17 14:21:19]: Internal error MCP-NoAnswer: char 1
+[08/05/17 14:21:25]: MCP communication disconnected
+[08/05/17 14:21:27]: Mcp = TSimulated
+[08/05/17 14:21:27]: Mcp communication established
+[08/05/17 14:21:28]: Working mode:automatic.
+[08/05/17 14:21:37]: COM-PC: destroy session 127.0.0.1 on port 11874 id=#41901888
+[08/05/17 14:23:10]: COM-PC: create session 127.0.0.1 on port 11965 id=#41900952
+[08/05/17 14:23:27]: COM-PC: destroy session 127.0.0.1 on port 11965 id=#41900952
+[08/05/17 14:24:51]: Working mode:manual.
+[08/05/17 14:24:52]: Working mode:test.
+[08/05/17 14:24:53]: Working mode:remote.
+[08/05/17 14:24:54]: Saving controller context...
+[08/05/17 14:24:54]: Controller temperature: 28°C
+[08/05/17 14:24:54]: CPU temperature: 28°C
+[08/05/17 14:24:55]: Working mode:automatic.
+[08/05/17 14:24:59]: Saving controller context...
+[08/05/17 14:25:40]: Deadman validated
+[08/05/17 14:25:40]: Settling arm power...
+[08/05/17 14:25:41]: Arm power settled.
+[08/05/17 14:25:55]: Deadman enabled.
+[08/05/17 14:27:15]: RemoteAxisCtrl application started
+[08/05/17 14:28:29]: COM-PC: create session 127.0.0.1 on port 12200 id=#41903968
+[08/05/17 14:29:38]: MCP communication disconnected
+[08/05/17 14:29:38]: Arm power shutdown: working mode change.
+[08/05/17 14:29:38]: Arm power shutdown...
+[08/05/17 14:29:39]: End of arm power shutdown phase.
