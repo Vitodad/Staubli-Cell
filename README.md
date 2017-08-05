@@ -4,8 +4,10 @@ Archivos para configurar la celda del robot TX60 y el emulador CS8C para el prog
 
 TFM 
 
-  Titulo: Diseño de un sistema de guiado de robots mediante la adquisición de señales EEG \n
-  Autor: Javier Dadone \n
+  Titulo: Diseño de un sistema de guiado de robots mediante la adquisición de señales EEG
+  
+  Autor: Javier Dadone
+  
   Tutor: Eduardo Quiles Cucarella
 
   Universidad Politécnica de Valencia
